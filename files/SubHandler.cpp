@@ -110,15 +110,22 @@ void SubHandler::moveSubtitles(double seconds)
     else if(_file.type == utils::SubType::SRT)
     {
         size_t i = 0;
-        std::regex re("(\\d{2}):(\\d{2}):(\\d{2}),(\\d{3})");
+        std::regex re("(\\d{2}):(\\d{2}):(\\d{2}),(\\d{3}) --> (\\d{2}):(\\d{2}):(\\d{2}),(\\d{3})");
         std::smatch match;
-        utils::TimeSrd begin, end;
+        utils::TimeSrt begin, end;
 
-        for(auto &line : file_content)
+        for(auto &line : _file.content)
         {
             if(i % 4 == 1 && std::regex_search(line, match, re))
             {
-
+                begin = {stoul(match.str(1)),
+                         stoul(match.str(2)),
+                         stoul(match.str(3)),
+                         stoul(match.str(4))};
+                end = {stoul(match.str(5)),
+                       stoul(match.str(6)),
+                       stoul(match.str(7)),
+                       stoul(match.str(8))};
             }
         }
     }
