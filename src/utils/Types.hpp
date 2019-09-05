@@ -13,10 +13,10 @@ enum class SubType
 
 struct TimeSrt
 {
-    uint8_t h;
-    uint8_t m;
-    uint8_t s;
-    uint16_t f;
+    uint8_t _h;
+    uint8_t _m;
+    uint8_t _s;
+    uint16_t _f;
 
     std::string toString() const;
     void addSeconds(double seconds);

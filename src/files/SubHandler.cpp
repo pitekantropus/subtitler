@@ -1,5 +1,6 @@
 #include <files/SubHandler.hpp>
 #include <utils/Types.hpp>
+#include <utils/Functions.hpp>
 
 #include <fstream>
 #include <cstdio>
@@ -118,14 +119,14 @@ void SubHandler::moveSubtitles(double seconds)
         {
             if(i % 4 == 1 && std::regex_search(line, match, re))
             {
-                begin = {stoul(match.str(1)),
-                         stoul(match.str(2)),
-                         stoul(match.str(3)),
-                         stoul(match.str(4))};
-                end = {stoul(match.str(5)),
-                       stoul(match.str(6)),
-                       stoul(match.str(7)),
-                       stoul(match.str(8))};
+                begin = {utils::stringToNumber<uint8_t>(match.str(1)),
+                         utils::stringToNumber<uint8_t>(match.str(2)),
+                         utils::stringToNumber<uint8_t>(match.str(3)),
+                         utils::stringToNumber<uint16_t>(match.str(4))};
+                end = {utils::stringToNumber<uint8_t>(match.str(5)),
+                       utils::stringToNumber<uint8_t>(match.str(6)),
+                       utils::stringToNumber<uint8_t>(match.str(7)),
+                       utils::stringToNumber<uint16_t>(match.str(8))};
             }
         }
     }
