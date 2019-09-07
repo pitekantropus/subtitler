@@ -88,15 +88,15 @@ void SubHandler::saveFile() const
 
 void SubHandler::moveSubtitles(double seconds)
 {
-    const double FPS = 23.97;
-    const int diff = static_cast<int>(seconds * FPS);
-    std::regex re("\\{(\\d+)\\}\\{(\\d+)\\}");
-    std::smatch match;
-    uint32_t begin = 0;
-    uint32_t end = 0;
-
     if(_file.type == utils::SubType::MICRO_DVD)
     {
+        const double FPS = 23.97;
+        const int diff = static_cast<int>(seconds * FPS);
+        std::regex re("\\{(\\d+)\\}\\{(\\d+)\\}");
+        std::smatch match;
+        uint32_t begin = 0;
+        uint32_t end = 0;
+
         for(auto &line : _file.content)
         {
             if(std::regex_search(line, match, re))
@@ -117,16 +117,20 @@ void SubHandler::moveSubtitles(double seconds)
 
         for(auto &line : _file.content)
         {
-            if(i % 4 == 1 && std::regex_search(line, match, re))
+            if(std::regex_search(line, match, re))
             {
-                begin = {utils::stringToNumber<uint8_t>(match.str(1)),
-                         utils::stringToNumber<uint8_t>(match.str(2)),
-                         utils::stringToNumber<uint8_t>(match.str(3)),
+                begin = {utils::stringToNumber<uint16_t>(match.str(1)),
+                         utils::stringToNumber<uint16_t>(match.str(2)),
+                         utils::stringToNumber<uint16_t>(match.str(3)),
                          utils::stringToNumber<uint16_t>(match.str(4))};
-                end = {utils::stringToNumber<uint8_t>(match.str(5)),
-                       utils::stringToNumber<uint8_t>(match.str(6)),
-                       utils::stringToNumber<uint8_t>(match.str(7)),
+                std::cout<<"matched: "<<begin.toString()<<std::endl;
+                end = {utils::stringToNumber<uint16_t>(match.str(5)),
+                       utils::stringToNumber<uint16_t>(match.str(6)),
+                       utils::stringToNumber<uint16_t>(match.str(7)),
                        utils::stringToNumber<uint16_t>(match.str(8))};
+                begin.addSeconds(seconds);
+                end.addSeconds(seconds);
+                line = begin.toString() + " --> " + end.toString();
             }
         }
     }
@@ -134,6 +138,11 @@ void SubHandler::moveSubtitles(double seconds)
     {
         throw std::string("Unsupported format for moving");
     }
+}
+
+void SubHandler::scaleSubtitles(double scale)
+{
+
 }
 
 }

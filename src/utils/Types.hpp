@@ -13,9 +13,9 @@ enum class SubType
 
 struct TimeSrt
 {
-    uint8_t _h;
-    uint8_t _m;
-    uint8_t _s;
+    uint16_t _h;
+    uint16_t _m;
+    uint16_t _s;
     uint16_t _f;
 
     std::string toString() const;
