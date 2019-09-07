@@ -3,16 +3,16 @@
 #include <utils/Types.hpp>
 
 #include <string>
-#include <list>
+#include <vector>
 
-namespace files {
+namespace subHandler {
 
 struct File
 {
     std::string name;
     std::string path;
     std::string extension;
-    std::list<std::string> content;
+    std::vector<std::string> content;
     utils::SubType type;
 };
 

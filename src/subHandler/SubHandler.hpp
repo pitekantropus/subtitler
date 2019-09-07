@@ -1,8 +1,8 @@
 #pragma once
 
-#include <files/File.hpp>
+#include <subHandler/File.hpp>
 
-namespace files {
+namespace subHandler {
 
 class SubHandler
 {
@@ -10,9 +10,10 @@ public:
     SubHandler(const std::string &path);
 
     void saveFile() const;
-    void saveFile(const std::string &path);
-    void moveSubtitles(double seconds);
-    void scaleSubtitles(double scale);
+    void saveFile(const std::string &path) const;
+    void moveSubtitles(double seconds, double FPS);
+    void scaleSubtitles(const std::string &baseScalePoint, const std::string &scalePoint,
+                        double secondsToScale, double FPS);
     void convertTo(utils::SubType type);
 
 private:

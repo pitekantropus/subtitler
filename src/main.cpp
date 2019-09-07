@@ -1,4 +1,4 @@
-#include <files/SubHandler.hpp>
+#include <subHandler/SubHandler.hpp>
 #include <utils/Functions.hpp>
 
 #include <iostream>
@@ -11,6 +11,7 @@ int main(int argc, char **argv)
     std::string baseScalePoint;
     std::string scalePoint;
     double secondsToScale = 0;
+    double FPS = 23.97;
 
     for(size_t i = 1; i < argc; i++)
     {
@@ -39,6 +40,10 @@ int main(int argc, char **argv)
         {
             secondsToScale = std::stod(item.second);
         }
+        else if(item.first == "FPS")
+        {
+            FPS = std::stod(item.second);
+        }
         else
         {
             std::cout<<"Unknown parameter: "<<item.first<<std::endl;
@@ -47,18 +52,11 @@ int main(int argc, char **argv)
 
     try
     {
-        files::SubHandler handler(filePath);
-        handler.moveSubtitles(secondsToMove);
+        subHandler::SubHandler handler(filePath);
+        handler.moveSubtitles(secondsToMove, FPS);
         if(!scalePoint.empty())
         {
-            if(!baseScalePoint.empty())
-            {
-                handler.scaleSubtitles(baseScalePoint, scalePoint, secondsToScale);
-            }
-            else
-            {
-                handler.scaleSubtitles(scalePoint, secondsToScale);
-            }
+            handler.scaleSubtitles(baseScalePoint, scalePoint, secondsToScale, FPS);
         }
         destPath.empty() ? handler.saveFile() : handler.saveFile(destPath);
     }

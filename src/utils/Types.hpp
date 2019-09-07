@@ -20,6 +20,7 @@ struct TimeSrt
 
     std::string toString() const;
     void addSeconds(double seconds);
+    double getSeconds() const;
 };
 
 }

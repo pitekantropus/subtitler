@@ -14,7 +14,7 @@ std::string TimeSrt::toString() const
 
 void TimeSrt::addSeconds(double seconds)
 {
-    double _seconds = _h * 3600 + _m * 60 + _s + _f / 1000.0;
+    double _seconds = getSeconds();
     _seconds += seconds;
 
     uint32_t secondsInt = _seconds;
@@ -23,6 +23,11 @@ void TimeSrt::addSeconds(double seconds)
     _s = secondsInt % 60;
     _m = (secondsInt % 3600) / 60;
     _h = secondsInt / 3600;
+}
+
+double TimeSrt::getSeconds() const
+{
+    return _h * 3600 + _m * 60 + _s + _f / 1000.0;
 }
 
 }
