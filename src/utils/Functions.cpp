@@ -4,19 +4,6 @@
 
 namespace utils {
 
-std::pair<std::string, std::string> tokenize(const std::string &str, const std::string &token)
-{
-    size_t pos = str.find(token);
-    if(pos == std::string::npos)
-    {
-        throw std::string("bad parameter");
-    }
-    std::pair<std::string, std::string> result;
-    result.first = str.substr(0, pos);
-    result.second = str.substr(pos + token.size());
-    return result;
-}
-
 double getSecondsFromString(const std::string &str)
 {
     std::regex hhmmssfff("(\\d{2}):(\\d{2}):(\\d{2})[\\.,](\\d{3})");

@@ -1,7 +1,18 @@
-#include <subHandler/SubHandler.hpp>
-#include <utils/Functions.hpp>
-
+#include <../interface/SubHandler.hpp>
 #include <iostream>
+
+std::pair<std::string, std::string> tokenize(const std::string &str, const std::string &token = "=")
+{
+    size_t pos = str.find(token);
+    if(pos == std::string::npos)
+    {
+        throw std::string("bad parameter");
+    }
+    std::pair<std::string, std::string> result;
+    result.first = str.substr(0, pos);
+    result.second = str.substr(pos + token.size());
+    return result;
+}
 
 int main(int argc, char **argv)
 {
@@ -15,7 +26,7 @@ int main(int argc, char **argv)
 
     for(size_t i = 1; i < argc; i++)
     {
-        auto item = utils::tokenize(argv[i]);
+        auto item = tokenize(argv[i]);
         if(item.first == "filePath")
         {
             filePath = item.second;

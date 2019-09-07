@@ -1,1154 +1,1154 @@
-{225}{270}wystêpuj¹:
-{1379}{1423}re¿yseria:
-{1547}{1614}*stemil99**
-{1726}{1838}KUCHARZ , Z£ODZIEJ , JEGO ¯ONA I JEJ KOCHANEK
-{2465}{2532}ChodŸ i zabierz psy
-{2599}{2667}No chodŸ tu. Mews!
-{2779}{2890}ChodŸ chodŸ. Otwórz buziê.|Otwórz buziê ?
-{2891}{2957}Naucz siê doceniaæ jedzenie., eh?
-{2958}{3069}W porównaniu z tym, co podajesz|w tej twojej ma³ej brudnej sto³ówce,
-{3070}{3137}- to trzygwiazdkowa kolacja.
-{3182}{3248}Musisz poznaæ zasady.
-{3249}{3338}Ja chcê jeœæ i piæ bardzo dobrze,|a to kosztuje.
-{3339}{3405}Czy s³ysza³eœ kiedyœ|o kurczaku a la reine Marie
-{3406}{3450}albo ostrygach w sosie mornay
-{3451}{3517}albo ¿abich udkach Parisienne?
-{3518}{3562}Nie. Jasne, ¿e nie.
-{3563}{3652}Zdejmuj te gacie! Zdejmuj te gacie.
-{3809}{3875}Ojejku jejku jejku.
-{3876}{3965}Tata nie nauczy³ ciê podcieraæ|sobie ty³ka? Co? Eh?
-{3966}{4010}Albert! Zostaw go.
-{4011}{4077}- ChodŸmy zjeœæ.|- O ... chodŸmy.
-{4078}{4189}Zanim zjemy, Georgino,|trzeba nakarmiæ i napoiæ zwierzêta.
-{4190}{4278}Roy! To moja ¿ona, Georgina Spica.
-{4279}{4346}Ma z³ote serce i takie samo cia³o.
-{4347}{4458}Ja jestem Albert Spica i mam serce ze z³ota,|a tyle samo pieniêdzy.
-{4459}{4570}A ty jesteœ Roy, który nie ma absolutnie nic,|Z wyj¹tkiem tego, co mi zawdziêczasz.
-{4571}{4704}Zosta³eœ poni¿ony przed kobiet¹,|zosta³eœ poni¿ony przed nami.
-{4705}{4794}Georgina, bêdê tak szybko,|jak pewnie bêdê móg³.
-{4794}{4906}A ... ty, idŸ i przynieœ mi trochê gor¹cej wody!|Rêcznik i myd³o te¿.
-{4906}{4950}Teraz ...
-{4951}{4996}Taa ...
-{5018}{5107}Teraz po dobrym posi³ku|zas³u¿y³eœ na dobrego drinka.
-{5108}{5174}A teraz, na przysz³oœæ|- p³aæ kiedy ciê poproszê.
-{5175}{5242}- Albo nastêpnym razem ka¿ê ci zjeœæ w³asne gówno.
-{5242}{5331}Po wyciœniêciu go z twojego fiuta,|jak pasty do zêbów.
-{5332}{5443}Nie, zostaw tak, Spangler.|Cor blimey, tu jest pani.
-{5444}{5534}Ona nie chcia³aby na to patrzeæ.
-{5578}{5645}Wystarczy. Dziêkujê bardzo. £adnie, czysto ...
-{5646}{5690}Daj mi ten rêcznik
-{5690}{5757}Daj mi to. Taa.
-{5758}{5869}Nigdy nie lubi³em tej chiñszczyzny|a patrz¹c na ciebie, jeszcze mniej.
-{5870}{5936}Dobra ch³opcy!
-{5937}{6003}Musimy zrobiæ niespodziankê Richardowi|na nasz jubileusz.
-{6004}{6070}Przynieœ papeterie.
-{6071}{6182}Georgie, masz popió³ na cyckach.|Jeœli ubierasz siê na czarno, nie pal.
-{6183}{6272}- Wygl¹dasz jak dziwka w czerni.|- To granat.
-{6273}{6361}To czerñ. I nie pal. To ochydne dla kobiety.
-{6362}{6406}Nikt przed jedzeniem nie pali.
-{6407}{6496}To rujnuje ci smak, parzy jêzyk|i œmierdz¹ ci od tego szczochy.
-{6497}{6563}- Bzdury.|- To nie g³upie bzdury.
-{6564}{6630}W¹cha³em klopa po tym,|jak tam la³aœ.
-{6631}{6721}Kiedy ty siê nauczysz, m¹dralo?
-{6922}{7012}ChodŸcie, pospieszcie siê ch³opcy.
-{7124}{7191}Policz to dok³adnie
-{8199}{8243}Gdzie jest Richard?
-{8244}{8310}- Skubie.|- Skubie? Richard!
-{8311}{8377}Gdzie jesteœ?|Doœæ tego skubania. Gdzie jesteœ?
-{8378}{8445}A to co? A-S-P ...
-{8446}{8557}To nonsens. Przeliteruj to, na litoœæ bosk¹.
-{8558}{8646}Jasna cholera. Richard! Rich ... A!
-{8647}{8713}Tu jesteœ. Teraz ...
-{8714}{8781}Zostaw to, chodŸ i zobacz|co dla ciebie mam.
-{8782}{8870}Przynios³em ci prezent.|To nasz jubileusz.
-{8871}{8937}Trzy miesi¹ce wzajemnego zrozumienia,|co, Richard?
-{8938}{9072}Trzy miesi¹ce odk¹d zosta³eœ moim|ulubionym restauratorem.
-{9073}{9140}Mr. Spica, to jest kaczka.
-{9162}{9206}Kaczki rodz¹ siê z piórami.
-{9207}{9273}Ale to jest pana obiad, Mr. Spica.
-{9274}{9385}Jeœli pan chce ¿eby zosta³a z piórami,|mo¿emy j¹ tak podaæ,
-{9386}{9475}Ale myœlê, ¿e lepiej je usun¹æ.
-{9476}{9543}Canard en ses plumes torche.
-{9565}{9609}Mitchel, ty oœle.
-{9610}{9677}Richard, chodŸ zobacz, no chodŸ.
-{9677}{9745}Proszê, b³agam ciê. ChodŸ.
-{9789}{9901}Georgina, ile razy ci mówi³em?|Nie paliæ w kuchni.
-{9901}{9991}- Mitchel, rusz tu ty³ek, szybko.
-{10013}{10148}Teraz, Richard, to jest twoje ...|no, nasze nowe logo.
-{10394}{10460}Szlag by to trafi³ ...
-{10461}{10506}Richard.
-{10551}{10617}-- W restauracji jest ciemno.|- Tak, Phillipie.
-{10618}{10730}Dziêki hojnoœci pana Spica,|wszêdzie jest ciemno.
-{10775}{10842}Nie ma pr¹du, nie ma œwiat³a.
-{10887}{10998}- Myœla³ pan o zimnym bufecie dziœ wieczorem?|- Ale ja nie chcê zimnego bufetu.
-{10999}{11155}- Paté d'alouettes w sosie z cykorii.|- Paté d'alouettes w sosie z cykorii.
-{11156}{11244}- Terrine de caneton.|- Terrine de caneton.
-{11245}{11379}- Indyk na zimno z cytryn¹ i bazyli¹.|- Indyk na zimno z cytryn¹ i bazyli¹.
-{11380}{11424}Anchovies w occie czosnkowym.
-{11425}{11537}Nie musi byæ zimny,|macie tu gaz, do cholery!
-{11581}{11670}Jej ty³ek jest|jak dwa dojrza³e arbuzy w worku.
-{11671}{11737}Kurczak na zimno, paté d'alouettes,
-{11738}{11827}Salade de langoustine,|gâteau de carottes et Gruyére ...
-{11828}{11939}Ty. Ty im zrób elektrykê, Mitchel.|Napraw to albo ...
-{11940}{11984}... nie dostaniesz jeœæ.
-{11985}{12052}Nie dostaniesz jeœæ.
-{12097}{12164}Mówi³em ci nie pal.
-{12186}{12252}Powinienem siê chyba nie ruszaæ, Mr. Spica.|Bo kto wie?
-{12253}{12342}Jeszcze coœ zepsujê,|albo w³o¿ê pana jedzenie do czegoœ.
-{12343}{12454}A wiêc, gor¹cy posi³ek dziœ wieczorem.|Coœ specjalnego, proszê. Mo¿e ...
-{12455}{12544}e ... les oh d'oeuvres, albo, gâteau au poivres,
-{12545}{12656}albo, terrine et fillet lamb et poison au er, poi, poi ...
-{12657}{12745}- To ''syf jakiœ''.|- Co powiedzia³aœ, Georgie?
-{12746}{12812}Co powiedzia³aœ? Co powiedzia³aœ?
-{12813}{12881}Obrzydlistwo.
-{12993}{13149}- No, panie Spica, mam nadziejê, ¿e jest pan g³odny.|- Zawsze. Idziemy, ch³opcy.
-{13194}{13351}No ju¿, Georgie, idŸ tam,|zadrzyj kieckê i zagrzej mi siedzenie.
-{13396}{13485}No to jak myœlisz, he? Co zrobisz ...?
-{13597}{13686}Jeœli poœwiêca pan tyle pieniêdzy|na jedzenie, Mr. Spica,
-{13687}{13753}ile wydaje na dekoracje,
-{13754}{13844}pañskie poczucie smaku musi wzrosn¹æ.
-{13911}{14022}Tylko nie przesadŸ z bezczelnoœci¹, kuchto.|Zale¿ysz ode mnie, nie zapominaj.
-{14023}{14112}Beze mnie, ty, obcokrajowiec,|nie utrzyma³byœ siê tu zbyt d³ugo.
-{14112}{14156}Popatrz, co mam dla ciebie.
-{14157}{14246}Dwie ciê¿arówki pe³ne dobrych rzeczy,|wystarczy do twojej kuchni.
-{14247}{14336}- I nie dotkn¹³bym tego.|- A czemu¿ to nie?
-{14336}{14425}Nalegam, ¿ebym sam kupowa³ jedzenie, Mr. Spica.
-{14426}{14492}Wtedy mogê byæ pewien jego jakoœci.
-{14493}{14582}Ja tutaj reprezentujê jakoœæ,|moje nazwisko jest z tego znane.
-{14583}{14650}Zapewniam jakoœæ i protekcjê.
-{14672}{14783}Protekcjê przed czym,|zastanawiam siê, Mr. Spica? I kim?
-{14784}{14895}Protekcjê przed nadmiernym|temperamentem moich ludzi.
-{14896}{14986}Przed nag³ym zatruciem pokarmowym.
-{15008}{15119}Przed szczurami. Przed inspektorami sanepidu.
-{15120}{15209}Jeœli jest pan g³odny dzisiaj,|to bêdzie pan musia³ poczekaæ.
-{15210}{15321}Niech pan zapnie trzeci guzik|pañskiej drogiej marynarki, Mr. Spica.
-{15322}{15434}Poczuje siê pan mniej|pusty w œrodku, Mr. Spica.
-{15456}{15524}Nie mo¿esz kazaæ mi czekaæ.
-{18503}{18591}Nie, tak siê tego nie je! Poka¿ê ci.
-{18592}{18681}Oh. WyobraŸ sobie, ¿e ssiesz|drobne paluszki pewnej pani albo ...
-{18682}{18815}Nie, nigdy tak blisko nie bêdziesz z kobiet¹.|Kto by chcia³ siê do ciebie zbli¿yæ?
-{18816}{18905}- Nie interesowa³yby mnie jej palce.|- Spodziewa³em siê, ¿e to powiesz.
-{18906}{18994}Ty byœ tylko wpycha³ to i wypycha³|I wytrzyj sobie marynarkê.
-{18995}{19062}Popatrz na swoj¹ marynarkê,|jak œwiñska zagroda.
-{19063}{19174}I móg³byœ sobie wyczyœciæ paznokcie. Poka¿.
-{19175}{19286}Czemu ja nie mogê mieæ odrobiny pieprzonej|jakoœci ko³o siebie?
-{19287}{19375}Od teraz ka¿dy nieodpowiednio ubrany|do kolacji zap³aci za to.
-{19376}{19487}Ju¿ ja was nauczê.|Georgina wam to przepisze.
-{19488}{19599}''Uwagi Dla Gourmets''. To po francusku|dla smakoszy, nie, kuchto?
-{19600}{19689}- Gourmets nie bekaj¹.|- Przeciwnie, przeciwnie. Robi¹ to.
-{19690}{19756}To pokazuje, ¿e cieszysz siê posi³kiem.
-{19757}{19847}Nie palcami, Spangler!|To zrozumiesz -
-{19869}{19935}jeœæ rêkami to jak chodziæ|po ulicy w³asnych na rêkach.
-{19936}{20002}Kaza³eœ Mewsowi jeœæ seler palcami.
-{20003}{20114}To co innego, durniu.|I to jest szparag, nie seler.
-{20115}{20249}Co za sens topiæ tysi¹ce w restauracjê,|skoro nie chcesz jeœæ poprawnie?
-{20250}{20338}- Powiedz im, Georgina.|- Co im powiedzieæ?
-{20339}{20450}Po prostu kopiujcie Georginê. Ona wie jak.|Cory, daj tutaj Richarda.
-{20451}{20540}Chcê ¿eby moje logo by³o przymocowane|i daj je na tê œcianê nad drzwiami kuchni.
-{20541}{20674}Gdyby Richard wiêcej myœla³ o sloganach,|robi³by wiêksza kasê, nie?
-{20675}{20719}- To miejsce jest za ciemne.
-{20720}{20809}Móg³by przemalowaæ. Z³oto, potrzeba wiêcej z³otego.
-{20810}{20877}Mo¿e z³oto i niebieski?
-{20899}{20988}Co myœlisz, Henry?|10,000 powinno wystarczyæ - zajmie 2 miesi¹ce.
-{20989}{21100}Powinieneœ tam wejœæ.|Ceny kuchty s¹ wyjête z rêkawa.
-{21101}{21190}Ma g³owê w chmurach. Dobry kucharz.|Doskona³y kucharz!
-{21191}{21302}Tylko do wszystkiego daje grzyby.|Henry, od³ó¿ tego papierosa.
-{21303}{21369}Przeszkadza ci, ¿e jem kiedy palisz?
-{21370}{21481}Gordon æmi³ papierosy przy jedzeniu -|spali³ sobie gard³o.
-{21482}{21594}Mitchel, ty masz.|I nie chowaj go w spodnie.
-{21616}{21727}Nie k³adŸ skórki od pomarañczy na brzegu|talerza, po³o¿ysz to oberwiesz!
-{21728}{21862}Jak wam siê wydaje - co to jest|- m¹dry kucharz uk³ada niedbale rzeczy ze sob¹
-{21862}{21929}jak kaczkê i pomarañcze,|jak brzoskwinie i szynkê.
-{21930}{21974}To siê nazywa artyzm.
-{21974}{22086}Jestem artyst¹ w tym, jak kombinujê|mój biznes i moje przyjemnoœci.
-{22086}{22130}Pieni¹dze to mój biznes,|jedzenie to przyjemnoœæ.
-{22131}{22242}Georgie to te¿ moja przyjemnoœæ,|Tylko w bardziej prywatnym tego s³owa znaczeniu
-{22243}{22310}ni¿ zapychanie gêby i kiszek.
-{22333}{22377}Przyjemnoœci s¹ powi¹zane,
-{22378}{22490}Np. ³akome k¹ski i du¿e kêsy|brzmi¹ podobnie,
-{22512}{22623}co ma pokazaæ, jak jedzenie|i seks s¹ ze sob¹ powi¹zane.
-{22624}{22713}£akome k¹ski Georgie|s¹ ³adnie powi¹zane, nie?
-{22714}{22825}Specjalnie, kiedy zwraca|na mnie uwagê. Georgie.
-{22826}{22981}Daj tu Phillipa! Chcê, ¿ebyœ zrobi³a do domu|serwetki, Georgina. Niech ciê Adele nauczy.
-{22982}{23049}Spangler, rusz siê i przyprowadŸ Phillipa.
-{23050}{23138}Daj tu Richarda,|Muszê mu z³o¿yæ propozycjê.
-{23139}{23228}Niech Adele przyniesie wody|z angostur¹
-{23229}{23317}i cytryn¹|i miskê zimnej wody do moich r¹k ...
-{23318}{23430}Henry! Daj te wazony z tamtego sto³u.|I kwiaty.
-{23453}{23519}Ten stó³ ma wygl¹daæ na najwa¿niejszy tutaj.
-{23520}{23587}Chcê mieæ tutaj masê wazonów.
-{23923}{24034}- Co to jest?|- Dla Madame Spica, compliments od firmy.
-{24035}{24101}Ona nie jest ¿adna madame.|Dlaczego ja nie dosta³em?
-{24102}{24213}- W¹tpiê, by panu smakowa³o, Mr. Spica.|- SprawdŸ to.
-{24214}{24325}Przyzwyczai³em siê, ¿e jest|pan konserwatywny.
-{24326}{24393}To nie prawda. Lubiê przygody.
-{24394}{24460}Pañska ¿ona ma doskona³e|podniebienie, Mr. Spica.
-{24461}{24573}Dla nas to zawsze wielka|przyjemnoœæ s³u¿yæ jej.
-{26902}{27036}Chcê jeden z tych gor¹cych, mokrych rêczników,|które Richard mi podawa³ szczypcami.
-{27037}{27148}Adele to ani kasa ani figura.|Po prostu dekoracja, same usta i cycki.
-{27149}{27215}- Zamienimy j¹.|- Mogê ja zamieniæ?
-{27216}{27373}Zamknij gêbê Mitchell. Zawsze jak j¹ otwierasz,|tylko pokazujesz jaki jesteœ wulgarny.
-{28134}{28178}Georgina! Witamy z powrotem.
-{28179}{28268}Wytar³aœ deskê zanim|zaparkowa³aœ swój ty³ek?
-{28269}{28380}Nigdy nie wiadomo co mo¿na dziœ z³apaæ.|Ka¿de siedzenie w toalecie to pole minowe.
-{28381}{28536}To dla ciebie. Richard myœla³, ¿e spróbujê,|osobiste compliments od szefa.
-{28537}{28626}Zjedz to. Ja tego nie ruszy³em, bo œmierdzia³o.
-{28627}{28693}lris spiek³a raka na ty³ku|od siedzenia na desce klozetowej.
-{28694}{28829}Mechanik wyla³ kwas akumulatorowy|do WC ¿eby siê go pozbyæ.
-{28873}{28962}Trochê prysnê³o na deskê .|lris uciek³a z krzykiem na ulicê,
-{28963}{29007}sycz¹c z ty³ka.
-{29008}{29052}Odt¹d ju¿ nie jest ta sama.
-{29053}{29164}Dalej siê rozbiera,|ale nigdy ty³em do publicznoœci.
-{29165}{29253}Musi zmieniæ swój numer.|Teraz musi bardziej przodem do klienta.
-{29254}{29343}- Dok¹d idziesz?|- Zostawi³am zapalniczkê w toalecie.
-{29344}{29410}- Cholera. Nie potrzebujesz jej.|- Potrzebujê!
-{29411}{29522}Richard, zamierzam zakazaæ tu palenia.|Jutro pojawi¹ siê znaki.
-{29523}{29589}Powinieneœ pogrubiæ swój francuski akcent,
-{29590}{29656}Jakbyœ dopiero wróci³ z Pary¿a.
-{29657}{29768}Dodaj trochê tego u-la-la.|Trochê wiêcej ''parlez-vous français?''
-{29769}{29836}Wtedy móg³by mnie|pan nie rozumieæ, Mr. Spica.
-{29837}{29948}Nie wiem. Zawsze rozumia³em|francuskie litery.
-{33443}{33487}Georgina!
-{33488}{33555}Co ty tam do diab³a robisz?
-{33577}{33622}Georgina?
-{33644}{33733}Siedzisz tu od wieków.|Co ty tu robisz, chyba rodzisz?
-{33734}{33800}Ja tylko ...
-{33801}{33891}- Ja tylko sobie palê.|- Palisz?
-{33936}{34024}Przecie¿ nienawidzisz|jak palê przy stole.
-{34025}{34091}Cholera, Georgina.
-{34092}{34159}Po co k³amiesz ¿e zgubi³aœ zapalniczke?
-{34159}{34294}Nie k³ama³am, Zostawi³am j¹ tutaj,|na pó³ce przed lustrem.
-{34316}{34360}Zaraz przyjdê.
-{34361}{34472}Nie zagaduj pañ,|¿eby nie denerwowaæ klientów.
-{34473}{34517}Poka¿ zapalniczkê.
-{34518}{34563}Tutaj.
-{34630}{34674}Papierosa te¿ chcesz?
-{34675}{34741}Nie wym¹drzaj siê tu.
-{34742}{34809}Co ty tam robisz,|Georgina?
-{34831}{34875}Zabawiasz siê ze sob¹?
-{34876}{34987}To jest zabronione, to moja w³asnoœæ.|Nie wolno ci siê tym bawiæ.
-{34988}{35122}- Zamknij siê, Albert.|- Wpuœæ mnie, poka¿ê ci jak siê podetrzeæ.
-{35123}{35189}OdejdŸ. Zaraz przyjdê.
-{35190}{35256}Dobrze, ale nie siedŸ za d³ugo.
-{35257}{35324}Zamówiê ci gâteau aux poivres.
-{35369}{35436}I profiteroles.
-{35503}{35571}I umyj rêce.
-{35593}{35683}Nie wiesz kto korzysta³ z tego miejsca.
-{37206}{37272}Zajê³o ci to trochê czasu.
-{37273}{37362}Pomyœla³em, ¿e poczekam na ciebie.
-{37363}{37429}Pachniesz ³adnie i s³odko.
-{37430}{37519}Umyj rêce, a ja dam ci buziaka.
-{37811}{37967}Czy wiesz co powiadaj¹ o tych, którzy|krêc¹ siê ko³o damskich toalet?
-{37990}{38057}No co powiadaj¹ ?
-{38079}{38168}- Prosz¹ siê o rozwianie ich iluzji.|- Taa ....
-{38169}{38258}Nie masz dla mnie ¿adnych iluzji, Georgie?
-{38259}{38302}Nic nie zosta³o nieodkryte.
-{38303}{38392}IdŸ zamówiæ moje profiteroles, pójdziesz?
-{38393}{38438}ChodŸ.
-{38482}{38527}ChodŸ.
-{38908}{39042}PI¥TEK|RESTAURACJA ZAREZERWOWANA|PRYWATNA UROCZYSTOŒÆ
-{39513}{39602}Ja myœlê, ¿e ci Etiopczycy lubi¹ g³odowaæ.
-{39602}{39736}Dziêki temu s¹ szczupli i wdziêczni, z tymi|wielkimi g³owami i oczami. No wiesz, te dzieci ...
-{39737}{39848}- Jesteœ chory.|- Mogê, jak bêdziesz taka arogancka.
-{39849}{39982}Co ty wiesz o g³odzie, Georgina?|Mo¿esz mieæ co zechcesz.
-{39983}{40117}- Gdzie byliœcie? Jesteœcie spóŸnieni.|- Jest pi¹tek wieczór. Jest du¿o pieniêdzy.
-{40118}{40229}Ten cz³owiek marzy ¿eby to dotkn¹æ.|No popatrzmy.
-{40230}{40296}To jest to, czego tej|restauracji trzeba.
-{40297}{40363}Mo¿ecie zacz¹æ je podawaæ.
-{40364}{40453}Co jest, Mitchel?|Nie smakuj¹ ci œlimaki?
-{40454}{40520}Musisz je polubiæ,|jeœli chcesz jadaæ ze mn¹.
-{40521}{40587}Nie wa¿ mi siê tutaj!
-{40588}{40654}Albo Spangler przepcha|ci to gard³o.
-{40655}{40789}Z restauracji Malay'a.|Zatrucie pokarmowe ich wystraszy³o i p³ac¹.
-{40790}{40856}Oni na pewno do tego|nie potrzebuj¹ naszej pomocy.
-{40857}{40945}To co oni tam jedz¹,|to ju¿ jest trutka.
-{40946}{41035}Jacyœ indianie s¹ znani z tego, ¿e|pij¹ w³asne siuœki.
-{41036}{41103}Ta sama woda kr¹¿y i kr¹¿y.
-{41126}{41237}Oczywiœcie trochê siê traci|przez parowanie.
-{41238}{41349}Wtedy trzeba to uzupe³niæ.|Czyje siuœki wypi³byœ pierwszy?
-{41350}{41416}- Erm ...|- Ja mia³bym gotowy zapas, nie chcia³byœ?
-{41417}{41505}Georgie i ja mamy nasze ma³e sesje kiedy ...
-{41506}{41550}Dobry Bo¿e, co ty tu masz?
-{41551}{41641}Nawet ty dostajesz komplementy|od szefa.
-{41663}{41729}Jesteœ œwink¹ doœwiadczaln¹|na ekperymenty kuchty, co?
-{41730}{41886}Dobry Bo¿e, wygl¹da jak ...|¿arcie dla zapartych francuskich królików.
-{41887}{41998}Albert, dlaczego nie zamówisz dla mnie chianti?|Wiesz, ¿e lubiê chianti.
-{41999}{42065}W tej oplecionej dooko³a butelce.
-{42066}{42133}Wtedy bêdê mog³a j¹ zabraæ|do domu i powiesiæ na œcianie.
-{42134}{42222}- Grace, nie masz ju¿ doœæ?|- Nie.
-{42223}{42267}A ty gdzie do cholery idziesz?
-{42268}{42357}- Do toalety.|- Jeszcze nic nie wypi³aœ.
-{42358}{42446}Ona ma pêcherz jak nieszczelny baniak.|Nie siedŸ za d³ugo!
-{42447}{42513}- Zdenerwowa³eœ j¹.|- Bzdura.
-{42514}{42671}Nie siedŸ d³ugo! Jesteœ dzisiaj taka rozmowna,|¿e nie wytrzymalibyœmy tej ciszy bez ciebie.
-{42693}{42738}Umyj rêce!
-{47016}{47105}- Ten krem jest s³ony.|- To jest sauce Hollandaise.
-{47106}{47172}W czymœ pomóc, Mr. Spica?
-{47173}{47240}Przyszed³em w sprawie|tych potraw z komplementami.
-{47240}{47329}W przysz³oœci - wszyscy goœcie|przy moim stole maj¹ je dostawaæ.
-{47330}{47396}Co tak d³ugo z t¹ moj¹ ryb¹?
-{47397}{47508}Mo¿e j¹ pan sam sobie weŸmie,|jak pan chce, Mr. Spica.
-{47509}{47576}- Szuka pan czegoœ?|- Nie ... Ty j¹ przyniesiesz.
-{47576}{47688}- Nie szuka pan swojej ¿ony?|- Nie, oczywiœcie. ¿e nie.
-{47688}{47756}Mr. Spica, coœ panu poka¿ê.
-{48047}{48180}- Co to jest?|- Nowe sztuæce. ¯eby nadaæ trochê stylu tej restauracji.
-{48181}{48337}Przynios³em 300 kompletów.|Moi ludzie w³aœnie zmieniaj¹ nakrycia.
-{48338}{48404}Nie najlepsza jakoœæ, Mr. Spica.
-{48405}{48516}Nie móg³bym ich u¿ywaæ|w swoim domu, Mr. Spica.
-{48517}{48584}Wszystkie 300.
-{49391}{49457}Gdzie by³aœ? Podciera³aœ ty³ek?
-{49458}{49547}U¿ywa³aœ lewej rêki,|tak jak ci pokazywa³em?
-{49548}{49636}Sk¹d ty to wytrzasn¹³eœ, Mews?|To gówno, rozpada siê na kawa³ki.
-{49637}{49727}Zwróæ je. WeŸ 150% zwrotu. Bo¿e.
-{49772}{49839}Co ty jesz, Georgie?|Niewiele.
-{49884}{49972}Widzê, ¿e wszyscy tutaj dostali|takie same pozdrowienia.
-{49973}{50107}Co to jest? Wygl¹da jak|jakaœ ... rozwodniona sa³ata.
-{50108}{50151}Nie za wiele tego.
-{50152}{50219}Drogie, nie w¹tpiê,|ale nie tucz¹ce.
-{50220}{50308}Powinnaœ trzymaæ formê,|wygl¹dasz jak tyczka.
-{50309}{50375}Cynaderki, w¹tróbka, ¿elazo,|tego ci trzeba.
-{50376}{50510}Wiesz, ¿e krowa wypija przez tydzieñ|dwa razy tyle wody, ile wa¿y?
-{50511}{50622}Dla mleka, rozumiesz,|poniewa¿ krowa ma wielkie cycki.
-{50623}{50690}Tak jak ty, co Georgie?
-{50757}{50846}Wy panowie raz macie|to w prezencie
-{50847}{50935}bo z jakiegoœ, tylko jej znanego, powodu,
-{50936}{51003}zostawi³a je niezapiête
-{51026}{51115}Cory, czy kiedykolwiek|próbowa³eœ ludzkiego mleka?
-{51115}{51204}Mam na myœli niedawno.|Te tam - lata temu siê nie liczy.
-{51205}{51316}Nie mog³eœ wtedy doceniæ|czym siê delektowa³eœ, prawda?
-{51317}{51473}Za³o¿ê siê, ¿e ludzkie mleko to wielki przysmak|w niektórych krajach. Powinien tutaj byæ.
-{51474}{51540}Wiesz Cory, kto móg³by nam|dostarczaæ ludzkiego mleka?
-{51541}{51652}Ciep³e, prosto z pojemnika,|¿e tak powiem?
-{51653}{51742}Nie ¿artujê! To cenny artyku³,|a nie przedmiot ¿artów!
-{51743}{51809}Georgie nie mog³abyœ|¿artowaæ z tego, co?
-{51810}{51854}Co, Georgie?
-{51855}{51988}Jesteœ wzorem dla kobiet.|Mog³abyœ im niejedno pokazaæ.
-{51989}{52078}Mog³abyœ nauczyæ tych m³odych|panów niejednego. Ten Mitchel.
-{52079}{52145}Z drugiej strony, nie.|Bo on to ¿a³osny ma³a gnida.
-{52146}{52279}- Wiêc jak to siê sta³o, ¿e nie masz dzieci?|- Dzieci?
-{52280}{52391}Komu potrzebne dzieci?|Kto chce mieæ dzieci?
-{52392}{52459}Ja chcê mieæ dzieci.
-{52482}{52571}Bêdziemy kiedyœ|mieli dzieci, co nie?
-{52639}{52705}Pewnie jak ju¿ bêdziesz|stara i siwa!
-{52706}{52817}Twój k³opot polega|na tym, ¿e nie jadasz dobrze.
-{52818}{52906}Powinnaœ piæ wiêcej wody|i jeœæ wiêcej cynaderków.
-{52907}{53019}A wtedy mo¿e bêdziesz|mia³a kiedyœ jakieœ dziecko.
-{53042}{53086}Georgie nie lubi dzieci, co?
-{53087}{53220}Wiesz, czasem wydaje mi siê,|¿e zachowujesz siê jak facet.
-{53221}{53265}Kiedy tak jest, Albert?
-{53266}{53310}- Jak to jest?|- A ty co?
-{53311}{53400}OdejdŸ od tego sto³u,|ty gówniana gnido!
-{53423}{53534}IdŸ zjeœæ zupê do kuchni,|ty œwiñski zboczeñcu!
-{53535}{53601}No ju¿, wynoœ siê razem z ¿arciem.
-{53602}{53668}To tylko Mitchel robi¹cy|z siebie durnia.
-{53669}{53735}Albo idŸ do k¹ta.|Cory, zrób mu czapkê z papieru.
-{53736}{53825}Stañ w k¹cie jak niegrzeczny ch³opiec.
-{53826}{53892}Stój tam. Zabierz ze sob¹|swój nó¿ i widelec.
-{53893}{53959}- Nie wyg³upiaj siê.|- Chcesz do niego do³¹czyæ?
-{53960}{54116}Zostaw go. On tylko ciê naœladuje|jak zwykle. Ty siê zachowasz, on siê zachowa.
-{54117}{54183}- Wychodzê.|- Tak, wychodzimy.
-{54184}{54296}Gracie, masz. Zap³aæ|rachunek i weŸ taksówkê.
-{54319}{54431}Georgie i ja idziemy na ma³¹ przeja¿d¿kê.
-{54453}{54519}Jutro jest rocznica naszego œlubu.
-{54520}{54586}Mo¿e pojedziemy nad morze.
-{54587}{54677}Zabawiæ siê pod molo, jak kiedyœ.
-{54879}{54945}Ups. Przepraszam.
-{54946}{55034}Ale to nie biblioteka, tylko restauracja.
-{55035}{55102}Po to tu przychodz¹ ludzie.
-{55170}{55214}Richard.
-{55214}{55349}To trzeba ugotowaæ.|Zgrilluj to z t³uczonym groszkiem.
-{55864}{55930}Co taki ch³opak jak ty robi|tu przy myciu naczyñ?
-{55931}{55998}To praca dla kobiet,|nie wiedzia³eœ? Hey!
-{55998}{56110}Mój Bo¿e, p³yta pancerna.|Uwa¿aj ch³opcze, potrzebujesz tego.
-{56110}{56177}Niewinnoœæ. To jest to, co mia³em|zanim spotka³em Georgie.
-{56178}{56266}- To tego one chc¹.|- Albert. ChodŸ, jesteœ pijany.
-{56267}{56311}- ChodŸ!|- Mam zaœpiewaæ dla ciebie?
-{56312}{56378}- Co?|- Albert, chodŸ, to tylko dziecko.
-{56379}{56468}Tak, zaœpiewaj dla mnie.|Tak, mo¿esz mi zaœpiewaæ.
-{56469}{56513}Stañ tutaj. Œpiewaj.
-{56514}{56625}By³em dobrym œpiewakiem jak by³em ch³opcem,|prawda, Georgie?
-{56626}{56693}No ju¿. Zaœpiewaj dla mnie.
-{56715}{56782}No ju¿, œpiewaj do licha!
-{57074}{57140}Kiedyœ by³em w chórze.
-{57141}{57207}Tak. Kobiety lubi¹ chórzystów.
-{57208}{57297}Prawie zosta³em chórzyst¹,|kiedy spotka³em Georgie.
-{57298}{57364}Ale ty wszystko zepsu³aœ, co?
-{57365}{57453}Georgie by³a niez³¹ szko³¹, umia³a|nauczyæ m³odego mê¿czyznê wszystkiego.
-{57454}{57565}ChodŸ, Georgie, poka¿ ch³opcu,|co mi pokaza³aœ.
-{57566}{57633}- Albert.|- No ju¿, poka¿ ch³opcu ...
-{57634}{57701}- Albert!|- Rób co ci mówiê!
-{57723}{57812}Idziecie ze mn¹ na ten parking,|oboje. No ju¿.
-{57813}{57880}Na parking. Ruszaæ siê.
-{57970}{58081}Dam ci najlepsze wykszta³cenie.|poka¿ê ci jak¹ nauczycielk¹ jest Georgie.
-{58082}{58125}-Nie dotykaj go!
-{58126}{58194}- Zostaw go!
-{58216}{58349}O, rozumiem. Nie powinienem tego robiæ?|Dam ci szko³ê.
-{58350}{58394}- Albert, proszê zostaw go w spokoju.|- O nie.
-{58395}{58461}Stój tutaj i nie ruszaj siê.
-{58462}{58506}- Daj mu spokój.|- Patrz na to.
-{58507}{58618}- Nie. Poczekaj a¿ bêdziemy w domu, Albert.|- Georgie. Georgie, chodŸ tutaj..
-{58619}{58708}A to co ?|Nie masz ¿adnych pieprzonych majtek.
-{58709}{58797}Siedzia³aœ w restauracji|bez majtek?
-{58798}{58887}Z Corym i Mitchelem i tymi ludŸmi?|Co to ma byæ?
-{58888}{58954}Gdzie oni s¹? Dawaj ich tu zaraz.
-{58955}{59044}No ju¿. Patrz na to.|Do samochodu, ty dziwko.
-{59045}{59112}Dlaczego wszystko œci¹gasz?
-{59134}{59224}- W³aŸ do œrodka. No ju¿! Do samochodu!
-{59246}{59313}- Teraz ty! Ty te¿ w³aŸ do œrodka.|- Nie!
-{59313}{59403}- Ju¿, w³aziæ w³aziæ|- Nie! Proszê!
-{59425}{59515}- Nie ! Nie ! Nie !|- W³aŸ mówiê
-{59649}{59717}- Dobrze..!
-{60075}{60142}SOBOTA|COCKTAIL
-{63838}{63927}Wiesz co to s¹,|ostrygi preriowe, Mitchel?
-{63928}{63972}Ryby.
-{63972}{64084}Gdyby ktoœ ciê nakarmi³ ostrygami|preriowymi, to co byœ jad³?
-{64084}{64173}Ryby. S³odkowodne i takie tam.|To s¹ ...
-{64174}{64240}To ma³¿e z pere³kami w œrodku.
-{64241}{64330}Ostrygi preriowe by³yby cenne|dla ich posiadacza. Nie.
-{64331}{64375}Nie, wyobraŸ sobie ...
-{64376}{64465}WyobraŸ sobie, ¿e to ostryga preriowa.
-{64488}{64576}No œmia³o. Zjedz to, œmia³o.|W³ó¿ to do buzi. Œmia³o.
-{64577}{64644}No i jak to smakuje?
-{64689}{64733}- Mokry chleb.|- Nie.
-{64734}{64801}G¹bczaste z ma³ymi ziarenkami.
-{64846}{64891}To piasek.
-{64936}{65002}To piasek. Jesteœ zabawny.
-{65003}{65092}Nie, ty oœle. Ma skórkê dooko³a.
-{65160}{65203}- Wypluæ skórkê?|- Nie.
-{65204}{65271}Trzymaj to z dala od zêbów, a potem pogryŸ.
-{65272}{65360}Teraz po³knij, no ju¿. po³knij to.
-{65361}{65405}Œmia³o. Dobrze.
-{65406}{65473}W³aœnie zjad³eœ baranie jaja.
-{65630}{65696}Kiedy ciê kiedyœ poproszê,|abyœ coœ dla mnie zrobi³,
-{65697}{65831}Bêdê oczekiwa³, ¿e prze¿ujesz|czyjeœ jaja na ¿¹danie.
-{65832}{65875}O jesteœ.
-{65876}{66010}Co jest takie fascynuj¹ce w toalecie?|Idê siê odlaæ i sprawdziæ.
-{66011}{66122}Co tu dosz³o odk¹d tu ostatnio by³em?|Jedwabne siedzenia, brzydkie obrazki?
-{66123}{66235}Perfumy za darmo?|Prywatne bary z drinkami?
-{66884}{66951}Co tu tak strasznie cuchnie!
-{66952}{67040}Tu chodz¹ chyba same œwinie?|Ale ochyda.
-{67041}{67108}Potwornoœæ. Okropne.
-{67131}{67265}To wstrêtne miejsce potrzebuje|przewietrzenia. Co to jest?
-{67288}{67399}Pos³uchaj. "By³ sobie m³ody cz³owiek z Pacanowa,|który myœla³ sobie podczas ...''
-{67400}{67511}To wstrêtne!|Ludzie musz¹ siê brzydziæ patrz¹c na to.
-{67512}{67578}Przera¿aj¹ce. Ja tak nie umiem.
-{67579}{67667}To poni¿aj¹ce. Nie uwa¿asz?|Jak s¹dzisz?
-{67668}{67712}Dobry Bo¿e.
-{67713}{67779}- A ty co siê tak gapisz?|- O co chodzi?
-{67780}{67891}Nie udawaj. Czekasz na moich|m³odych towarzyszy, co?
-{67892}{67959}Facet powinien móc laæ|w spokoju.
-{67959}{68026}- Jak œmiesz? Wo³am kierownika.|- Ja jestem kierownikiem.
-{68027}{68115}A ty jesteœ na ulicy.|Przy³apany na krêceniu siê po toalecie.
-{68116}{68161}- Taa ...
-{68183}{68295}Tego im trzeba.|Krótka, ostra, terapia wstrz¹sowa.
-{68475}{68519}A ty co tutaj robisz?|Znowu czytasz?
-{68519}{68631}To nie biblioteka. Jedyne co tu wolno|czytaæ to menu.
-{68631}{68698}Zniewa¿asz szefa.
-{68699}{68765}Czytanie powoduje niestrawnoœæ,|Nie wiedzia³eœ o tym?
-{68766}{68833}Nie czytaj przy stole.
-{68878}{68967}W³aœnie siê naczyta³em takich|rzeczy, ¿e w³osy dêba staj¹.
-{68967}{69011}Tam, w toalecie
-{69012}{69078}Takie rzeczy ludzie czytaj¹, a nie to.
-{69079}{69146}Matka ciê opuœci³a?
-{69147}{69213}Czy to daje jakieœ pieni¹dze?
-{69214}{69302}Wiesz, za³o¿ê siê, ¿e|tylko ty przeczyta³eœ tê ksi¹¿kê.
-{69303}{69392}Ale za³o¿ê siê, ¿e ka¿dy tu|przeczyta³ tamte rzeczy.
-{69393}{69459}Nie daje ci to do myœlenia?
-{69460}{69549}Chyba wiem, czytasz, bo|nie masz z kim porozmawiaæ.
-{69550}{69661}Powiem ci coœ. Nie powinieneœ zatem jeœæ sam,|mo¿e siê do nas przy³¹czysz?
-{69662}{69706}ChodŸ, poznasz moj¹ ¿onê.
-{69707}{69840}Widzia³a ciê.|Wiem, ¿e jest jej smutno, ¿e tak sam siedzisz.
-{69841}{69952}Ona te¿ lubi czytaæ.|Ca³ymi godzinami siedzi w ³ó¿ku i czyta.
-{69953}{70043}Ona czyta nawet|siedz¹c na tronie.
-{70177}{70244}To jest Cory.
-{70267}{70378}To jest Mitchel. On nie umie czytaæ,|nie umiesz, Mitchel?
-{70379}{70467}- Umiem.|- Taa. Komiksy i œwierszczyki.
-{70468}{70558}A to jest Georgina.|Ona jest moj¹ ¿on¹.
-{70580}{70646}Jak siê nazywasz?
-{70647}{70758}- Michael.|- Michael. Czy to nie ¿ydowskie imiê, Michael?
-{70759}{70893}Jesz koszerne jedzenie, Michael? Siadaj,|i opowiedz nam wszystko o koszernym jedzeniu.
-{70894}{70960}- Przykro mi, ale nie jestem ¿ydem.|- Czemu to ukrywasz?
-{70961}{71072}60% ludzi w tej restauracji|ma pochodzenie ¿ydowskie, Michael.
-{71073}{71117}Richard, nakrycie dla Michaela.
-{71118}{71251}Jest ¿ydem, mo¿e znajdziesz dla niego|coœ zamiast ¿eberek. Bez wieprzowiny.
-{71252}{71364}Nie dziêkujê.|Mieliœmy porozmawiaæ, nieprawda¿?
-{71387}{71498}Mo¿e zaczniesz, Georgie.|Opowiedz Michaelowi o sobie.
-{71499}{71587}- Myœlê, ¿a pana ¿ona wola³aby spokojnie zjeœæ.|- Nie. Mów, Georgina.
-{71588}{71677}Oto twoja szansa na doszlifowanie|konwersacji przy stole.
-{71678}{71722}Powiedz Michaelowi,|¿e mieszkasz w wielkim domu
-{71723}{71789}i tygodniowo wydajesz|400 funtów na ubrania.
-{71790}{71834}Wydajê tygodniowo|400 funtów na ubrania.
-{71835}{71923}Masz 40 funtów tygodniowo na benzynê.
-{71924}{72013}Mam 40 funtów tygodniowo na benzynê,|których nigdy nie wykorzystujê.
-{72014}{72058}- Nosisz piêkne rzeczy.|- Noszê piêkne rzeczy.
-{72058}{72147}- Jadasz w najlepszych restauracjach.|- Jadam w najlepszych restauracjach.
-{72148}{72259}Georgina, postaraj siê nieco bardziej, proszê.
-{72260}{72349}- Chodzê do dobrego fryzjera.|- Tak, najlepszego jaki jest.
-{72350}{72438}- Chodzê do dobrego dentysty.|- Tak, tak. On jest ¿ydem.
-{72439}{72506}- Chodzê do dobrego ginekologa.|- ¯e co?
-{72506}{72618}- Który mi powiedzia³, ¿e nie bêdê mog³a mieæ dzieci.|- Michael nie chce tego wiedzieæ.
-{72618}{72707}¯e trzy poronienia|zrujnowa³y mi wnêtrznoœci.
-{72708}{72774}To nie prawda,|Michael nie musi tego wiedzieæ.
-{72775}{72910}Napijmy siê, Michael, pomówmy o tobie.|Czym siê zajmujesz?
-{72932}{72999}Jestem ginekologiem.
-{73022}{73088}- Kim jesteœ?|- Zawsze mo¿esz przyjœæ do mnie.
-{73089}{73155}Nie musimy o tym dyskutowaæ.
-{73156}{73245}Bêd¹c bezpo³odna jestem|bezpieczna do r¿niêcia siê.
-{73246}{73313}Zamknij siê, Georgie!
-{73358}{73446}Muszê przeprosiæ ciê za ¿onê, Michael.
-{73447}{73558}Jeœli nie wrócisz do swojego sto³u,|ryzykujesz, ¿e ci go zajm¹.
-{73559}{73603}Sala siê powoli zape³nia.
-{73604}{73693}Mitchel, odprowadŸ Michaela do jego sto³u.|Opowiedz mu o koniach.
-{73694}{73761}Dobrze, panie Spica, dziêkujê.
-{73783}{73849}Wolê czytaæ swoj¹ ksi¹¿kê.
-{73850}{73939}Poza tym, skoñczy³em. Dziêkujê.
-{73940}{74029}Dziêkujê za przedstawienie|mnie pañskiej ¿onie.
-{74030}{74097}Podoba mi siê pani imiê.
-{75172}{75217}Och..
-{75306}{75374}Co ty wyprawiasz do diab³a?
-{75396}{75529}Opowiadasz kompletnie obcemu|o naszych intymnych sprawach?
-{75530}{75574}Nie o naszych. O moich.
-{75575}{75620}O naszych!
-{75642}{75731}I po co to wszystko,|ile czasu by³aœ w tym klopie?
-{75732}{75798}Po co to o tym ginekologu?|Kto to jest?
-{75799}{75910}Lepiej ¿eby to by³a ona. Nie chcê|¿eby jakiœ facet wk³ada³ palce moje ¿onie.
-{75911}{75978}To mê¿czyzna. Jest ¿ydem.
-{76001}{76068}- I jest z Etiopii.|- Co?
-{76090}{76179}Jego matka jest rzymsk¹ katoliczk¹,|siedzia³ w wiêzieniu w Po³udniowej Afryce,
-{76180}{76269}jest czarny jak smo³a|i pewnie pije w³asne siuœki.
-{76269}{76336}Zamknij siê suko!
-{76337}{76425}K³amiesz, niewdziêczna dziwko!|Do samochodu.
-{76426}{76470}To twoja buda, suko.
-{76471}{76561}Durny ginekolog. Pieprzony ginekolog.
-{76650}{76717}Wsiadaj. Wsiadaj.
-{76740}{76807}W³aŸ do samochodu, szmato.
-{76852}{76919}W³aŸ do œrodka, no ju¿.
-{77277}{77367}NIEDZIELA|DROBNY WYSTÊP ARTYSTYCZNY
-{77591}{77635}Maiser by³.
-{77636}{77747}I Trelawny ze swoj¹ czarn¹ przyjació³k¹,|która mia³a brzoskwinie na g³owie.
-{77748}{77792}- Brzoskwinie?|- Imitacja.
-{77793}{77904}A austriaccy bracia siedzieli przy|drzwiach - pe³en profesjonalizm
-{77905}{77971}Wielcy kombinatorzy, kupa forsy.
-{77972}{78128}A Tim Tranter pi³ tutaj zupê z fili¿anki|przez s³omkê, kiedy mia³ z³aman¹ szczêkê.
-{78129}{78240}To przesz³o do historii, kiedy|Goshy Capps rzuci³ talerzem œledzi.
-{78241}{78307}- Œledzi?|- Tak, œledzi, na litoœæ bosk¹.
-{78308}{78352}Nie znajdziesz tutaj ¿adnych œledzi.
-{78353}{78441}- Podaj¹ tutaj œledzie na œniadanie.|- Jad³aœ tu œniadanie?
-{78442}{78531}PrzewoŸnik z ¿on¹ jadali tu ka¿dego rana.
-{78532}{78620}PrzewoŸnik by³ cholerykiem.|I ryba mu nie pasowa³a.
-{78621}{78732}- Kim s¹ ci ludzie?|- Drobni oszuœci i alfonsi ...
-{78733}{78800}Kuchta to zmalowa³.|Ka¿ê mu to zrobiæ jeszcze raz.
-{78801}{78889}.. ¿igolacy, zmarnowani bokserzy,|tanie kurwy..
-{78890}{78934}Mam wycinki w domu.
-{78935}{79001}.. zabijaki, fryzjerzy, peda³y.
-{79002}{79068}- Robin Hoodzi.|- Nie, tylko "chudzi".
-{79069}{79180}Wyrabiasz siê.|Wyrabia? Nawet jego slang jest przestarza³y.
-{79181}{79270}Teraz jestem klientel¹,|rozumiesz? Ja.
-{79271}{79360}I Georgie i Cory Peterson.|Coq au vin jest dobry.
-{79361}{79449}Ku-tas - co?|Kurczak w winie, oœle.
-{79450}{79561}- Bess Riddle ¿y³a na coq au vin.|- Bardziej na "coq" ni¿ na "vin"...
-{79562}{79629}Starkie, tu s¹ panie.
-{79652}{79740}- Albo by³y. Gdzie ona posz³a?|- Gracie nie jest pani¹, wiesz?
-{79741}{79808}- Musi mieæ zapalenie pêcherza.|- Ona jest jedn¹ z nas.
-{79809}{79897}Nic z³ego w tym,|¿e znika do kibla
-{79898}{79987}A jakie zapalenie pêcherza|ty masz, Starkie?
-{79988}{80032}Panie chodz¹ do talety,|a nie do kibla.
-{80033}{80144}Prawdziwe panie nie chodz¹ do toalety,|chodz¹ do ³azienki.
-{80145}{80233}- Kuchta nie ma ³azienki.|Stul pysk.
-{80234}{80368}Zeszcza³byœ siê w gacie|zanim rozpozna³byæ porz¹dne WC.
-{80525}{80592}Z³ama³ nasz¹ ciszê.
-{80615}{80682}A ty masz na imiê Georgina.
-{80727}{80839}Tak. I nie wa¿ siê mówiæ|do mnie Georgie.
-{80884}{80951}Masz piêkne oczy, Georgino.
-{81040}{81152}A tym masz piêkny dr¹¿ek,|panie ginekologu.
-{81152}{81264}- Tak?|- Tak, co by nie wymyœla³ ten rasista.
-{81332}{81421}- Twój m¹¿ jest ciekawy.|- Naprawdê?
-{81533}{81577}Dlaczego?
-{81578}{81645}Co dlaczego?
-{81690}{81757}Dlaczego wysz³am za niego?
-{81802}{81846}Dlaczego nie jesteœ ¿onaty?
-{81847}{81958}- Sk¹d wiesz, ¿e nie jestem?|- Nie jesteœ.
-{81959}{82026}- Nie jestem.|- Dlaczego?
-{82138}{82249}Kiedyœ widzia³em film, w którym g³ówny bohater|nic nie mówi³ przez pierwsze pó³ godziny.
-{82250}{82407}Jak my? Czy te wszystkie minuty, jakie|byliœmy ze sob¹, razem dadz¹ pó³ godziny?
-{82429}{82585}By³em ca³kiem zaabsorbowany co siê stanie,|gdy¿ kompletnie wszystko by³o mo¿liwe.
-{82586}{82631}I wtedy?
-{82653}{82720}Zepsu³ to - odezwa³ siê.
-{82765}{82876}- i ...?|- W ci¹gu 5 minut straci³em zainteresowanie.
-{82877}{83011}Skoro otworzy³eœ usta, spodziewasz siê,|¿e stracê zainteresowanie?
-{83012}{83079}To by³ tylko film.
-{83168}{83258}... Teraz rozmawialiœmy minutê.
-{83280}{83369}Mamy jeszcze cztery,|zanim stracisz zainteresowanie.
-{83370}{83414}Cztery minuty. Wystarczy.
-{83415}{83459}Gdzie jest bomba?
-{83460}{83572}Je ... je avocado|vinaigrette i krewetki.
-{83661}{83706}Palcami.
-{83751}{83818}Poca³uj mnie.
-{83908}{84019}- Twoja restauracja jest g³oœna, Spica.|- Jest popularna w niedzielne wieczory.
-{84020}{84086}Lubiê ciche restauracje z wystêpami.
-{84087}{84175}Kuchta to artysta kulinarny,|nie jakiœ szo³men.
-{84176}{84243}Ale my chcemy sprawiæ ci przyjemnoœæ, Terry.|Bêdzie przedstawienie.
-{84244}{84355}Cory, zadzwoñ do Santiniego.|Piêæ dziewcz¹t - striptizerek.
-{84356}{84422}Tylko przyzwoicie?|Moja córka tu jest.
-{84423}{84511}Piêæ tañcz¹cych dziewcz¹t i muzyka.|Bez sproœnych rzeczy, tylko klasa.
-{84512}{84579}I nie g³oœno.|Chcê zachowaæ s³uch do 90-tki.
-{84579}{84691}Bo¿e, Terry, jakie wystêpy|ty lubisz? Nieme zakonnice?
-{84691}{84780}Kiedy wo³aj¹ na mnie Fitch, to mogê.|Przy ¿onie jestem tylko Terry, Spica.
-{84781}{84847}- Jak ja.|- Jesteœ Terry i tyle, prawda?
-{84848}{84937}- Jestem tylko Albert dla Georginy.|- Nawet jak jest w klopie?
-{84938}{85027}- Ucisz swoj¹ kurwê, Cory!|- Bo¿e, ale ha³aœliwy jesteœ, Spica.
-{85027}{85116}Mo¿na dostaæ niestrawnoœci.|Nie, kochanie? Jak masz na imiê?
-{85117}{85139}Patricia, panie Fitch.
-{85139}{85251}Jesteœ dobr¹ tancerk¹?|Wygl¹dasz na dobr¹ tancerkê.
-{85251}{85340}Chcielibyœmy zobaczyæ|jak tañczysz, z Geoffem.
-{85341}{85385}Geoff to bardzo dobry tancerz.
-{85386}{85475}- Tu nie wolno tañczyæ.|- Zawsze jadam w domu.
-{85475}{85519}- Najlepsze miejsce.|- ¯adnych zatruæ pokarmowych.
-{85520}{85631}Ricky Boarst jest tak pewny jak dom.|Ma bardzo czyst¹ kuchniê, idŸ i zobacz.
-{85632}{85699}Chcia³abym zobaczyæ.
-{85699}{85834}- Mitchel, zabierz panie do kuchni.|- Sam j¹ wezmê, Spica.
-{85879}{85945}- Poka¿ drogê.|- Przez tamte drzwi.
-{85946}{86057}Zadzwoniê z ³azienki|a Georgie odeœlij tout de suite.
-{86058}{86102}To znaczy zaraz.
-{86103}{86214}- Kiepska ta twoja nowa dziewczyna, Cory.|- Ona tylko æwiczy francuski.
-{86215}{86304}To francuska restaurcja, no nie?
-{86797}{86864}Ktoœ ma ba¿anta na obiad.
-{86976}{87043}1, 2, 3, 4, 5, 6, 7...
-{87066}{87155}... mog¹ nam przerywaæ ... 700 razy.
-{87200}{87334}- Ile ci p³aci twój ch³opak, Patricia?|- P³aci? On mi nie p³aci.
-{87335}{87401}On kupuje mi jedzenie i drinki.
-{87402}{87468}- Nie daje ci kieszonkowego?|- Nie.
-{87469}{87558}Nic poza kanapk¹ z tuñczykiem|w nocy czy butelk¹ ginu?
-{87559}{87647}- ¯ebyœ zapomnia³a o tym co by³o na obiad?|- Nie.
-{87648}{87715}Ale¿ tu œmierdzi.
-{87760}{87827}A co byœ powiedzia³a
-{87850}{87916}Gdybym da³ ci kieszonkowe?
-{87917}{87984}Co mia³abym zrobiæ w zamian?
-{88455}{88522}No, s¹ ju¿. Gdzie Fitch?
-{88544}{88588}Phillipe, sprz¹tnij tamte sto³y.|Potrzeba wiêcej miejsca.
-{88589}{88678}- Ale¿ Mr. Spica, oni jedz¹.|- Rusz ich.
-{88678}{88767}S¹ na drodze wystêpu.|Musisz ich przesun¹æ.
-{88768}{88812}Jesteœmy w po³owie jedzenia.
-{88813}{88946}Jeœli siê nieco pospieszysz,|zd¹¿ysz dokoñczyæ zupê.
-{88947}{89058}A po tym wszystkim nie masz|ochoty siê ruszyæ, co?
-{89059}{89126}Trzymaj go !
-{89171}{89238}Szkoda, ¿e nie|skorzysta³eœ z mojej rady.
-{89238}{89305}Ca³e to piêkne jedzenie ....|Richard bêdzie rozczarowany.
-{89306}{89439}Teraz bêdziecie musieli jeœæ w kuchni,|jak ma³e niegrzeczne dzieci, co?
-{89440}{89506}Hey, Jak siê nazywasz?
-{89507}{89596}Co powiedzia³eœ? Czy s³ysza³em William?
-{89597}{89686}No, niegrzeczny ma³y Willie,|maluteñki tyci Willie,
-{89686}{89843}co byœ powiedzia³ na zlanie|ci tego wielkiego, t³ustego ty³ka?
-{89955}{90066}Widaæ, ¿e lubisz grzybki|Richarda, William,
-{90067}{90134}Dam ci piêæ, s³ownie piêæ
-{90179}{90268}i chcê ciê widzieæ w drodze do kuchni.
-{90269}{90313}albo wylecisz na ulicê!
-{90314}{90358}Wynocha.
-{91053}{91119}- Patrz która godzina! Muszê wracaæ.|- Jeszcze minutê.
-{91120}{91187}- Nie.|- 30 sekund?
-{91546}{91612}Oh. Co ty do cholery wyprawiasz?
-{91613}{91701}Ale siê urz¹dzi³em.|Czemu siê nie zamkniesz?
-{91702}{91746}Przepraszam, to by³a niespodzianka.
-{91747}{91858}A ty mo¿esz mieæ jeszcze|jakieœ niespodzianki?
-{91859}{91926}Poddajê siê, ty suko.
-{91949}{92015}Mam doœæ tanich kurew.
-{92016}{92173}Mo¿esz byæ warta coœ dla Fitcha -|On nie dba o wygl¹d ale o dostêpnoœæ.
-{93091}{93225}- Gdzie by³aœ?|- Tylko zarabia³am dla ciebie pieni¹dze.
-{93225}{93360}A ja w³aœnie widzia³am, jak obie|mog³ybyœmy nieŸle zarobiæ.
-{93539}{93606}PONIEDZIA£EK
-{93629}{93762}Mieliœmy skargi na straszny smród|z tych samochodów na terenie restauracji.
-{93763}{93897}Restauracja nie ponosi jakiejkolwiek|odpowiedzialnoœci.
-{93897}{93941}Dlaczego nie moglibyœmy|spotkaæ siê gdzie indziej?
-{93942}{94053}To niemo¿liwe.|Lepiej robiæ to pod jego nosem.
-{94054}{94165}On nigdy nie uwierzy,|¿e robiê to pod jego nosem ...
-{94166}{94233}... w miêdzyczasie ...
-{94233}{94300}miêdzy hors d'oeuvres|a canard a I'orange,
-{94301}{94367}miêdzy deserem a kaw¹.
-{94368}{94413}Poza tym,
-{94457}{94524}Szybko siê uczê.
-{94525}{94613}Jak chodziæ na skróty,|oszczêdzaæ czas.
-{94614}{94704}Robiê siê w tym niez³a,|prawda, Michael?
-{94726}{94793}Robiê siê niez³a, prawda?
-{94816}{94882}Robiê siê niez³a? Mm.
-{94883}{94950}Czy nie robiê siê niez³a?
-{95107}{95173}Ostatni wieczór by³ ochydny|a ty da³eœ plamê, Cory.
-{95174}{95263}- Dzisiaj bêdziesz g³odny.|- I tak nie lubiê tych zagranicznych œmieci.
-{95264}{95397}Nie mów tak do mnie, niewykszta³cony chamie!|Nie zorganizowa³byœ gwa³tu w burdelu!
-{95398}{95532}Dziewczyny by³y wstrêtne, myzyka wstrêtna,|wszystko schrzani³eœ.
-{95533}{95599}Na dodatek nie umiesz upilnowaæ|w³asnej dziewczyny!
-{95600}{95666}- Najpierw siê rozbiera ...|- Ja nie ...
-{95667}{95711}Zamknij siê, do kogo ty mówisz?
-{95712}{95778}A potem idzie i gra niedostêpn¹.
-{95779}{95936}Znaczy siê, je¿eli by³a z tob¹,|to jak do cholery mo¿e byæ niedostêpna?
-{95958}{96047}Spangler, daj nam drinka, szybko.
-{96048}{96114}- Fitch to œwinia.|- Fitch ma maniery.
-{96115}{96181}By³ jak ranny niedŸwiedŸ.|Naszcza³aœ mu do spodni?
-{96182}{96271}Potem drapa³a tak, jak dziewica|bawi¹ca siê œwiec¹.
-{96272}{96383}Musisz to z nim za³atwiæ.|On ciê lubi, chocia¿ wygl¹dasz jak facet.
-{96384}{96472}- Mo¿e lubi facetów.|- Nic z tych homoseksualnych rzeczy.
-{96473}{96562}On zapamiêta.|Wczoraj wieczorem dosta³ na tym moje imiê.
-{96563}{96652}Nie pójdê z nim.|On siê poci i œmierdzi i nie mo¿e tego zrobiæ.
-{96653}{96719}- Zamknij swoj¹ dziwkê, Cory.|- Jak Georgie?
-{96720}{96786}- Zamknij siê!|- Ona jest w porz¹dku. Nigdy mnie nie zawiod³¹.
-{96787}{96853}- Chyba ¿artujesz.|- Zamknij siê, Pat!
-{96854}{96898}- Ona jest z³a.|- Co to znaczy, ¿e chyba ¿artujê?
-{96899}{96965}- Masz. PrzejedŸ siê na niej.|- Nie robiê tego kobiecie..
-{96966}{97055}- Ja robiê kobiecie co mi siê podoba.|- To twój problem.
-{97056}{97144}Nic dziwnego, ¿e Georgie wygl¹da jak wygl¹da|i nienawidzi twoich bebechów.
-{97145}{97212}- O czym ty gadasz?|- Nie dziwota, ¿e pieprzy siê w kó³ko.
-{97212}{97301}- Co?|- Jesteœ tak œlepy, ¿e nic nie zauwa¿y³eœ.
-{97302}{97368}- Zamknij siê! Ona bredzi.|- Nie. Widzia³am ich.
-{97369}{97413}- Kogo?|- Georgie i tego ¿yda.
-{97414}{97503}- Jakiego ¿yda?|- Tego faceta, co tam siedzi i czyta.
-{97504}{97592}Nie zauwa¿y³eœ?|Zawsze razem znikaj¹ do klopa.
-{97593}{97704}- Co?|- A jak myœlisz, dlaczego Georgie ci¹gle jest w kiblu?
-{97705}{97816}Œlepy jak nietoperz.|Przecie¿ nie sra co piêæ minut.
-{97817}{97862}Kurwa
-{97974}{98085}Kurrr .... W porz¹dku. W porz¹dku. Cicho.
-{98086}{98152}Kurrr .... Kurrr ....
-{98153}{98198}Kurrr ....
-{98713}{98780}Idê do sracza.
-{98982}{99027}Georgina!
-{99072}{99116}Georgina!
-{99139}{99227}Georgina, gdzie jesteœ, suko?|Georgina!
-{99228}{99317}- Co ty robisz? Spadaj!|- Wynoœ siê. Ty suko. Georgina!
-{99318}{99362}Gdzie jesteœ? Wy³aŸ!
-{99363}{99407}- No wy³aŸ!
-{99408}{99474}Gdzie jesteœ?
-{99475}{99563}- Nie, proszê!|- Wy³aŸ stamt¹d! WychodŸ, ty ...
-{99564}{99632}Proszê, nie! Proszê, nie!
-{99654}{99720}- No ju¿ ! Georgie!|- Proszê, nie.
-{99721}{99788}Gdzie jesteœ, Georgie?
-{100080}{100147}- To koniec. Dowiedzia³ siê.
-{100192}{100259}- Georgina? Georgina!
-{100326}{100393}- Georgie! wyjdŸ.
-{100438}{100504}Odwrócê jego uwagê.
-{100505}{100639}- Richard, nie rób sobie k³opotów przeze mnie.|- Georgie!
-{100640}{100728}- ChodŸmy i poka¿my mu siê.|- Zwariowa³eœ? On ciê zabije!
-{100729}{100819}ChodŸcie szybko. ChodŸcie ze mn¹.
-{100886}{100975}- Poczekajcie tu 5 minut.|- Zamarzniemy na œmieræ.
-{100976}{101110}On tutaj nigdy nie zajrzy.|Tylko 5 minut. Dam wam ubrania.
-{101200}{101288}- Georgina! Georgie, gdzie jesteœ?
-{101289}{101356}Georgie. Georgie.
-{101379}{101445}Ty! Gdzie ona jest?|Gdzie jest moja ¿ona?
-{101446}{101512}- O co chodzi?|- Ty wiesz. Czuæ jej papierosy.
-{101513}{101579}- Gdzie jest moja ¿ona?|- Pañska ¿ona to pañska sprawa.
-{101580}{101647}To nie biuro rzeczy znalezionych.
-{101647}{101691}Chcê moj¹ ¿onê! Gdzie ona jest?
-{101692}{101781}Ty g³upi ma³y szczurze.|Gdzie moja ¿ona? Gdzie ona jest?
-{101782}{101893}Jeœli pan skoñczy³,|to proszê opuœciæ kuchniê.
-{101894}{101983}- Muszê przygotowaæ inne obiady.
-{101983}{102072}Ja jestem jedynym obiadem, który siê tu liczy.|To moja restauracja.
-{102073}{102162}Chcê moj¹ ¿onê. Schowa³eœ j¹.|Gdzie ona jest?
-{102163}{102229}Bo¿e ! Gdzie oni s¹?
-{102230}{102296}Georgina! Georgina!
-{102297}{102364}- Georgina! Georgina!|- Ahh!
-{102387}{102476}Georgina! Gdzie ona jest, Boarst?
-{102521}{102633}Boarst, gdzie ona jest? Georgie! Georgie!
-{102655}{102723}Georgie, ty suko!
-{102745}{102812}Cofaj, cofaj
-{102902}{102969}Georgie! Chcê moj¹ ¿onê!
-{103171}{103215}Georgie!
-{103283}{103349}Ju¿ ja j¹ znajdê.
-{103350}{103394}Ju¿ ja j¹ znajdê.
-{103395}{103506}Znajdê ich. Ju¿ ich znajdê.|Wiedzia³em. Knuj¹ca dziwka!
-{103507}{103573}Ju¿ ja ich znajdê|Ja go kurwa zabijê!
-{103574}{103618}Ja ... ja go kurwa ze¿rê!
-{103619}{103686}Zabijê go i ze¿rê!
-{103708}{103797}- - Zabijê go a potem ze¿rê.|- O, kurwa!
-{103798}{103865}- Ze¿rê go!
-{103910}{103954}Ze¿rê go!
-{103955}{104066}Mo¿ecie ju¿ wyjœæ.|Eden was odwiezie. Dok¹d chcecie?
-{104067}{104110}Znam jedno miejsce.
-{104111}{104222}- Co z naszymi rzeczami?|- Dostarczê wam. Szybko.
-{104223}{104291}Szybko. Szybko.
-{104694}{104760}Nie, nie, nie.
-{104761}{104828}Nie, proszê. Aah! Nie.
-{107090}{107134}Co to za miejsce?
-{107135}{107202}Magazyn ksi¹¿ek.
-{107225}{107336}Kiedy moja ksiêgarnia jest zamkniêta,|robiê inwentaryzacjê.
-{107337}{107404}Katalogujê historiê francusk¹.
-{107494}{107560}Tam jest kuchnia i ³azienka.
-{107561}{107649}Trochê prymitywnie, ale jest tam|przepiêkny widok.
-{107650}{107694}Przeczyta³eœ te wszystkie ksi¹¿ki?
-{107695}{107740}Nie.
-{107762}{107873}Nie ma potrzeby, ¿eby ksiêgarz musia³|przeczytaæ ca³y magazyn.
-{107874}{107986}Z tak¹ prac¹ powinieneœ|byæ strasznie nudny.
-{108009}{108076}Jesteœmy tu bezpieczni?
-{108121}{108165}Czy Albert czyta?
-{108166}{108210}Nie.
-{108278}{108321}Je¿eli nie czytasz, to czy|stajesz siê bezpieczny?
-{108322}{108390}Tylko przed z³ymi ksi¹¿kami.
-{108434}{108501}Mog³abym tu spêdziæ|ca³e ¿ycie na czytaniu.
-{108502}{108591}Mog³abyœ.|Dwa ¿ycia - twoje i moje.
-{108636}{108703}- Czy po to tu jestem?|- Nie.
-{108815}{108904}Ile te ksi¹¿ki s¹ dla ciebie warte?|Nie móg³byœ ich zjeœæ.
-{108905}{108971}Jak mog¹ ciê uszczêœliwiaæ?
-{108972}{109038}Zawsze uwa¿a³em je|za bardzo sensowne.
-{109039}{109105}Nie zmieniaj¹ swoich pogl¹dów|kiedy nie patrzysz.
-{109106}{109196}To brzmi jak zniewaga dla mnie.
-{109241}{109307}Poca³uj mnie.
-{109308}{109375}WTOREK|STRAWA
-{109622}{109665}- Myœlê, .....
-{109666}{109733}Myœlê mo¿e ...|zrezygnujemy ze œpiewu.
-{109733}{109823}Jeœli siê zgodzisz, póŸniej mo¿e?
-{109913}{109957}Co tam w restauracji?
-{109957}{110047}- W porz¹dku.|- A Richard? Pan Boarst?
-{110069}{110136}Ma siê dobrze.
-{110137}{110225}Czy by³y jeszcze jakieœ k³opoty,
-{110226}{110293}w zwi¹zku z wczorajszym?
-{110293}{110405}- Nie, proszê pana.|- Przy³¹czysz siê do nas?
-{110428}{110540}Nie, dziêkujê.|Zjem póŸniej z panem Boarstem.
-{110831}{110875}Smacznego.
-{110876}{110921}Dziêkujê.
-{111033}{111145}Masz mo¿e jeszcze jakieœ|wiadomoœci dla nas?
-{111189}{111300}Pan Boarst mówi ... Powiedzia³ mi,|¿ebyœcie tu zostali,
-{111301}{111369}i ¿yczy³ wam bon appétit.
-{111391}{111436}Dziêkujê.
-{111615}{111704}Kiedy skoñczycie, zabiorê|z powrotem naczynia.
-{111705}{111861}O, jeœli któraœ z tych ksi¹¿ek|ci siê spodoba, mo¿esz sobie po¿yczyæ.
-{112825}{112913}No dobra, gdzie oni s¹?|Gdzie oni s¹?
-{112914}{112980}- Nie wiem.|- Nie wiesz?
-{112981}{113092}Nie s¹dzê, ¿ebyœ zjad³ sam to wszystko.|Co my tu mamy? Popatrzmy ...
-{113093}{113182}Sos do ryby w majonezie|i odrobina bazylii. Lubiê bazyliê.
-{113183}{113249}Co tu jeszcze jest? Aha.
-{113250}{113316}Lepkie. Nie mów mi.|Sos czekoladowy - profiteroles.
-{113317}{113385}Georgina lubi profiteroles.
-{113407}{113496}O i serwetki|a na nich szminka Georginy.
-{113497}{113563}I butelka dobrego wina. Bardzo dobre.
-{113564}{113652}To do kotletów, Richard.|Niech ja go dorwê w swoje rêce.
-{113653}{113742}Zostaw ten chleb. Ja muszê wiedzieæ|gdzie oni s¹. Gdzie oni s¹? Co?
-{113743}{113855}To dobre.|Otwórz buziê. No ju¿, otwieraj.
-{113877}{113944}- Zainteresuj siê swoim jedzeniem.|- Nie musimy tego robiæ.
-{113944}{114033}- Zmiêk³eœ?|- To tylko dzieciak.
-{114034}{114123}- Postaw go i opuœæ mu spodnie.|- Zostaw go.
-{114124}{114257}Wynoœ siê. Komu potrzeba takiej cioty jak ty?|I zabierz swojego czterookiego kuzyna ze sob¹.
-{114258}{114369}Ciekawe jak sobie poradzisz na ulicy|beze mnie, podcieraj¹cego ci nosek.|Spadaj! O w³aœnie.
-{114370}{114482}OK, po³ykaczu guzików,|powiedz mi gdzie oni s¹.
-{114549}{114616}OK, po³ykaczu guzików,|gdzie oni s¹.
-{114616}{114728}Skoñczy³y nam siê guziki.|Ale tu jest jeszcze jeden.
-{114728}{114795}To twój pêpek.|Chcia³byœ go po³kn¹æ?
-{114796}{114840}- Albert!|- Ty jeszcze tutaj?
-{114840}{114908}No to patrz.
-{115087}{115198}Ocuæ go! Ocuæ go, ocuæ go.|Musze siê dowiedzieæ gdzie ona jest!
-{115199}{115244}Ocuæ go!
-{115266}{115311}Ocuæ go!
-{115333}{115468}Gdzie oni s¹?|Jak dojdzie, lepiej ¿eby zacz¹³ mówiæ.
-{115624}{115669}Mam ich!
-{116700}{116767}Przynios³em wam obiad.
-{116946}{116990}Gdzie jest ch³opak kuchenny?
-{116991}{117058}- Jest w szpitalu.|- Co?
-{117148}{117259}Powiedzia³, ¿e nic im nie|powiedzia³ i ja mu wierzê.
-{117260}{117348}- Muszê go zobaczyæ.|- Nie s¹dzê, ¿eby to by³o rozs¹dne.
-{117349}{117394}Idê.
-{117416}{117483}Musisz mnie do niego zaprowadziæ.
-{117484}{117551}Pakuj siê.|- Co tu pakowaæ?
-{117596}{117662}Richard. Richard, weŸ to dla ma³ego.
-{117663}{117752}Nic nie zrobisz. Tylko siê nara¿asz.
-{117775}{117841}Nie bêdzie mnie tylko godzinê.
-{117842}{117932}Richard, odprowadzisz|mnie z powrotem?
-{117954}{118021}Biedny ch³opiec.
-{118200}{118267}Zostaw mi coœ do jedzenia.
-{118267}{118335}Oczywiœcie.
-{118357}{118424}B¹dŸ ostro¿na.
-{119947}{119992}Dziêkujê
-{120597}{120663}Chwyæ go za w³osy.
-{120664}{120708}Nie ma zbyt wiele do chwytania.
-{120709}{120798}Obrzydliwe, taki stary i jest jej kochankiem.|- W tym samym wieku co ty.
-{120799}{120910}- Jestem jej mê¿em, nie kochankiem.|- Mo¿esz byæ tylko jednym.
-{120911}{121044}Gdyby by³ m³odszy, mo¿e bym zrozumia³.|To mog³oby nawet byæ zabawne. Ty draniu!
-{121045}{121134}Tak, Mitchel, teraz masz szansê.|Bêdziesz ¿u³ jaja.
-{121135}{121201}- On jest za stary.|- Co to ma znaczyæ?
-{121202}{121268}On jest w tym samym wieku co ja|- 40, prawie.
-{121269}{121335}Gdyby by³ m³odszy, to wszystko|by³oby w porz¹dku?
-{121336}{121425}Mój Bo¿e. Jak masz 17,|to 40 oznacza staroœæ?
-{121426}{121583}- Pewnie dawno siê nie k¹pa³.|- Bo¿e, Mitchel, jesteœ pierwszorzêdnym os³em.
-{121627}{121671}Wiêc, znaczy siê, oczywiœcie ...
-{121672}{121761}- Musia³ byæ z Georgin¹ ostatniej nocy.|- Nie! Zamknij siê.
-{121762}{121828}Zamknij siê, zamknij siê, zamknij siê!
-{121829}{121896}Ty ma³y zajszczany robalu.
-{121919}{121962}Bo¿e, ale ty jesteœ idiota, Mitchel.
-{121963}{122074}Mo¿na byæ pewnym, ¿e w danej|chwili powiesz coœ Ÿle.
-{122075}{122164}Nie mia³em na myœli, ¿e dos³ownie|masz prze¿uæ jego jaja.
-{122165}{122231}To by³a metafora.
-{122232}{122276}Co to znaczy, Albert?
-{122277}{122366}"¯ydowski Ksiêgarz Sponiewierany|Przez M³odego Maniaka Seksualnego.''
-{122366}{122455}- Nie chcê, ¿eby to wygl¹da³o|na morderstwo na tle seksualnym.
-{122456}{122567}To zabójstwo z zemsty, sprawy sercowe,|zbrodnia w afekcie.
-{122568}{122657}Nie chcê z³ych plotek|wokó³ siebie.
-{122658}{122769}Na pewno stwierdz¹,|¿e by³o to honorowe zabójstwo z zemsty.
-{122770}{122836}Bêd¹ podziwiaæ styl.
-{122837}{122926}"Zosta³ zapchany. A Albert lubi³ dobre jedzenie"
-{122926}{123038}Mo¿e siê nawet uœmiechn¹.|"Zapcha³ siê przedmiotem swojej profesji."
-{123038}{123150}"Wypcha³ siê ksi¹¿kami.|wredny ma³y mól ksi¹¿kowy ..."
-{123150}{123240}Mitchel, bez niepotrzebnych ... .
-{123285}{123418}Wykoñcz go! Zamknij mu gêbê, zatkaj nos,|daj mu prze³kn¹æ te durne ksi¹¿ki.
-{123419}{123486}Uduœ drania!
-{123621}{123666}Michael!
-{123912}{123957}Michael.
-{124450}{124562}OK, ... Tak siê je raki.|Najpierw odrywasz g³owê.
-{124584}{124628}Potem w¹sy,
-{124629}{124696}potem usuwasz nó¿ki.
-{124741}{124830}A potem wyci¹gasz|miêkk¹ czêœæ cia³a.
-{124898}{124986}- Ty zgasi³eœ œwiat³o?|- Jakie œwiat³o?
-{124987}{125098}ldiota. O tym nie pomyœla³eœ.|Mog³o wszystko sp³on¹æ z tymi ksi¹¿kami.
-{125099}{125210}- To mog³oby ³adnie zniszczyæ dowody.|- Nie chcê ich niszczyæ, idioto!
-{125211}{125301}Chcê, ¿eby Georgina to widzia³a.
-{126645}{126711}Co powiedzia³?
-{126712}{126801}Rewolucja Francuska by³a ³atwiejsza|do prze³kniêcia ni¿ Napoleon.
-{126801}{126890}Napoleon by³ straszny. Wyplu³ wszystko.
-{126891}{127002}Napoleon lubi³ owoce morza.|Jego ulubionym daniem by³y ostrygi Florentine.
-{127003}{127092}Niesamowite, nie?|Churchill lubi³ owoce morza.
-{127093}{127181}Wszyscy wielcy genera³owie|gustowali w owocach morza.
-{127182}{127249}Co lubi³ Juliusz Cezar,|albo Hitler?
-{127249}{127316}Hitler lubi³ ma³¿e.|A Mussolini ka³amarnice.
-{127317}{127383}- Bajerujesz.|- Co ty wiesz, Harris?
-{127384}{127473}- Co jada³ sprzedawca ksi¹¿ek?|- Ty móg³byœ powiedzieæ z jego rzygowin.
-{127473}{127630}Co mnie obchodzi co jad³?|Wszystko w koñcu wychodzi jako gówno.
-{128011}{128078}Jestem taka zmêczona.
-{128123}{128168}Idê spaæ.
-{128504}{128593}Mam ci masê|do opowiedzenia rano.
-{128616}{128683}I chcê, ¿ebyœ s³ucha³.
-{128705}{128862}Ktoœ powinien wiedzieæ.|A komu mogê powiedzieæ, jak nie tobie?
-{128885}{128929}A wiêc ...
-{129041}{129109}gdy siê obudzê rano,
-{129176}{129243}chcê ¿ebyœ mnie poca³owa³.
-{129333}{129399}I chcê œniadanie.
-{129400}{129489}... kawê i œwie¿e bu³eczki z mas³em
-{129557}{129623}i marmoladê.
-{129624}{129669}I tosta.
-{129713}{129758}I ...
-{129803}{129870}Dobranoc, Michael.
-{129982}{130049}Zobaczymy siê rano.
-{130139}{130206}Kocham ciê.
-{130229}{130295}- Nie powinieneœ tego robiæ. Nie by³o warto.|- Ty co?
-{130296}{130384}Georgina nie by³a tego warta?|Jak œmiesz do cholery tak mówiæ?
-{130385}{130496}Georgina jest warta tysi¹ca|snobistycznych, ma³ych, ¿ydowskich ksiêgarzy.
-{130497}{130564}którzy onanizuj¹ siê do Rewolucji Francuskiej.
-{130565}{130698}Ksiêgarz wpêdzi nas w k³opoty|i nie by³ tego wart. Uspokój siê.
-{130699}{130810}Ma³a zakompleksiona miernota|pieprzy³a moj¹ ¿onê! Nie uspokojê siê!
-{130811}{130922}Widzia³em ciê Harris, mierz¹cego Georginê,|gapi¹cego siê na cudz¹ ¿onê.
-{130923}{131012}Widzia³em jak siê gapi³eœ,|kiedy podnosi³a siê jej spódnica|przy wysiadaniu z samochodu.
-{131012}{131056}Tak, widzia³em jak za ni¹ wêszy³eœ, Harris.
-{131057}{131146}I pomyœleæ, ¿e zawsze|ufa³em tobie i jej,
-{131147}{131236}¿e ufa³em ci, jak odwozi³eœ j¹|do domu kiedy by³em pijany.
-{131236}{131303}- Wynoœ siê z tej restauracji!|- Uspokój siê.
-{131304}{131392}Mitchel, daj Richarda.|Wyrzuciæ tego faceta. Wynocha!
-{131393}{131460}- Chcê krzyczeæ ...|- Mogê krzyczeæ w swojej w³asnej restauracji!
-{131460}{131594}Jestem w³aœcicielem tej restauracji.|Wynocha! Spierdalaj!
-{131595}{131684}IdŸ, ty oœle!|Richard, zamykam ciê.
-{131684}{131773}- Naprawdê?|- Jesteœ skoñczony, Richard.
-{131774}{131908}Pozwoli³eœ niektórym ludziom jadaæ|ze z³odziejami cudzych ¿on.|Jesteœ skoñczony!
-{131908}{131952}Nie s¹dzê, Mr. Spica!
-{131953}{132087}A nawet gdyby, to gdzie by pan jada³?|Kto by pana mia³?
-{132088}{132199}A teraz, je¿eli pan uprzejmie wyjdzie,|zaczniemy sprz¹taæ ten ba³agan,|jaki tu pan zrobi³.
-{132200}{132311}Ostrzegam ciê. Jutro twoja restauracja|stanie siê jednym wielkim parkingiem.
-{132312}{132378}- Niczym wiêcej.|- Ciekawe jak pan to zrobi.
-{132379}{132490}Buldo¿erem, Richard. Twoja kuchnia|znajdzie siê 20 stóp pod gruzem.
-{132491}{132557}Wynoœ siê st¹d, Harris. Wynoœ siê.
-{132558}{132692}No ju¿. Mogê powiedzieæ o lojalnoœci jak j¹ zobaczê.
-{133208}{133275}No, Michael,
-{133320}{133387}nie poca³owa³eœ mnie
-{133409}{133454}wiêc ...
-{133521}{133633}Wygl¹da, ¿e muszê sama|zrobiæ sobie œniadanie.
-{133656}{133723}Nie wstawaj jeszcze.
-{134081}{134148}Wiêc, Michael,
-{134193}{134259}to by by³o na tyle.
-{134260}{134328}Krótko i bardzo s³odko.
-{134417}{134528}Teraz mnie s³uchasz,|Myœlê, ¿e mogê ci opowiedzieæ o Albercie.
-{134529}{134663}Zamierza³am ewentualnie ci opowiedzieæ|ale musia³am ciê poznaæ lepiej, gdy¿ ...
-{134664}{134753}Có¿, poniewa¿ by³oby mi tak wstyd.
-{134776}{134932}Ale teraz to wa¿ne, abym ci opowiedzia³a,|abym to zakoñczy³a.
-{135022}{135178}Albert bije mnie. Tak, wiem, ¿e wiesz o tym.|Widzia³eœ siniaki.
-{135179}{135246}To ju¿ jego zwyczaj.
-{135335}{135424}Kiedy wróciliœmy z restauracji,|kaza³ mi zrobiæ gor¹cy, mokry rêcznik
-{135425}{135515}i ¿ebym posz³a z nim do toalety.
-{135537}{135604}I musia³am podetrzeæ mu ...
-{135671}{135761}Kiedy skoñczy³am, on ... on zrobi³ ...
-{135851}{135918}Pomó¿ mi, Michael.
-{135985}{136096}Po jego stronie ³ó¿ka by³a walizka|z ró¿nymi przedmiotami.
-{136097}{136164}Jak szczoteczka do zêbów,
-{136187}{136254}drewniana ³y¿ka,
-{136299}{136366}plastikowy poci¹g,
-{136388}{136432}butelka po winie.
-{136433}{136500}I u¿y³ ich.
-{136523}{136678}Gdybym nie zrobi³a tego na jego oczach,|sam by mnie do tego zmusi³.
-{136679}{136790}Przynajmniej kiedy zrobi³am|to sama, to mniej bola³o.
-{136791}{136948}Nie s¹dzê, ¿eby by³ zainteresowany seksem -|nie ze mn¹, nie z kobiet¹.
-{136993}{137060}Zostawia³am go cztery razy.
-{137105}{137172}Z³apa³am nocny prom.
-{137195}{137328}On i Harris znaleŸli mnie w Brukseli,|zabrali mnie z powrotem.
-{137329}{137440}Na ³odzi, Albert p³aka³,|dawa³ mi prezenty.
-{137441}{137552}Ale po tym jak przybiliœmy,|kiedy tylko znaleŸliœmy siê poza portem,
-{137553}{137619}przed autostrad¹ zatrzyma³ samochód
-{137620}{137777}i on, oraz Harris i Spangler wyci¹gneli|mnie na zewn¹trz, rozebrali i bili.
-{137867}{137911}'Michael,
-{137979}{138067}'wszystko to musi siê skoñczyæ.
-{138068}{138135}'Pomó¿ mi, proszê
-{138292}{138359}On nie ¿yje.
-{138404}{138515}Wypchali mu usta papierem|wyrwanym z jego ulubionej ksi¹¿ki.
-{138516}{138627}- Móg³byœ go przyrz¹dziæ?|- Przyrz¹dziæ kogo, Georgina?
-{138628}{138672}Michaela.
-{138673}{138740}Nie. Mon dieu, non.
-{138807}{138942}Masz reputacjê szerokiego|zakresu dañ eksperymentalnych.
-{138964}{139030}Móg³by dobrze smakowaæ.
-{139031}{139075}Jestem pewna,|¿e smakowa³by dobrze.
-{139076}{139120}Co smakowa³oby dobrze?
-{139121}{139188}Jego serce? Jego w¹troba?
-{139210}{139277}Policzki jego tylnej strony?
-{139278}{139345}... jego ostrygi preriowe?
-{139412}{139456}Georgina,
-{139457}{139502}Usi¹dŸ.
-{139524}{139569}Usi¹dŸ.
-{139636}{139770}Kiedy przygotowujesz menu,|to jak wyceniasz ka¿de danie?
-{139793}{139859}Najdro¿ej ceniê wszystko, co jest czarne.
-{139860}{139950}Winogrona, oliwki, czarn¹ porzeczkê.
-{140017}{140106}Ludzie lubi¹ przypominaæ|sobie o œmierci,
-{140106}{140218}jeœæ czarne jedzenie,|to jak konsumowaæ œmieræ,
-{140218}{140330}to jak powiedzieæ,|"Œmierci, po¿eram ciebie"
-{140375}{140465}Czarne trufle s¹ najdro¿sze.|I kawior.
-{140510}{140577}Œmieræ i narodzenie.
-{140599}{140666}Koniec i pocz¹tek.
-{140689}{140846}Nie s¹dzisz, ¿e to w³aœciwe,|¿e najdro¿sze pozycje s¹ czarne?
-{140890}{140957}Wyceniamy te¿ pró¿noœæ.
-{140958}{141047}Dania dietetyczne maj¹|dodatkow¹ mar¿ê
-{141070}{141114}30%...
-{141137}{141203}Afrodyzjaki 50%.
-{141204}{141337}Z tego, co widzia³em, twój kochanek|nie potrzebowa³ afrodyzjaków.
-{141338}{141406}Co widzia³eœ? Chcê wiedzieæ.
-{141450}{141517}Nikt nie wie, tylko ty.
-{141518}{141606}Wszyscy mi wspó³czuli, nawet ty.
-{141607}{141718}Ale sk¹d mam wiedzieæ, ¿e mnie kocha³,|skoro nie by³o œwiadków?
-{141719}{141830}Je¿eli go kocha³aœ, to chyba nie jest to|szczególnie konieczne pytanie.
-{141831}{141921}Ale¿ jest! Powiedz mi co wiesz!
-{141988}{142099}To co widzia³em, by³o tym,|co pozwoli³aœ mi zobaczyæ.
-{142100}{142166}Oczywiœcie, ¿e tak.
-{142167}{142323}Sk¹d mog³am wiedzieæ, ¿e to jawa,|skoro nikt inny tego nie widzia³?
-{142324}{142391}Powiedz mi, co widzia³eœ.
-{142414}{142503}Czy wstydzisz siê mi|o tym mówiæ?
-{142548}{142592}Nie.
-{142593}{142660}Widzia³em jak on ciê ca³owa³
-{142705}{142750}w usta,
-{142794}{142839}w szyjê,
-{142862}{142906}za uchem.
-{142996}{143063}Widzia³em, jak ciê rozbiera³.
-{143153}{143242}Widzia³em, jak ca³owa³ twoje piersi.
-{143287}{143399}Widzia³em, jak wsuwa³|rêkê miêdzy twoje nogi.
-{143421}{143489}A jak widzia³eœ mnie?
-{143556}{143645}Widzia³em, jak ca³ujesz go w usta.
-{143713}{143847}Widzia³em, jak le¿ysz pod nim|na pod³odze w spi¿arni.
-{143892}{143981}Widzia³em, jak bra³ ciê od ty³u.
-{144071}{144183}Widzia³em, jak bra³aœ jego penisa do ust.
-{144228}{144295}Widzia³em ...
-{144653}{144765}Czy kochankowie zawsze|siê tak zachowuj¹?
-{144833}{144899}Moi rodzice tak siê zachowywali.
-{144900}{144944}Tak?
-{144945}{145056}- Widzia³eœ ich?|- I kochankowie w kinie tak siê zachowuj¹.
-{145057}{145100}Nie, to siê nie liczy.
-{145101}{145212}I w moich fantazjach,|kochankowie zawsze tak siê zachowuj¹.
-{145213}{145280}By³eœ zazdrosny?
-{145281}{145347}Czy budziliœmy w tobie zazdroœæ?
-{145348}{145436}Czy chcia³eœ siê do nas przy³¹czyæ?
-{145437}{145504}- Jeœli tak, to pomó¿ mi.|- Georgina, nie.
-{145505}{145638}Na pamiêæ mi³oœci uprawianej w twojej kuchni,|i w twoich fantazjach, pomó¿ mi teraz.
-{145639}{145684}Nie.
-{145706}{145795}W pamiêci twoich rodziców kochaj¹cych siê,|pomó¿ mi teraz.
-{145796}{145862}Georgina, nie!
-{145863}{145952}Ludzie, których kocham,|poznaj¹ moje imiê za póŸno.
-{145953}{145997}Za póŸno?
-{146020}{146086}Przyrz¹dŸ Michaela dla mnie.
-{146087}{146132}Nie.
-{146154}{146220}To by³a jego ulubiona restauracja.
-{146221}{146289}Tak¿e moja.
-{146311}{146377}Przyrz¹dŸ Michaela dla mnie.
-{146378}{146444}Gdybym to zrobi³,
-{146445}{146535}to kto kiedykolwiek|jad³by tutaj?
-{146602}{146714}Jak mog³abym ciê przekonaæ|do zmiany zdania?
-{146737}{146871}Chcesz siê ze mn¹ kochaæ?|Mo¿esz robiæ to co on robi³.
-{146916}{146982}Jak mogê ciê przekonaæ?
-{146983}{147027}Nie mo¿esz. Mog³aœ go kochaæ ...
-{147028}{147116}Wiesz, ¿e kocha³am, widzia³eœ mnie.
-{147117}{147206}Ale nie musisz go zjadaæ, Georgino.
-{147207}{147296}Czy ty ... czy ci siê wydaje, ¿e jedz¹c go
-{147297}{147363}on stanie siê czêœci¹ ciebie?
-{147364}{147475}Nie mo¿esz wierzyæ, ¿e po zjedzeniu|go, na zawsze zostaniecie razem!
-{147476}{147543}Ja go nie zjem.
-{147610}{147677}- To Albert.|- Albert?
-{147789}{147856}Masz 1,000 funtów Michaela..
-{148013}{148080}Zabierz pieni¹dze.
-{148215}{148282}Gdzie on jest?
-{150320}{150410}PI¥TEK|RESTAURACJA ZAMKNIÊTA|PRZYJÊCIE
-{150634}{150678}Co siê tutaj dzieje?
-{150679}{150767}Dlaczego nagle mam wchodziæ|do w³asnej restauracji, jak ktoœ obcy?
-{150768}{150835}Specjalne zaproszenia.
-{150836}{150924}Które, ¿e tak powiem, mo¿na by³o|daæ do lepszego drukarza.
-{150925}{151014}Muszê waliæ do drzwi jak wyrzutek.
-{151015}{151081}No, no, no.
-{151082}{151194}Georgina Duckles.|Co ciê tu sprowadza, suko?
-{151216}{151283}Jestem bardzo zaskoczony,|¿e siê tu pokaza³aœ, ty dziwko.
-{151284}{151351}Gdzie by³aœ? Albert zwariowa³.
-{151373}{151439}Zamknij siê, Grace. ZnajdŸ mi drinka.
-{151440}{151529}- Szczêœliwego jubileuszu, Albert.|- Móg³bym ciê zabiæ za to, co zrobi³aœ!
-{151530}{151619}- To by³oby ³atwe.|- Nie myœl, ¿e ciê wezmê z powrotem.
-{151619}{151663}Zap³acisz mi, dziwko.
-{151664}{151775}Ty³ek bêdzie ciê|bardzo boleæ tygodniami.
-{151776}{151865}¯adnych ksi¹¿ek wiêcej, dziewczynko.|Zostaniesz pod kluczem.
-{151866}{151999}Nie bêdzie wiêcej ksi¹¿ek|ani w¹chania kwiatków, dziewczynko.
-{152000}{152067}Szczêœliwego jubileuszu, Albert.
-{152067}{152156}O czym ty mówisz?|Nie mam urodzin.
-{152157}{152313}Nie. Ale tê rocznicê zawsze bêdê obchodziæ,|nawet jeœli ty nie. A ty nie bêdziesz.
-{152314}{152403}- Co? Gdzie s¹ wszyscy?|- Bêd¹.
-{152403}{152470}- Pos³uchaj, Georgino.|- Co?
-{152471}{152538}- To ju¿ koniec.|- Czego?
-{152560}{152627}- Grace, idŸ po prostu|popatrzeæ przez okno.
-{152627}{152694}Mitchel, spadaj st¹d.
-{152695}{152761}Pos³uchaj, Georgino,|kiedy przyjd¹ inni ...
-{152762}{152828}Gdzie oni s¹?|W zaproszeniu jest dziewi¹ta.
-{152829}{152918}- Gdzie oni usi¹d¹?|- Bêd¹ tu obecni.
-{152919}{153007}Pos³uchaj, tak naprawdê|nie lubi³aœ go, prawda?
-{153008}{153142}Znaczy, jak mo¿na polubiæ|g³upiego ksiêgarza, nikogo?
-{153143}{153276}Powiem ci coœ. Spróbujê ...|Spróbujemy zapomnieæ o tym, tak?
-{153277}{153343}- Tak? ChodŸ ze mn¹.
-{153344}{153433}Powiem ci prawdê, Georgie,|By³em trochê okrutny.
-{153434}{153522}- W koñcu jest to twój jubileusz ...|- Jaki pieprzony jubileusz?
-{153523}{153590}Mam dla ciebie prezent.
-{153591}{153657}Nie potrzebujê prezentów.|To ja ci dajê prezenty.
-{153658}{153746}Poza tym, przecie¿ nigdy nie mia³aœ|pieniêdzy ¿eby mi dawaæ prezenty.
-{153747}{153836}Richard go dla ciebie sporz¹dzi³.
-{153837}{153881}- Wed³ug moich instrukcji.|- Oh?
-{153882}{153949}Wiem, jak lubisz jeœæ.
-{153971}{154038}Jak lubisz sobie dogadzaæ.
-{154039}{154151}I przyprowadziliœmy kilku|twoich znajomoych.
-{155607}{155696}Co to jest za przyjêcie, Georgie?
-{155719}{155807}- O co tu chodzi?|- Usi¹dŸ, Albercie.
-{155808}{155874}Ja nie mogê usi¹œæ, Georgino?
-{155875}{155964}Nie, to danie specjalnie dla Alberta.
-{155965}{156099}- Nie bêdê jad³ z tym Royem.|- Zamknij siê, Albert.
-{156144}{156211}Jesteœ tu by siê bawiæ.
-{156435}{156480}Georgie.
-{156861}{156905}Jezu!
-{156906}{156950}Bo¿e.
-{157040}{157130}Nie, to nie Bóg, Albercie. To Michael.
-{157152}{157218}Mój kochanek.
-{157219}{157309}Wykrzykiwa³eœ, ¿e go zabijesz|i zabi³eœ.
-{157331}{157398}I krzysza³eœ, ¿e go ze¿resz.
-{157421}{157488}Teraz jedz.
-{157533}{157577}O co chodzi?
-{157578}{157666}Masz nó¿ i widelec.|Wiesz jak ich u¿ywaæ.
-{157667}{157824}Czy zamierzasz zmarnowaæ wszystkie te|uwa¿nie wyuczone maniery przy stole?
-{158003}{158070}Mitchel mo¿e nalaæ ci drnika.
-{158227}{158293}Twój kelner wybra³.
-{158294}{158361}Grace, nalej sobie.
-{158362}{158406}Oh.
-{158474}{158541}Non, monsieur!|- Yah!
-{158944}{159011}Jedz, Albercie.
-{159034}{159101}Roy, nalej Albertowi drinka.
-{159907}{159997}Spróbuj kutasa, Albercie.|To delikates.
-{160041}{160109}No i wiesz, gdzie by³.
-{160915}{160981}Œmia³o, Albercie.
-{160982}{161027}Jedz.
-{161430}{161497}Bon appétit.
-{161520}{161587}To po francusku.
-{162169}{162214}Kanibal.
-{162371}{162505}Ten text zrobi³em sam. Niez³y wyczyn|THANX & THE END
+{256}{290}wystêpuj¹:
+{1131}{1165}re¿yseria:
+{1259}{1310}*stemil99**
+{1395}{1480}KUCHARZ , Z£ODZIEJ , JEGO ¯ONA I JEJ KOCHANEK
+{1954}{2006}ChodŸ i zabierz psy
+{2056}{2108}No chodŸ tu. Mews!
+{2193}{2278}ChodŸ chodŸ. Otwórz buziê.|Otwórz buziê ?
+{2278}{2329}Naucz siê doceniaæ jedzenie., eh?
+{2330}{2414}W porównaniu z tym, co podajesz|w tej twojej ma³ej brudnej sto³ówce,
+{2415}{2465}- to trzygwiazdkowa kolacja.
+{2500}{2550}Musisz poznaæ zasady.
+{2551}{2618}Ja chcê jeœæ i piæ bardzo dobrze,|a to kosztuje.
+{2618}{2668}Czy s³ysza³eœ kiedyœ|o kurczaku a la reine Marie
+{2669}{2702}albo ostrygach w sosie mornay
+{2703}{2753}albo ¿abich udkach Parisienne?
+{2754}{2788}Nie. Jasne, ¿e nie.
+{2788}{2856}Zdejmuj te gacie! Zdejmuj te gacie.
+{2975}{3025}Ojejku jejku jejku.
+{3026}{3093}Tata nie nauczy³ ciê podcieraæ|sobie ty³ka? Co? Eh?
+{3094}{3127}Albert! Zostaw go.
+{3128}{3179}- ChodŸmy zjeœæ.|- O ... chodŸmy.
+{3179}{3263}Zanim zjemy, Georgino,|trzeba nakarmiæ i napoiæ zwierzêta.
+{3264}{3331}Roy! To moja ¿ona, Georgina Spica.
+{3332}{3382}Ma z³ote serce i takie samo cia³o.
+{3383}{3466}Ja jestem Albert Spica i mam serce ze z³ota,|a tyle samo pieniêdzy.
+{3467}{3552}A ty jesteœ Roy, który nie ma absolutnie nic,|Z wyj¹tkiem tego, co mi zawdziêczasz.
+{3553}{3654}Zosta³eœ poni¿ony przed kobiet¹,|zosta³eœ poni¿ony przed nami.
+{3655}{3722}Georgina, bêdê tak szybko,|jak pewnie bêdê móg³.
+{3722}{3807}A ... ty, idŸ i przynieœ mi trochê gor¹cej wody!|Rêcznik i myd³o te¿.
+{3807}{3841}Teraz ...
+{3842}{3875}Taa ...
+{3893}{3960}Teraz po dobrym posi³ku|zas³u¿y³eœ na dobrego drinka.
+{3961}{4011}A teraz, na przysz³oœæ|- p³aæ kiedy ciê poproszê.
+{4011}{4063}- Albo nastêpnym razem ka¿ê ci zjeœæ w³asne gówno.
+{4063}{4130}Po wyciœniêciu go z twojego fiuta,|jak pasty do zêbów.
+{4131}{4214}Nie, zostaw tak, Spangler.|Cor blimey, tu jest pani.
+{4215}{4283}Ona nie chcia³aby na to patrzeæ.
+{4317}{4368}Wystarczy. Dziêkujê bardzo. £adnie, czysto ...
+{4368}{4403}Daj mi ten rêcznik
+{4403}{4453}Daj mi to. Taa.
+{4453}{4538}Nigdy nie lubi³em tej chiñszczyzny|a patrz¹c na ciebie, jeszcze mniej.
+{4538}{4589}Dobra ch³opcy!
+{4589}{4640}Musimy zrobiæ niespodziankê Richardowi|na nasz jubileusz.
+{4641}{4691}Przynieœ papeterie.
+{4692}{4775}Georgie, masz popió³ na cyckach.|Jeœli ubierasz siê na czarno, nie pal.
+{4776}{4843}- Wygl¹dasz jak dziwka w czerni.|- To granat.
+{4844}{4911}To czerñ. I nie pal. To ochydne dla kobiety.
+{4912}{4945}Nikt przed jedzeniem nie pali.
+{4946}{5014}To rujnuje ci smak, parzy jêzyk|i œmierdz¹ ci od tego szczochy.
+{5014}{5064}- Bzdury.|- To nie g³upie bzdury.
+{5065}{5115}W¹cha³em klopa po tym,|jak tam la³aœ.
+{5116}{5185}Kiedy ty siê nauczysz, m¹dralo?
+{5337}{5405}ChodŸcie, pospieszcie siê ch³opcy.
+{5490}{5541}Policz to dok³adnie
+{6305}{6339}Gdzie jest Richard?
+{6340}{6390}- Skubie.|- Skubie? Richard!
+{6391}{6441}Gdzie jesteœ?|Doœæ tego skubania. Gdzie jesteœ?
+{6442}{6492}A to co? A-S-P ...
+{6493}{6577}To nonsens. Przeliteruj to, na litoœæ bosk¹.
+{6578}{6645}Jasna cholera. Richard! Rich ... A!
+{6646}{6695}Tu jesteœ. Teraz ...
+{6696}{6747}Zostaw to, chodŸ i zobacz|co dla ciebie mam.
+{6748}{6815}Przynios³em ci prezent.|To nasz jubileusz.
+{6816}{6865}Trzy miesi¹ce wzajemnego zrozumienia,|co, Richard?
+{6865}{6967}Trzy miesi¹ce odk¹d zosta³eœ moim|ulubionym restauratorem.
+{6968}{7019}Mr. Spica, to jest kaczka.
+{7036}{7070}Kaczki rodz¹ siê z piórami.
+{7070}{7121}Ale to jest pana obiad, Mr. Spica.
+{7122}{7205}Jeœli pan chce ¿eby zosta³a z piórami,|mo¿emy j¹ tak podaæ,
+{7206}{7273}Ale myœlê, ¿e lepiej je usun¹æ.
+{7274}{7326}Canard en ses plumes torche.
+{7341}{7375}Mitchel, ty oœle.
+{7376}{7426}Richard, chodŸ zobacz, no chodŸ.
+{7426}{7478}Proszê, b³agam ciê. ChodŸ.
+{7512}{7597}Georgina, ile razy ci mówi³em?|Nie paliæ w kuchni.
+{7597}{7665}- Mitchel, rusz tu ty³ek, szybko.
+{7683}{7785}Teraz, Richard, to jest twoje ...|no, nasze nowe logo.
+{7971}{8022}Szlag by to trafi³ ...
+{8023}{8056}Richard.
+{8090}{8140}-- W restauracji jest ciemno.|- Tak, Phillipie.
+{8141}{8226}Dziêki hojnoœci pana Spica,|wszêdzie jest ciemno.
+{8260}{8311}Nie ma pr¹du, nie ma œwiat³a.
+{8345}{8429}- Myœla³ pan o zimnym bufecie dziœ wieczorem?|- Ale ja nie chcê zimnego bufetu.
+{8430}{8547}- Paté d'alouettes w sosie z cykorii.|- Paté d'alouettes w sosie z cykorii.
+{8548}{8615}- Terrine de caneton.|- Terrine de caneton.
+{8616}{8718}- Indyk na zimno z cytryn¹ i bazyli¹.|- Indyk na zimno z cytryn¹ i bazyli¹.
+{8718}{8753}Anchovies w occie czosnkowym.
+{8754}{8838}Nie musi byæ zimny,|macie tu gaz, do cholery!
+{8872}{8938}Jej ty³ek jest|jak dwa dojrza³e arbuzy w worku.
+{8939}{8990}Kurczak na zimno, paté d'alouettes,
+{8990}{9059}Salade de langoustine,|gâteau de carottes et Gruyére ...
+{9059}{9144}Ty. Ty im zrób elektrykê, Mitchel.|Napraw to albo ...
+{9145}{9177}... nie dostaniesz jeœæ.
+{9178}{9229}Nie dostaniesz jeœæ.
+{9264}{9314}Mówi³em ci nie pal.
+{9330}{9381}Powinienem siê chyba nie ruszaæ, Mr. Spica.|Bo kto wie?
+{9382}{9449}Jeszcze coœ zepsujê,|albo w³o¿ê pana jedzenie do czegoœ.
+{9449}{9535}A wiêc, gor¹cy posi³ek dziœ wieczorem.|Coœ specjalnego, proszê. Mo¿e ...
+{9535}{9603}e ... les oh d'oeuvres, albo, gâteau au poivres,
+{9604}{9687}albo, terrine et fillet lamb et poison au er, poi, poi ...
+{9688}{9754}- To ''syf jakiœ''.|- Co powiedzia³aœ, Georgie?
+{9755}{9805}Co powiedzia³aœ? Co powiedzia³aœ?
+{9806}{9858}Obrzydlistwo.
+{9943}{10060}- No, panie Spica, mam nadziejê, ¿e jest pan g³odny.|- Zawsze. Idziemy, ch³opcy.
+{10096}{10215}No ju¿, Georgie, idŸ tam,|zadrzyj kieckê i zagrzej mi siedzenie.
+{10249}{10316}No to jak myœlisz, he? Co zrobisz ...?
+{10400}{10469}Jeœli poœwiêca pan tyle pieniêdzy|na jedzenie, Mr. Spica,
+{10469}{10519}ile wydaje na dekoracje,
+{10520}{10588}pañskie poczucie smaku musi wzrosn¹æ.
+{10640}{10724}Tylko nie przesadŸ z bezczelnoœci¹, kuchto.|Zale¿ysz ode mnie, nie zapominaj.
+{10725}{10792}Beze mnie, ty, obcokrajowiec,|nie utrzyma³byœ siê tu zbyt d³ugo.
+{10792}{10825}Popatrz, co mam dla ciebie.
+{10826}{10894}Dwie ciê¿arówki pe³ne dobrych rzeczy,|wystarczy do twojej kuchni.
+{10894}{10961}- I nie dotkn¹³bym tego.|- A czemu¿ to nie?
+{10961}{11029}Nalegam, ¿ebym sam kupowa³ jedzenie, Mr. Spica.
+{11030}{11080}Wtedy mogê byæ pewien jego jakoœci.
+{11081}{11148}Ja tutaj reprezentujê jakoœæ,|moje nazwisko jest z tego znane.
+{11149}{11200}Zapewniam jakoœæ i protekcjê.
+{11216}{11300}Protekcjê przed czym,|zastanawiam siê, Mr. Spica? I kim?
+{11301}{11386}Protekcjê przed nadmiernym|temperamentem moich ludzi.
+{11387}{11455}Przed nag³ym zatruciem pokarmowym.
+{11471}{11556}Przed szczurami. Przed inspektorami sanepidu.
+{11557}{11624}Jeœli jest pan g³odny dzisiaj,|to bêdzie pan musia³ poczekaæ.
+{11625}{11708}Niech pan zapnie trzeci guzik|pañskiej drogiej marynarki, Mr. Spica.
+{11709}{11795}Poczuje siê pan mniej|pusty w œrodku, Mr. Spica.
+{11811}{11862}Nie mo¿esz kazaæ mi czekaæ.
+{14123}{14189}Nie, tak siê tego nie je! Poka¿ê ci.
+{14190}{14258}Oh. WyobraŸ sobie, ¿e ssiesz|drobne paluszki pewnej pani albo ...
+{14259}{14360}Nie, nigdy tak blisko nie bêdziesz z kobiet¹.|Kto by chcia³ siê do ciebie zbli¿yæ?
+{14360}{14428}- Nie interesowa³yby mnie jej palce.|- Spodziewa³em siê, ¿e to powiesz.
+{14429}{14495}Ty byœ tylko wpycha³ to i wypycha³|I wytrzyj sobie marynarkê.
+{14496}{14547}Popatrz na swoj¹ marynarkê,|jak œwiñska zagroda.
+{14548}{14631}I móg³byœ sobie wyczyœciæ paznokcie. Poka¿.
+{14632}{14717}Czemu ja nie mogê mieæ odrobiny pieprzonej|jakoœci ko³o siebie?
+{14718}{14785}Od teraz ka¿dy nieodpowiednio ubrany|do kolacji zap³aci za to.
+{14786}{14870}Ju¿ ja was nauczê.|Georgina wam to przepisze.
+{14870}{14955}''Uwagi Dla Gourmets''. To po francusku|dla smakoszy, nie, kuchto?
+{14956}{15022}- Gourmets nie bekaj¹.|- Przeciwnie, przeciwnie. Robi¹ to.
+{15023}{15074}To pokazuje, ¿e cieszysz siê posi³kiem.
+{15075}{15143}Nie palcami, Spangler!|To zrozumiesz -
+{15160}{15210}jeœæ rêkami to jak chodziæ|po ulicy w³asnych na rêkach.
+{15211}{15260}Kaza³eœ Mewsowi jeœæ seler palcami.
+{15261}{15346}To co innego, durniu.|I to jest szparag, nie seler.
+{15347}{15448}Co za sens topiæ tysi¹ce w restauracjê,|skoro nie chcesz jeœæ poprawnie?
+{15449}{15516}- Powiedz im, Georgina.|- Co im powiedzieæ?
+{15517}{15600}Po prostu kopiujcie Georginê. Ona wie jak.|Cory, daj tutaj Richarda.
+{15601}{15668}Chcê ¿eby moje logo by³o przymocowane|i daj je na tê œcianê nad drzwiami kuchni.
+{15669}{15770}Gdyby Richard wiêcej myœla³ o sloganach,|robi³by wiêksza kasê, nie?
+{15771}{15805}- To miejsce jest za ciemne.
+{15805}{15872}Móg³by przemalowaæ. Z³oto, potrzeba wiêcej z³otego.
+{15873}{15924}Mo¿e z³oto i niebieski?
+{15941}{16008}Co myœlisz, Henry?|10,000 powinno wystarczyæ - zajmie 2 miesi¹ce.
+{16009}{16093}Powinieneœ tam wejœæ.|Ceny kuchty s¹ wyjête z rêkawa.
+{16094}{16162}Ma g³owê w chmurach. Dobry kucharz.|Doskona³y kucharz!
+{16163}{16247}Tylko do wszystkiego daje grzyby.|Henry, od³ó¿ tego papierosa.
+{16248}{16298}Przeszkadza ci, ¿e jem kiedy palisz?
+{16298}{16382}Gordon æmi³ papierosy przy jedzeniu -|spali³ sobie gard³o.
+{16382}{16468}Mitchel, ty masz.|I nie chowaj go w spodnie.
+{16484}{16569}Nie k³adŸ skórki od pomarañczy na brzegu|talerza, po³o¿ysz to oberwiesz!
+{16570}{16672}Jak wam siê wydaje - co to jest|- m¹dry kucharz uk³ada niedbale rzeczy ze sob¹
+{16672}{16723}jak kaczkê i pomarañcze,|jak brzoskwinie i szynkê.
+{16724}{16757}To siê nazywa artyzm.
+{16757}{16841}Jestem artyst¹ w tym, jak kombinujê|mój biznes i moje przyjemnoœci.
+{16841}{16875}Pieni¹dze to mój biznes,|jedzenie to przyjemnoœæ.
+{16876}{16960}Georgie to te¿ moja przyjemnoœæ,|Tylko w bardziej prywatnym tego s³owa znaczeniu
+{16961}{17011}ni¿ zapychanie gêby i kiszek.
+{17029}{17063}Przyjemnoœci s¹ powi¹zane,
+{17064}{17148}Np. ³akome k¹ski i du¿e kêsy|brzmi¹ podobnie,
+{17164}{17248}co ma pokazaæ, jak jedzenie|i seks s¹ ze sob¹ powi¹zane.
+{17249}{17317}£akome k¹ski Georgie|s¹ ³adnie powi¹zane, nie?
+{17318}{17402}Specjalnie, kiedy zwraca|na mnie uwagê. Georgie.
+{17403}{17520}Daj tu Phillipa! Chcê, ¿ebyœ zrobi³a do domu|serwetki, Georgina. Niech ciê Adele nauczy.
+{17521}{17572}Spangler, rusz siê i przyprowadŸ Phillipa.
+{17573}{17639}Daj tu Richarda,|Muszê mu z³o¿yæ propozycjê.
+{17640}{17708}Niech Adele przyniesie wody|z angostur¹
+{17709}{17776}i cytryn¹|i miskê zimnej wody do moich r¹k ...
+{17777}{17861}Henry! Daj te wazony z tamtego sto³u.|I kwiaty.
+{17879}{17930}Ten stó³ ma wygl¹daæ na najwa¿niejszy tutaj.
+{17930}{17980}Chcê mieæ tutaj masê wazonów.
+{18235}{18320}- Co to jest?|- Dla Madame Spica, compliments od firmy.
+{18321}{18370}Ona nie jest ¿adna madame.|Dlaczego ja nie dosta³em?
+{18371}{18455}- W¹tpiê, by panu smakowa³o, Mr. Spica.|- SprawdŸ to.
+{18456}{18540}Przyzwyczai³em siê, ¿e jest|pan konserwatywny.
+{18541}{18591}To nie prawda. Lubiê przygody.
+{18592}{18643}Pañska ¿ona ma doskona³e|podniebienie, Mr. Spica.
+{18644}{18728}Dla nas to zawsze wielka|przyjemnoœæ s³u¿yæ jej.
+{20495}{20597}Chcê jeden z tych gor¹cych, mokrych rêczników,|które Richard mi podawa³ szczypcami.
+{20598}{20682}Adele to ani kasa ani figura.|Po prostu dekoracja, same usta i cycki.
+{20683}{20733}- Zamienimy j¹.|- Mogê ja zamieniæ?
+{20733}{20853}Zamknij gêbê Mitchell. Zawsze jak j¹ otwierasz,|tylko pokazujesz jaki jesteœ wulgarny.
+{21430}{21464}Georgina! Witamy z powrotem.
+{21464}{21532}Wytar³aœ deskê zanim|zaparkowa³aœ swój ty³ek?
+{21533}{21616}Nigdy nie wiadomo co mo¿na dziœ z³apaæ.|Ka¿de siedzenie w toalecie to pole minowe.
+{21617}{21735}To dla ciebie. Richard myœla³, ¿e spróbujê,|osobiste compliments od szefa.
+{21736}{21804}Zjedz to. Ja tego nie ruszy³em, bo œmierdzia³o.
+{21805}{21854}lris spiek³a raka na ty³ku|od siedzenia na desce klozetowej.
+{21854}{21957}Mechanik wyla³ kwas akumulatorowy|do WC ¿eby siê go pozbyæ.
+{21990}{22058}Trochê prysnê³o na deskê .|lris uciek³a z krzykiem na ulicê,
+{22059}{22092}sycz¹c z ty³ka.
+{22093}{22126}Odt¹d ju¿ nie jest ta sama.
+{22127}{22212}Dalej siê rozbiera,|ale nigdy ty³em do publicznoœci.
+{22212}{22280}Musi zmieniæ swój numer.|Teraz musi bardziej przodem do klienta.
+{22281}{22347}- Dok¹d idziesz?|- Zostawi³am zapalniczkê w toalecie.
+{22348}{22399}- Cholera. Nie potrzebujesz jej.|- Potrzebujê!
+{22399}{22483}Richard, zamierzam zakazaæ tu palenia.|Jutro pojawi¹ siê znaki.
+{22484}{22534}Powinieneœ pogrubiæ swój francuski akcent,
+{22535}{22585}Jakbyœ dopiero wróci³ z Pary¿a.
+{22585}{22671}Dodaj trochê tego u-la-la.|Trochê wiêcej ''parlez-vous français?''
+{22671}{22721}Wtedy móg³by mnie|pan nie rozumieæ, Mr. Spica.
+{22722}{22806}Nie wiem. Zawsze rozumia³em|francuskie litery.
+{25458}{25492}Georgina!
+{25493}{25543}Co ty tam do diab³a robisz?
+{25559}{25595}Georgina?
+{25611}{25678}Siedzisz tu od wieków.|Co ty tu robisz, chyba rodzisz?
+{25679}{25729}Ja tylko ...
+{25729}{25798}- Ja tylko sobie palê.|- Palisz?
+{25833}{25899}Przecie¿ nienawidzisz|jak palê przy stole.
+{25900}{25949}Cholera, Georgina.
+{25950}{26002}Po co k³amiesz ¿e zgubi³aœ zapalniczke?
+{26002}{26104}Nie k³ama³am, Zostawi³am j¹ tutaj,|na pó³ce przed lustrem.
+{26120}{26154}Zaraz przyjdê.
+{26155}{26239}Nie zagaduj pañ,|¿eby nie denerwowaæ klientów.
+{26240}{26273}Poka¿ zapalniczkê.
+{26274}{26308}Tutaj.
+{26358}{26392}Papierosa te¿ chcesz?
+{26393}{26443}Nie wym¹drzaj siê tu.
+{26444}{26494}Co ty tam robisz,|Georgina?
+{26511}{26545}Zabawiasz siê ze sob¹?
+{26546}{26630}To jest zabronione, to moja w³asnoœæ.|Nie wolno ci siê tym bawiæ.
+{26630}{26731}- Zamknij siê, Albert.|- Wpuœæ mnie, poka¿ê ci jak siê podetrzeæ.
+{26732}{26783}OdejdŸ. Zaraz przyjdê.
+{26784}{26834}Dobrze, ale nie siedŸ za d³ugo.
+{26834}{26885}Zamówiê ci gâteau aux poivres.
+{26919}{26970}I profiteroles.
+{27021}{27073}I umyj rêce.
+{27089}{27157}Nie wiesz kto korzysta³ z tego miejsca.
+{28313}{28363}Zajê³o ci to trochê czasu.
+{28364}{28431}Pomyœla³em, ¿e poczekam na ciebie.
+{28432}{28483}Pachniesz ³adnie i s³odko.
+{28483}{28550}Umyj rêce, a ja dam ci buziaka.
+{28772}{28890}Czy wiesz co powiadaj¹ o tych, którzy|krêc¹ siê ko³o damskich toalet?
+{28908}{28958}No co powiadaj¹ ?
+{28975}{29043}- Prosz¹ siê o rozwianie ich iluzji.|- Taa ....
+{29044}{29110}Nie masz dla mnie ¿adnych iluzji, Georgie?
+{29111}{29144}Nic nie zosta³o nieodkryte.
+{29145}{29213}IdŸ zamówiæ moje profiteroles, pójdziesz?
+{29214}{29248}ChodŸ.
+{29280}{29315}ChodŸ.
+{29605}{29706}PI¥TEK|RESTAURACJA ZAREZERWOWANA|PRYWATNA UROCZYSTOŒÆ
+{30063}{30130}Ja myœlê, ¿e ci Etiopczycy lubi¹ g³odowaæ.
+{30130}{30233}Dziêki temu s¹ szczupli i wdziêczni, z tymi|wielkimi g³owami i oczami. No wiesz, te dzieci ...
+{30233}{30317}- Jesteœ chory.|- Mogê, jak bêdziesz taka arogancka.
+{30318}{30419}Co ty wiesz o g³odzie, Georgina?|Mo¿esz mieæ co zechcesz.
+{30420}{30521}- Gdzie byliœcie? Jesteœcie spóŸnieni.|- Jest pi¹tek wieczór. Jest du¿o pieniêdzy.
+{30522}{30606}Ten cz³owiek marzy ¿eby to dotkn¹æ.|No popatrzmy.
+{30607}{30657}To jest to, czego tej|restauracji trzeba.
+{30658}{30708}Mo¿ecie zacz¹æ je podawaæ.
+{30709}{30776}Co jest, Mitchel?|Nie smakuj¹ ci œlimaki?
+{30777}{30827}Musisz je polubiæ,|jeœli chcesz jadaæ ze mn¹.
+{30828}{30878}Nie wa¿ mi siê tutaj!
+{30879}{30928}Albo Spangler przepcha|ci to gard³o.
+{30929}{31030}Z restauracji Malay'a.|Zatrucie pokarmowe ich wystraszy³o i p³ac¹.
+{31031}{31082}Oni na pewno do tego|nie potrzebuj¹ naszej pomocy.
+{31082}{31150}To co oni tam jedz¹,|to ju¿ jest trutka.
+{31151}{31218}Jacyœ indianie s¹ znani z tego, ¿e|pij¹ w³asne siuœki.
+{31219}{31269}Ta sama woda kr¹¿y i kr¹¿y.
+{31287}{31371}Oczywiœcie trochê siê traci|przez parowanie.
+{31371}{31457}Wtedy trzeba to uzupe³niæ.|Czyje siuœki wypi³byœ pierwszy?
+{31457}{31507}- Erm ...|- Ja mia³bym gotowy zapas, nie chcia³byœ?
+{31508}{31575}Georgie i ja mamy nasze ma³e sesje kiedy ...
+{31576}{31609}Dobry Bo¿e, co ty tu masz?
+{31610}{31678}Nawet ty dostajesz komplementy|od szefa.
+{31695}{31745}Jesteœ œwink¹ doœwiadczaln¹|na ekperymenty kuchty, co?
+{31746}{31864}Dobry Bo¿e, wygl¹da jak ...|¿arcie dla zapartych francuskich królików.
+{31865}{31949}Albert, dlaczego nie zamówisz dla mnie chianti?|Wiesz, ¿e lubiê chianti.
+{31949}{31999}W tej oplecionej dooko³a butelce.
+{32000}{32051}Wtedy bêdê mog³a j¹ zabraæ|do domu i powiesiæ na œcianie.
+{32052}{32118}- Grace, nie masz ju¿ doœæ?|- Nie.
+{32119}{32152}A ty gdzie do cholery idziesz?
+{32153}{32221}- Do toalety.|- Jeszcze nic nie wypi³aœ.
+{32222}{32288}Ona ma pêcherz jak nieszczelny baniak.|Nie siedŸ za d³ugo!
+{32289}{32339}- Zdenerwowa³eœ j¹.|- Bzdura.
+{32340}{32459}Nie siedŸ d³ugo! Jesteœ dzisiaj taka rozmowna,|¿e nie wytrzymalibyœmy tej ciszy bez ciebie.
+{32476}{32509}Umyj rêce!
+{35755}{35823}- Ten krem jest s³ony.|- To jest sauce Hollandaise.
+{35824}{35874}W czymœ pomóc, Mr. Spica?
+{35875}{35925}Przyszed³em w sprawie|tych potraw z komplementami.
+{35925}{35992}W przysz³oœci - wszyscy goœcie|przy moim stole maj¹ je dostawaæ.
+{35993}{36044}Co tak d³ugo z t¹ moj¹ ryb¹?
+{36045}{36129}Mo¿e j¹ pan sam sobie weŸmie,|jak pan chce, Mr. Spica.
+{36130}{36181}- Szuka pan czegoœ?|- Nie ... Ty j¹ przyniesiesz.
+{36181}{36265}- Nie szuka pan swojej ¿ony?|- Nie, oczywiœcie. ¿e nie.
+{36265}{36317}Mr. Spica, coœ panu poka¿ê.
+{36538}{36638}- Co to jest?|- Nowe sztuæce. ¯eby nadaæ trochê stylu tej restauracji.
+{36639}{36758}Przynios³em 300 kompletów.|Moi ludzie w³aœnie zmieniaj¹ nakrycia.
+{36759}{36808}Nie najlepsza jakoœæ, Mr. Spica.
+{36809}{36893}Nie móg³bym ich u¿ywaæ|w swoim domu, Mr. Spica.
+{36894}{36944}Wszystkie 300.
+{37558}{37608}Gdzie by³aœ? Podciera³aœ ty³ek?
+{37609}{37675}U¿ywa³aœ lewej rêki,|tak jak ci pokazywa³em?
+{37676}{37743}Sk¹d ty to wytrzasn¹³eœ, Mews?|To gówno, rozpada siê na kawa³ki.
+{37744}{37812}Zwróæ je. WeŸ 150% zwrotu. Bo¿e.
+{37846}{37897}Co ty jesz, Georgie?|Niewiele.
+{37932}{37999}Widzê, ¿e wszyscy tutaj dostali|takie same pozdrowienia.
+{38000}{38101}Co to jest? Wygl¹da jak|jakaœ ... rozwodniona sa³ata.
+{38102}{38134}Nie za wiele tego.
+{38134}{38185}Drogie, nie w¹tpiê,|ale nie tucz¹ce.
+{38186}{38253}Powinnaœ trzymaæ formê,|wygl¹dasz jak tyczka.
+{38254}{38304}Cynaderki, w¹tróbka, ¿elazo,|tego ci trzeba.
+{38304}{38406}Wiesz, ¿e krowa wypija przez tydzieñ|dwa razy tyle wody, ile wa¿y?
+{38407}{38491}Dla mleka, rozumiesz,|poniewa¿ krowa ma wielkie cycki.
+{38492}{38543}Tak jak ty, co Georgie?
+{38594}{38662}Wy panowie raz macie|to w prezencie
+{38662}{38730}bo z jakiegoœ, tylko jej znanego, powodu,
+{38731}{38780}zostawi³a je niezapiête
+{38798}{38865}Cory, czy kiedykolwiek|próbowa³eœ ludzkiego mleka?
+{38865}{38933}Mam na myœli niedawno.|Te tam - lata temu siê nie liczy.
+{38934}{39018}Nie mog³eœ wtedy doceniæ|czym siê delektowa³eœ, prawda?
+{39019}{39138}Za³o¿ê siê, ¿e ludzkie mleko to wielki przysmak|w niektórych krajach. Powinien tutaj byæ.
+{39138}{39188}Wiesz Cory, kto móg³by nam|dostarczaæ ludzkiego mleka?
+{39189}{39273}Ciep³e, prosto z pojemnika,|¿e tak powiem?
+{39274}{39341}Nie ¿artujê! To cenny artyku³,|a nie przedmiot ¿artów!
+{39342}{39392}Georgie nie mog³abyœ|¿artowaæ z tego, co?
+{39392}{39426}Co, Georgie?
+{39426}{39528}Jesteœ wzorem dla kobiet.|Mog³abyœ im niejedno pokazaæ.
+{39529}{39596}Mog³abyœ nauczyæ tych m³odych|panów niejednego. Ten Mitchel.
+{39596}{39647}Z drugiej strony, nie.|Bo on to ¿a³osny ma³a gnida.
+{39647}{39749}- Wiêc jak to siê sta³o, ¿e nie masz dzieci?|- Dzieci?
+{39750}{39833}Komu potrzebne dzieci?|Kto chce mieæ dzieci?
+{39834}{39885}Ja chcê mieæ dzieci.
+{39902}{39970}Bêdziemy kiedyœ|mieli dzieci, co nie?
+{40022}{40072}Pewnie jak ju¿ bêdziesz|stara i siwa!
+{40072}{40157}Twój k³opot polega|na tym, ¿e nie jadasz dobrze.
+{40157}{40224}Powinnaœ piæ wiêcej wody|i jeœæ wiêcej cynaderków.
+{40225}{40311}A wtedy mo¿e bêdziesz|mia³a kiedyœ jakieœ dziecko.
+{40328}{40361}Georgie nie lubi dzieci, co?
+{40362}{40462}Wiesz, czasem wydaje mi siê,|¿e zachowujesz siê jak facet.
+{40463}{40497}Kiedy tak jest, Albert?
+{40497}{40531}- Jak to jest?|- A ty co?
+{40532}{40599}OdejdŸ od tego sto³u,|ty gówniana gnido!
+{40617}{40701}IdŸ zjeœæ zupê do kuchni,|ty œwiñski zboczeñcu!
+{40702}{40752}No ju¿, wynoœ siê razem z ¿arciem.
+{40753}{40803}To tylko Mitchel robi¹cy|z siebie durnia.
+{40803}{40853}Albo idŸ do k¹ta.|Cory, zrób mu czapkê z papieru.
+{40854}{40922}Stañ w k¹cie jak niegrzeczny ch³opiec.
+{40923}{40973}Stój tam. Zabierz ze sob¹|swój nó¿ i widelec.
+{40973}{41023}- Nie wyg³upiaj siê.|- Chcesz do niego do³¹czyæ?
+{41024}{41142}Zostaw go. On tylko ciê naœladuje|jak zwykle. Ty siê zachowasz, on siê zachowa.
+{41143}{41193}- Wychodzê.|- Tak, wychodzimy.
+{41194}{41279}Gracie, masz. Zap³aæ|rachunek i weŸ taksówkê.
+{41296}{41381}Georgie i ja idziemy na ma³¹ przeja¿d¿kê.
+{41398}{41448}Jutro jest rocznica naszego œlubu.
+{41448}{41499}Mo¿e pojedziemy nad morze.
+{41500}{41568}Zabawiæ siê pod molo, jak kiedyœ.
+{41721}{41771}Ups. Przepraszam.
+{41772}{41840}Ale to nie biblioteka, tylko restauracja.
+{41840}{41891}Po to tu przychodz¹ ludzie.
+{41942}{41975}Richard.
+{41975}{42078}To trzeba ugotowaæ.|Zgrilluj to z t³uczonym groszkiem.
+{42469}{42519}Co taki ch³opak jak ty robi|tu przy myciu naczyñ?
+{42519}{42570}To praca dla kobiet,|nie wiedzia³eœ? Hey!
+{42570}{42655}Mój Bo¿e, p³yta pancerna.|Uwa¿aj ch³opcze, potrzebujesz tego.
+{42655}{42706}Niewinnoœæ. To jest to, co mia³em|zanim spotka³em Georgie.
+{42707}{42774}- To tego one chc¹.|- Albert. ChodŸ, jesteœ pijany.
+{42775}{42807}- ChodŸ!|- Mam zaœpiewaæ dla ciebie?
+{42808}{42859}- Co?|- Albert, chodŸ, to tylko dziecko.
+{42859}{42926}Tak, zaœpiewaj dla mnie.|Tak, mo¿esz mi zaœpiewaæ.
+{42927}{42960}Stañ tutaj. Œpiewaj.
+{42961}{43045}By³em dobrym œpiewakiem jak by³em ch³opcem,|prawda, Georgie?
+{43046}{43097}No ju¿. Zaœpiewaj dla mnie.
+{43114}{43166}No ju¿, œpiewaj do licha!
+{43386}{43436}Kiedyœ by³em w chórze.
+{43437}{43487}Tak. Kobiety lubi¹ chórzystów.
+{43488}{43556}Prawie zosta³em chórzyst¹,|kiedy spotka³em Georgie.
+{43557}{43606}Ale ty wszystko zepsu³aœ, co?
+{43607}{43674}Georgie by³a niez³¹ szko³¹, umia³a|nauczyæ m³odego mê¿czyznê wszystkiego.
+{43675}{43759}ChodŸ, Georgie, poka¿ ch³opcu,|co mi pokaza³aœ.
+{43759}{43812}- Albert.|- No ju¿, poka¿ ch³opcu ...
+{43812}{43862}- Albert!|- Rób co ci mówiê!
+{43879}{43947}Idziecie ze mn¹ na ten parking,|oboje. No ju¿.
+{43947}{43997}Na parking. Ruszaæ siê.
+{44066}{44151}Dam ci najlepsze wykszta³cenie.|poka¿ê ci jak¹ nauczycielk¹ jest Georgie.
+{44151}{44184}-Nie dotykaj go!
+{44185}{44236}- Zostaw go!
+{44253}{44354}O, rozumiem. Nie powinienem tego robiæ?|Dam ci szko³ê.
+{44355}{44387}- Albert, proszê zostaw go w spokoju.|- O nie.
+{44388}{44439}Stój tutaj i nie ruszaj siê.
+{44439}{44473}- Daj mu spokój.|- Patrz na to.
+{44473}{44557}- Nie. Poczekaj a¿ bêdziemy w domu, Albert.|- Georgie. Georgie, chodŸ tutaj..
+{44558}{44626}A to co ?|Nie masz ¿adnych pieprzonych majtek.
+{44627}{44694}Siedzia³aœ w restauracji|bez majtek?
+{44694}{44763}Z Corym i Mitchelem i tymi ludŸmi?|Co to ma byæ?
+{44764}{44813}Gdzie oni s¹? Dawaj ich tu zaraz.
+{44814}{44882}No ju¿. Patrz na to.|Do samochodu, ty dziwko.
+{44883}{44933}Dlaczego wszystko œci¹gasz?
+{44949}{45018}- W³aŸ do œrodka. No ju¿! Do samochodu!
+{45034}{45086}- Teraz ty! Ty te¿ w³aŸ do œrodka.|- Nie!
+{45086}{45154}- Ju¿, w³aziæ w³aziæ|- Nie! Proszê!
+{45170}{45239}- Nie ! Nie ! Nie !|- W³aŸ mówiê
+{45339}{45392}- Dobrze..!
+{45664}{45714}SOBOTA|COCKTAIL
+{48518}{48586}Wiesz co to s¹,|ostrygi preriowe, Mitchel?
+{48587}{48620}Ryby.
+{48620}{48705}Gdyby ktoœ ciê nakarmi³ ostrygami|preriowymi, to co byœ jad³?
+{48705}{48773}Ryby. S³odkowodne i takie tam.|To s¹ ...
+{48773}{48823}To ma³¿e z pere³kami w œrodku.
+{48824}{48891}Ostrygi preriowe by³yby cenne|dla ich posiadacza. Nie.
+{48892}{48926}Nie, wyobraŸ sobie ...
+{48927}{48994}WyobraŸ sobie, ¿e to ostryga preriowa.
+{49011}{49078}No œmia³o. Zjedz to, œmia³o.|W³ó¿ to do buzi. Œmia³o.
+{49079}{49129}No i jak to smakuje?
+{49164}{49198}- Mokry chleb.|- Nie.
+{49199}{49249}G¹bczaste z ma³ymi ziarenkami.
+{49283}{49318}To piasek.
+{49352}{49401}To piasek. Jesteœ zabawny.
+{49402}{49469}Nie, ty oœle. Ma skórkê dooko³a.
+{49521}{49554}- Wypluæ skórkê?|- Nie.
+{49555}{49605}Trzymaj to z dala od zêbów, a potem pogryŸ.
+{49606}{49674}Teraz po³knij, no ju¿. po³knij to.
+{49674}{49707}Œmia³o. Dobrze.
+{49708}{49759}W³aœnie zjad³eœ baranie jaja.
+{49878}{49928}Kiedy ciê kiedyœ poproszê,|abyœ coœ dla mnie zrobi³,
+{49929}{50030}Bêdê oczekiwa³, ¿e prze¿ujesz|czyjeœ jaja na ¿¹danie.
+{50031}{50065}O jesteœ.
+{50065}{50166}Co jest takie fascynuj¹ce w toalecie?|Idê siê odlaæ i sprawdziæ.
+{50167}{50250}Co tu dosz³o odk¹d tu ostatnio by³em?|Jedwabne siedzenia, brzydkie obrazki?
+{50251}{50337}Perfumy za darmo?|Prywatne bary z drinkami?
+{50830}{50880}Co tu tak strasznie cuchnie!
+{50880}{50947}Tu chodz¹ chyba same œwinie?|Ale ochyda.
+{50948}{51000}Potwornoœæ. Okropne.
+{51017}{51118}To wstrêtne miejsce potrzebuje|przewietrzenia. Co to jest?
+{51137}{51220}Pos³uchaj. "By³ sobie m³ody cz³owiek z Pacanowa,|który myœla³ sobie podczas ...''
+{51221}{51306}To wstrêtne!|Ludzie musz¹ siê brzydziæ patrz¹c na to.
+{51307}{51356}Przera¿aj¹ce. Ja tak nie umiem.
+{51356}{51423}To poni¿aj¹ce. Nie uwa¿asz?|Jak s¹dzisz?
+{51423}{51457}Dobry Bo¿e.
+{51458}{51508}- A ty co siê tak gapisz?|- O co chodzi?
+{51509}{51593}Nie udawaj. Czekasz na moich|m³odych towarzyszy, co?
+{51593}{51646}Facet powinien móc laæ|w spokoju.
+{51646}{51696}- Jak œmiesz? Wo³am kierownika.|- Ja jestem kierownikiem.
+{51697}{51763}A ty jesteœ na ulicy.|Przy³apany na krêceniu siê po toalecie.
+{51763}{51798}- Taa ...
+{51815}{51899}Tego im trzeba.|Krótka, ostra, terapia wstrz¹sowa.
+{52037}{52070}A ty co tutaj robisz?|Znowu czytasz?
+{52070}{52155}To nie biblioteka. Jedyne co tu wolno|czytaæ to menu.
+{52155}{52207}Zniewa¿asz szefa.
+{52207}{52257}Czytanie powoduje niestrawnoœæ,|Nie wiedzia³eœ o tym?
+{52258}{52308}Nie czytaj przy stole.
+{52343}{52410}W³aœnie siê naczyta³em takich|rzeczy, ¿e w³osy dêba staj¹.
+{52410}{52443}Tam, w toalecie
+{52444}{52494}Takie rzeczy ludzie czytaj¹, a nie to.
+{52495}{52546}Matka ciê opuœci³a?
+{52547}{52597}Czy to daje jakieœ pieni¹dze?
+{52598}{52664}Wiesz, za³o¿ê siê, ¿e|tylko ty przeczyta³eœ tê ksi¹¿kê.
+{52665}{52732}Ale za³o¿ê siê, ¿e ka¿dy tu|przeczyta³ tamte rzeczy.
+{52733}{52782}Nie daje ci to do myœlenia?
+{52783}{52851}Chyba wiem, czytasz, bo|nie masz z kim porozmawiaæ.
+{52852}{52936}Powiem ci coœ. Nie powinieneœ zatem jeœæ sam,|mo¿e siê do nas przy³¹czysz?
+{52937}{52970}ChodŸ, poznasz moj¹ ¿onê.
+{52971}{53072}Widzia³a ciê.|Wiem, ¿e jest jej smutno, ¿e tak sam siedzisz.
+{53073}{53158}Ona te¿ lubi czytaæ.|Ca³ymi godzinami siedzi w ³ó¿ku i czyta.
+{53158}{53226}Ona czyta nawet|siedz¹c na tronie.
+{53328}{53379}To jest Cory.
+{53396}{53480}To jest Mitchel. On nie umie czytaæ,|nie umiesz, Mitchel?
+{53480}{53549}- Umiem.|- Taa. Komiksy i œwierszczyki.
+{53550}{53618}A to jest Georgina.|Ona jest moj¹ ¿on¹.
+{53634}{53683}Jak siê nazywasz?
+{53684}{53769}- Michael.|- Michael. Czy to nie ¿ydowskie imiê, Michael?
+{53769}{53871}Jesz koszerne jedzenie, Michael? Siadaj,|i opowiedz nam wszystko o koszernym jedzeniu.
+{53871}{53922}- Przykro mi, ale nie jestem ¿ydem.|- Czemu to ukrywasz?
+{53923}{54007}60% ludzi w tej restauracji|ma pochodzenie ¿ydowskie, Michael.
+{54008}{54040}Richard, nakrycie dla Michaela.
+{54041}{54142}Jest ¿ydem, mo¿e znajdziesz dla niego|coœ zamiast ¿eberek. Bez wieprzowiny.
+{54143}{54229}Nie dziêkujê.|Mieliœmy porozmawiaæ, nieprawda¿?
+{54245}{54330}Mo¿e zaczniesz, Georgie.|Opowiedz Michaelowi o sobie.
+{54331}{54398}- Myœlê, ¿a pana ¿ona wola³aby spokojnie zjeœæ.|- Nie. Mów, Georgina.
+{54399}{54466}Oto twoja szansa na doszlifowanie|konwersacji przy stole.
+{54466}{54500}Powiedz Michaelowi,|¿e mieszkasz w wielkim domu
+{54501}{54550}i tygodniowo wydajesz|400 funtów na ubrania.
+{54551}{54585}Wydajê tygodniowo|400 funtów na ubrania.
+{54585}{54652}Masz 40 funtów tygodniowo na benzynê.
+{54653}{54720}Mam 40 funtów tygodniowo na benzynê,|których nigdy nie wykorzystujê.
+{54721}{54754}- Nosisz piêkne rzeczy.|- Noszê piêkne rzeczy.
+{54754}{54823}- Jadasz w najlepszych restauracjach.|- Jadam w najlepszych restauracjach.
+{54823}{54907}Georgina, postaraj siê nieco bardziej, proszê.
+{54908}{54976}- Chodzê do dobrego fryzjera.|- Tak, najlepszego jaki jest.
+{54976}{55043}- Chodzê do dobrego dentysty.|- Tak, tak. On jest ¿ydem.
+{55044}{55095}- Chodzê do dobrego ginekologa.|- ¯e co?
+{55095}{55180}- Który mi powiedzia³, ¿e nie bêdê mog³a mieæ dzieci.|- Michael nie chce tego wiedzieæ.
+{55180}{55247}¯e trzy poronienia|zrujnowa³y mi wnêtrznoœci.
+{55248}{55298}To nie prawda,|Michael nie musi tego wiedzieæ.
+{55299}{55401}Napijmy siê, Michael, pomówmy o tobie.|Czym siê zajmujesz?
+{55418}{55469}Jestem ginekologiem.
+{55486}{55536}- Kim jesteœ?|- Zawsze mo¿esz przyjœæ do mnie.
+{55536}{55587}Nie musimy o tym dyskutowaæ.
+{55588}{55655}Bêd¹c bezpo³odna jestem|bezpieczna do r¿niêcia siê.
+{55656}{55706}Zamknij siê, Georgie!
+{55742}{55808}Muszê przeprosiæ ciê za ¿onê, Michael.
+{55809}{55892}Jeœli nie wrócisz do swojego sto³u,|ryzykujesz, ¿e ci go zajm¹.
+{55893}{55927}Sala siê powoli zape³nia.
+{55928}{55995}Mitchel, odprowadŸ Michaela do jego sto³u.|Opowiedz mu o koniach.
+{55996}{56047}Dobrze, panie Spica, dziêkujê.
+{56063}{56113}Wolê czytaæ swoj¹ ksi¹¿kê.
+{56114}{56181}Poza tym, skoñczy³em. Dziêkujê.
+{56182}{56250}Dziêkujê za przedstawienie|mnie pañskiej ¿onie.
+{56251}{56302}Podoba mi siê pani imiê.
+{57117}{57152}Och..
+{57219}{57271}Co ty wyprawiasz do diab³a?
+{57287}{57388}Opowiadasz kompletnie obcemu|o naszych intymnych sprawach?
+{57389}{57423}Nie o naszych. O moich.
+{57424}{57457}O naszych!
+{57473}{57541}I po co to wszystko,|ile czasu by³aœ w tym klopie?
+{57542}{57593}Po co to o tym ginekologu?|Kto to jest?
+{57593}{57677}Lepiej ¿eby to by³a ona. Nie chcê|¿eby jakiœ facet wk³ada³ palce moje ¿onie.
+{57678}{57730}To mê¿czyzna. Jest ¿ydem.
+{57746}{57797}- I jest z Etiopii.|- Co?
+{57814}{57882}Jego matka jest rzymsk¹ katoliczk¹,|siedzia³ w wiêzieniu w Po³udniowej Afryce,
+{57882}{57950}jest czarny jak smo³a|i pewnie pije w³asne siuœki.
+{57950}{58000}Zamknij siê suko!
+{58001}{58068}K³amiesz, niewdziêczna dziwko!|Do samochodu.
+{58069}{58102}To twoja buda, suko.
+{58103}{58171}Durny ginekolog. Pieprzony ginekolog.
+{58239}{58290}Wsiadaj. Wsiadaj.
+{58306}{58358}W³aŸ do samochodu, szmato.
+{58392}{58443}W³aŸ do œrodka, no ju¿.
+{58714}{58782}NIEDZIELA|DROBNY WYSTÊP ARTYSTYCZNY
+{58952}{58985}Maiser by³.
+{58986}{59071}I Trelawny ze swoj¹ czarn¹ przyjació³k¹,|która mia³a brzoskwinie na g³owie.
+{59072}{59105}- Brzoskwinie?|- Imitacja.
+{59105}{59190}A austriaccy bracia siedzieli przy|drzwiach - pe³en profesjonalizm
+{59191}{59241}Wielcy kombinatorzy, kupa forsy.
+{59242}{59361}A Tim Tranter pi³ tutaj zupê z fili¿anki|przez s³omkê, kiedy mia³ z³aman¹ szczêkê.
+{59361}{59445}To przesz³o do historii, kiedy|Goshy Capps rzuci³ talerzem œledzi.
+{59446}{59495}- Œledzi?|- Tak, œledzi, na litoœæ bosk¹.
+{59496}{59531}Nie znajdziesz tutaj ¿adnych œledzi.
+{59532}{59597}- Podaj¹ tutaj œledzie na œniadanie.|- Jad³aœ tu œniadanie?
+{59598}{59666}PrzewoŸnik z ¿on¹ jadali tu ka¿dego rana.
+{59666}{59733}PrzewoŸnik by³ cholerykiem.|I ryba mu nie pasowa³a.
+{59734}{59818}- Kim s¹ ci ludzie?|- Drobni oszuœci i alfonsi ...
+{59819}{59871}Kuchta to zmalowa³.|Ka¿ê mu to zrobiæ jeszcze raz.
+{59872}{59937}.. ¿igolacy, zmarnowani bokserzy,|tanie kurwy..
+{59938}{59971}Mam wycinki w domu.
+{59972}{60022}.. zabijaki, fryzjerzy, peda³y.
+{60023}{60073}- Robin Hoodzi.|- Nie, tylko "chudzi".
+{60074}{60158}Wyrabiasz siê.|Wyrabia? Nawet jego slang jest przestarza³y.
+{60159}{60226}Teraz jestem klientel¹,|rozumiesz? Ja.
+{60226}{60294}I Georgie i Cory Peterson.|Coq au vin jest dobry.
+{60295}{60362}Ku-tas - co?|Kurczak w winie, oœle.
+{60363}{60447}- Bess Riddle ¿y³a na coq au vin.|- Bardziej na "coq" ni¿ na "vin"...
+{60447}{60499}Starkie, tu s¹ panie.
+{60517}{60583}- Albo by³y. Gdzie ona posz³a?|- Gracie nie jest pani¹, wiesz?
+{60584}{60634}- Musi mieæ zapalenie pêcherza.|- Ona jest jedn¹ z nas.
+{60635}{60702}Nic z³ego w tym,|¿e znika do kibla
+{60702}{60770}A jakie zapalenie pêcherza|ty masz, Starkie?
+{60771}{60804}Panie chodz¹ do talety,|a nie do kibla.
+{60805}{60890}Prawdziwe panie nie chodz¹ do toalety,|chodz¹ do ³azienki.
+{60890}{60957}- Kuchta nie ma ³azienki.|Stul pysk.
+{60958}{61060}Zeszcza³byœ siê w gacie|zanim rozpozna³byæ porz¹dne WC.
+{61178}{61230}Z³ama³ nasz¹ ciszê.
+{61247}{61298}A ty masz na imiê Georgina.
+{61332}{61417}Tak. I nie wa¿ siê mówiæ|do mnie Georgie.
+{61452}{61502}Masz piêkne oczy, Georgino.
+{61569}{61654}A tym masz piêkny dr¹¿ek,|panie ginekologu.
+{61654}{61739}- Tak?|- Tak, co by nie wymyœla³ ten rasista.
+{61791}{61859}- Twój m¹¿ jest ciekawy.|- Naprawdê?
+{61944}{61976}Dlaczego?
+{61977}{62028}Co dlaczego?
+{62063}{62113}Dlaczego wysz³am za niego?
+{62147}{62181}Dlaczego nie jesteœ ¿onaty?
+{62181}{62265}- Sk¹d wiesz, ¿e nie jestem?|- Nie jesteœ.
+{62266}{62317}- Nie jestem.|- Dlaczego?
+{62403}{62487}Kiedyœ widzia³em film, w którym g³ówny bohater|nic nie mówi³ przez pierwsze pó³ godziny.
+{62488}{62606}Jak my? Czy te wszystkie minuty, jakie|byliœmy ze sob¹, razem dadz¹ pó³ godziny?
+{62624}{62741}By³em ca³kiem zaabsorbowany co siê stanie,|gdy¿ kompletnie wszystko by³o mo¿liwe.
+{62742}{62776}I wtedy?
+{62794}{62844}Zepsu³ to - odezwa³ siê.
+{62878}{62963}- i ...?|- W ci¹gu 5 minut straci³em zainteresowanie.
+{62964}{63065}Skoro otworzy³eœ usta, spodziewasz siê,|¿e stracê zainteresowanie?
+{63066}{63116}To by³ tylko film.
+{63184}{63252}... Teraz rozmawialiœmy minutê.
+{63269}{63336}Mamy jeszcze cztery,|zanim stracisz zainteresowanie.
+{63337}{63371}Cztery minuty. Wystarczy.
+{63371}{63405}Gdzie jest bomba?
+{63406}{63490}Je ... je avocado|vinaigrette i krewetki.
+{63557}{63592}Palcami.
+{63626}{63677}Poca³uj mnie.
+{63746}{63830}- Twoja restauracja jest g³oœna, Spica.|- Jest popularna w niedzielne wieczory.
+{63830}{63880}Lubiê ciche restauracje z wystêpami.
+{63881}{63947}Kuchta to artysta kulinarny,|nie jakiœ szo³men.
+{63948}{64000}Ale my chcemy sprawiæ ci przyjemnoœæ, Terry.|Bêdzie przedstawienie.
+{64000}{64084}Cory, zadzwoñ do Santiniego.|Piêæ dziewcz¹t - striptizerek.
+{64085}{64136}Tylko przyzwoicie?|Moja córka tu jest.
+{64137}{64203}Piêæ tañcz¹cych dziewcz¹t i muzyka.|Bez sproœnych rzeczy, tylko klasa.
+{64204}{64254}I nie g³oœno.|Chcê zachowaæ s³uch do 90-tki.
+{64254}{64339}Bo¿e, Terry, jakie wystêpy|ty lubisz? Nieme zakonnice?
+{64339}{64406}Kiedy wo³aj¹ na mnie Fitch, to mogê.|Przy ¿onie jestem tylko Terry, Spica.
+{64407}{64457}- Jak ja.|- Jesteœ Terry i tyle, prawda?
+{64458}{64526}- Jestem tylko Albert dla Georginy.|- Nawet jak jest w klopie?
+{64527}{64594}- Ucisz swoj¹ kurwê, Cory!|- Bo¿e, ale ha³aœliwy jesteœ, Spica.
+{64594}{64662}Mo¿na dostaæ niestrawnoœci.|Nie, kochanie? Jak masz na imiê?
+{64663}{64679}Patricia, panie Fitch.
+{64679}{64764}Jesteœ dobr¹ tancerk¹?|Wygl¹dasz na dobr¹ tancerkê.
+{64764}{64832}Chcielibyœmy zobaczyæ|jak tañczysz, z Geoffem.
+{64833}{64866}Geoff to bardzo dobry tancerz.
+{64867}{64934}- Tu nie wolno tañczyæ.|- Zawsze jadam w domu.
+{64934}{64967}- Najlepsze miejsce.|- ¯adnych zatruæ pokarmowych.
+{64967}{65053}Ricky Boarst jest tak pewny jak dom.|Ma bardzo czyst¹ kuchniê, idŸ i zobacz.
+{65053}{65104}Chcia³abym zobaczyæ.
+{65104}{65206}- Mitchel, zabierz panie do kuchni.|- Sam j¹ wezmê, Spica.
+{65240}{65290}- Poka¿ drogê.|- Przez tamte drzwi.
+{65291}{65376}Zadzwoniê z ³azienki|a Georgie odeœlij tout de suite.
+{65376}{65410}To znaczy zaraz.
+{65410}{65495}- Kiepska ta twoja nowa dziewczyna, Cory.|- Ona tylko æwiczy francuski.
+{65496}{65564}To francuska restaurcja, no nie?
+{65937}{65988}Ktoœ ma ba¿anta na obiad.
+{66073}{66125}1, 2, 3, 4, 5, 6, 7...
+{66141}{66209}... mog¹ nam przerywaæ ... 700 razy.
+{66243}{66344}- Ile ci p³aci twój ch³opak, Patricia?|- P³aci? On mi nie p³aci.
+{66345}{66395}On kupuje mi jedzenie i drinki.
+{66396}{66446}- Nie daje ci kieszonkowego?|- Nie.
+{66447}{66515}Nic poza kanapk¹ z tuñczykiem|w nocy czy butelk¹ ginu?
+{66515}{66582}- ¯ebyœ zapomnia³a o tym co by³o na obiad?|- Nie.
+{66583}{66634}Ale¿ tu œmierdzi.
+{66668}{66718}A co byœ powiedzia³a
+{66736}{66786}Gdybym da³ ci kieszonkowe?
+{66786}{66838}Co mia³abym zrobiæ w zamian?
+{67196}{67246}No, s¹ ju¿. Gdzie Fitch?
+{67262}{67296}Phillipe, sprz¹tnij tamte sto³y.|Potrzeba wiêcej miejsca.
+{67297}{67365}- Ale¿ Mr. Spica, oni jedz¹.|- Rusz ich.
+{67365}{67431}S¹ na drodze wystêpu.|Musisz ich przesun¹æ.
+{67432}{67466}Jesteœmy w po³owie jedzenia.
+{67467}{67568}Jeœli siê nieco pospieszysz,|zd¹¿ysz dokoñczyæ zupê.
+{67568}{67652}A po tym wszystkim nie masz|ochoty siê ruszyæ, co?
+{67653}{67705}Trzymaj go !
+{67738}{67789}Szkoda, ¿e nie|skorzysta³eœ z mojej rady.
+{67789}{67840}Ca³e to piêkne jedzenie ....|Richard bêdzie rozczarowany.
+{67841}{67941}Teraz bêdziecie musieli jeœæ w kuchni,|jak ma³e niegrzeczne dzieci, co?
+{67942}{67992}Hey, Jak siê nazywasz?
+{67993}{68060}Co powiedzia³eœ? Czy s³ysza³em William?
+{68061}{68128}No, niegrzeczny ma³y Willie,|maluteñki tyci Willie,
+{68128}{68248}co byœ powiedzia³ na zlanie|ci tego wielkiego, t³ustego ty³ka?
+{68333}{68417}Widaæ, ¿e lubisz grzybki|Richarda, William,
+{68418}{68469}Dam ci piêæ, s³ownie piêæ
+{68503}{68571}i chcê ciê widzieæ w drodze do kuchni.
+{68572}{68605}albo wylecisz na ulicê!
+{68606}{68639}Wynocha.
+{69166}{69217}- Patrz która godzina! Muszê wracaæ.|- Jeszcze minutê.
+{69218}{69268}- Nie.|- 30 sekund?
+{69540}{69590}Oh. Co ty do cholery wyprawiasz?
+{69591}{69658}Ale siê urz¹dzi³em.|Czemu siê nie zamkniesz?
+{69659}{69692}Przepraszam, to by³a niespodzianka.
+{69693}{69778}A ty mo¿esz mieæ jeszcze|jakieœ niespodzianki?
+{69778}{69829}Poddajê siê, ty suko.
+{69847}{69896}Mam doœæ tanich kurew.
+{69897}{70016}Mo¿esz byæ warta coœ dla Fitcha -|On nie dba o wygl¹d ale o dostêpnoœæ.
+{70712}{70813}- Gdzie by³aœ?|- Tylko zarabia³am dla ciebie pieni¹dze.
+{70813}{70916}A ja w³aœnie widzia³am, jak obie|mog³ybyœmy nieŸle zarobiæ.
+{71051}{71103}PONIEDZIA£EK
+{71121}{71221}Mieliœmy skargi na straszny smród|z tych samochodów na terenie restauracji.
+{71221}{71324}Restauracja nie ponosi jakiejkolwiek|odpowiedzialnoœci.
+{71324}{71358}Dlaczego nie moglibyœmy|spotkaæ siê gdzie indziej?
+{71359}{71442}To niemo¿liwe.|Lepiej robiæ to pod jego nosem.
+{71443}{71527}On nigdy nie uwierzy,|¿e robiê to pod jego nosem ...
+{71528}{71579}... w miêdzyczasie ...
+{71579}{71630}miêdzy hors d'oeuvres|a canard a I'orange,
+{71631}{71681}miêdzy deserem a kaw¹.
+{71681}{71715}Poza tym,
+{71749}{71800}Szybko siê uczê.
+{71801}{71867}Jak chodziæ na skróty,|oszczêdzaæ czas.
+{71868}{71936}Robiê siê w tym niez³a,|prawda, Michael?
+{71952}{72003}Robiê siê niez³a, prawda?
+{72021}{72072}Robiê siê niez³a? Mm.
+{72072}{72122}Czy nie robiê siê niez³a?
+{72242}{72291}Ostatni wieczór by³ ochydny|a ty da³eœ plamê, Cory.
+{72292}{72360}- Dzisiaj bêdziesz g³odny.|- I tak nie lubiê tych zagranicznych œmieci.
+{72361}{72461}Nie mów tak do mnie, niewykszta³cony chamie!|Nie zorganizowa³byœ gwa³tu w burdelu!
+{72462}{72563}Dziewczyny by³y wstrêtne, myzyka wstrêtna,|wszystko schrzani³eœ.
+{72564}{72615}Na dodatek nie umiesz upilnowaæ|w³asnej dziewczyny!
+{72616}{72667}- Najpierw siê rozbiera ...|- Ja nie ...
+{72667}{72701}Zamknij siê, do kogo ty mówisz?
+{72701}{72751}A potem idzie i gra niedostêpn¹.
+{72752}{72871}Znaczy siê, je¿eli by³a z tob¹,|to jak do cholery mo¿e byæ niedostêpna?
+{72888}{72954}Spangler, daj nam drinka, szybko.
+{72955}{73007}- Fitch to œwinia.|- Fitch ma maniery.
+{73007}{73057}By³ jak ranny niedŸwiedŸ.|Naszcza³aœ mu do spodni?
+{73058}{73124}Potem drapa³a tak, jak dziewica|bawi¹ca siê œwiec¹.
+{73125}{73210}Musisz to z nim za³atwiæ.|On ciê lubi, chocia¿ wygl¹dasz jak facet.
+{73211}{73278}- Mo¿e lubi facetów.|- Nic z tych homoseksualnych rzeczy.
+{73278}{73346}On zapamiêta.|Wczoraj wieczorem dosta³ na tym moje imiê.
+{73346}{73414}Nie pójdê z nim.|On siê poci i œmierdzi i nie mo¿e tego zrobiæ.
+{73415}{73464}- Zamknij swoj¹ dziwkê, Cory.|- Jak Georgie?
+{73465}{73516}- Zamknij siê!|- Ona jest w porz¹dku. Nigdy mnie nie zawiod³¹.
+{73516}{73567}- Chyba ¿artujesz.|- Zamknij siê, Pat!
+{73568}{73600}- Ona jest z³a.|- Co to znaczy, ¿e chyba ¿artujê?
+{73601}{73652}- Masz. PrzejedŸ siê na niej.|- Nie robiê tego kobiecie..
+{73653}{73720}- Ja robiê kobiecie co mi siê podoba.|- To twój problem.
+{73721}{73788}Nic dziwnego, ¿e Georgie wygl¹da jak wygl¹da|i nienawidzi twoich bebechów.
+{73789}{73838}- O czym ty gadasz?|- Nie dziwota, ¿e pieprzy siê w kó³ko.
+{73838}{73906}- Co?|- Jesteœ tak œlepy, ¿e nic nie zauwa¿y³eœ.
+{73907}{73958}- Zamknij siê! Ona bredzi.|- Nie. Widzia³am ich.
+{73959}{73991}- Kogo?|- Georgie i tego ¿yda.
+{73992}{74059}- Jakiego ¿yda?|- Tego faceta, co tam siedzi i czyta.
+{74060}{74128}Nie zauwa¿y³eœ?|Zawsze razem znikaj¹ do klopa.
+{74129}{74213}- Co?|- A jak myœlisz, dlaczego Georgie ci¹gle jest w kiblu?
+{74213}{74297}Œlepy jak nietoperz.|Przecie¿ nie sra co piêæ minut.
+{74298}{74332}Kurwa
+{74417}{74501}Kurrr .... W porz¹dku. W porz¹dku. Cicho.
+{74502}{74552}Kurrr .... Kurrr ....
+{74553}{74587}Kurrr ....
+{74978}{75029}Idê do sracza.
+{75181}{75215}Georgina!
+{75250}{75283}Georgina!
+{75301}{75368}Georgina, gdzie jesteœ, suko?|Georgina!
+{75369}{75435}- Co ty robisz? Spadaj!|- Wynoœ siê. Ty suko. Georgina!
+{75436}{75471}Gdzie jesteœ? Wy³aŸ!
+{75472}{75504}- No wy³aŸ!
+{75505}{75555}Gdzie jesteœ?
+{75556}{75623}- Nie, proszê!|- Wy³aŸ stamt¹d! WychodŸ, ty ...
+{75623}{75675}Proszê, nie! Proszê, nie!
+{75691}{75741}- No ju¿ ! Georgie!|- Proszê, nie.
+{75742}{75794}Gdzie jesteœ, Georgie?
+{76015}{76066}- To koniec. Dowiedzia³ siê.
+{76101}{76151}- Georgina? Georgina!
+{76202}{76252}- Georgie! wyjdŸ.
+{76286}{76336}Odwrócê jego uwagê.
+{76337}{76439}- Richard, nie rób sobie k³opotów przeze mnie.|- Georgie!
+{76440}{76507}- ChodŸmy i poka¿my mu siê.|- Zwariowa³eœ? On ciê zabije!
+{76507}{76576}ChodŸcie szybko. ChodŸcie ze mn¹.
+{76626}{76693}- Poczekajcie tu 5 minut.|- Zamarzniemy na œmieræ.
+{76694}{76796}On tutaj nigdy nie zajrzy.|Tylko 5 minut. Dam wam ubrania.
+{76864}{76931}- Georgina! Georgie, gdzie jesteœ?
+{76932}{76983}Georgie. Georgie.
+{77000}{77051}Ty! Gdzie ona jest?|Gdzie jest moja ¿ona?
+{77052}{77102}- O co chodzi?|- Ty wiesz. Czuæ jej papierosy.
+{77102}{77152}- Gdzie jest moja ¿ona?|- Pañska ¿ona to pañska sprawa.
+{77153}{77204}To nie biuro rzeczy znalezionych.
+{77204}{77237}Chcê moj¹ ¿onê! Gdzie ona jest?
+{77238}{77305}Ty g³upi ma³y szczurze.|Gdzie moja ¿ona? Gdzie ona jest?
+{77306}{77390}Jeœli pan skoñczy³,|to proszê opuœciæ kuchniê.
+{77391}{77458}- Muszê przygotowaæ inne obiady.
+{77458}{77526}Ja jestem jedynym obiadem, który siê tu liczy.|To moja restauracja.
+{77527}{77594}Chcê moj¹ ¿onê. Schowa³eœ j¹.|Gdzie ona jest?
+{77595}{77645}Bo¿e ! Gdzie oni s¹?
+{77646}{77696}Georgina! Georgina!
+{77696}{77748}- Georgina! Georgina!|- Ahh!
+{77765}{77833}Georgina! Gdzie ona jest, Boarst?
+{77866}{77952}Boarst, gdzie ona jest? Georgie! Georgie!
+{77968}{78020}Georgie, ty suko!
+{78036}{78088}Cofaj, cofaj
+{78156}{78206}Georgie! Chcê moj¹ ¿onê!
+{78360}{78394}Georgie!
+{78445}{78494}Ju¿ ja j¹ znajdê.
+{78495}{78530}Ju¿ ja j¹ znajdê.
+{78530}{78615}Znajdê ich. Ju¿ ich znajdê.|Wiedzia³em. Knuj¹ca dziwka!
+{78615}{78664}Ju¿ ja ich znajdê|Ja go kurwa zabijê!
+{78665}{78700}Ja ... ja go kurwa ze¿rê!
+{78700}{78751}Zabijê go i ze¿rê!
+{78767}{78834}- - Zabijê go a potem ze¿rê.|- O, kurwa!
+{78835}{78886}- Ze¿rê go!
+{78921}{78955}Ze¿rê go!
+{78955}{79039}Mo¿ecie ju¿ wyjœæ.|Eden was odwiezie. Dok¹d chcecie?
+{79039}{79072}Znam jedno miejsce.
+{79073}{79157}- Co z naszymi rzeczami?|- Dostarczê wam. Szybko.
+{79158}{79209}Szybko. Szybko.
+{79515}{79566}Nie, nie, nie.
+{79566}{79616}Nie, proszê. Aah! Nie.
+{81333}{81366}Co to za miejsce?
+{81367}{81418}Magazyn ksi¹¿ek.
+{81435}{81519}Kiedy moja ksiêgarnia jest zamkniêta,|robiê inwentaryzacjê.
+{81520}{81572}Katalogujê historiê francusk¹.
+{81639}{81689}Tam jest kuchnia i ³azienka.
+{81690}{81757}Trochê prymitywnie, ale jest tam|przepiêkny widok.
+{81758}{81792}Przeczyta³eœ te wszystkie ksi¹¿ki?
+{81793}{81826}Nie.
+{81844}{81927}Nie ma potrzeby, ¿eby ksiêgarz musia³|przeczytaæ ca³y magazyn.
+{81928}{82014}Z tak¹ prac¹ powinieneœ|byæ strasznie nudny.
+{82030}{82081}Jesteœmy tu bezpieczni?
+{82116}{82148}Czy Albert czyta?
+{82149}{82184}Nie.
+{82234}{82267}Je¿eli nie czytasz, to czy|stajesz siê bezpieczny?
+{82268}{82319}Tylko przed z³ymi ksi¹¿kami.
+{82354}{82404}Mog³abym tu spêdziæ|ca³e ¿ycie na czytaniu.
+{82405}{82472}Mog³abyœ.|Dwa ¿ycia - twoje i moje.
+{82506}{82557}- Czy po to tu jestem?|- Nie.
+{82642}{82709}Ile te ksi¹¿ki s¹ dla ciebie warte?|Nie móg³byœ ich zjeœæ.
+{82709}{82760}Jak mog¹ ciê uszczêœliwiaæ?
+{82761}{82811}Zawsze uwa¿a³em je|za bardzo sensowne.
+{82812}{82862}Nie zmieniaj¹ swoich pogl¹dów|kiedy nie patrzysz.
+{82863}{82930}To brzmi jak zniewaga dla mnie.
+{82966}{83015}Poca³uj mnie.
+{83015}{83067}WTOREK|STRAWA
+{83255}{83287}- Myœlê, .....
+{83288}{83338}Myœlê mo¿e ...|zrezygnujemy ze œpiewu.
+{83338}{83406}Jeœli siê zgodzisz, póŸniej mo¿e?
+{83475}{83508}Co tam w restauracji?
+{83508}{83576}- W porz¹dku.|- A Richard? Pan Boarst?
+{83594}{83644}Ma siê dobrze.
+{83645}{83712}Czy by³y jeszcze jakieœ k³opoty,
+{83712}{83764}w zwi¹zku z wczorajszym?
+{83764}{83848}- Nie, proszê pana.|- Przy³¹czysz siê do nas?
+{83866}{83950}Nie, dziêkujê.|Zjem póŸniej z panem Boarstem.
+{84172}{84205}Smacznego.
+{84206}{84240}Dziêkujê.
+{84325}{84410}Masz mo¿e jeszcze jakieœ|wiadomoœci dla nas?
+{84443}{84527}Pan Boarst mówi ... Powiedzia³ mi,|¿ebyœcie tu zostali,
+{84528}{84579}i ¿yczy³ wam bon appétit.
+{84597}{84631}Dziêkujê.
+{84767}{84834}Kiedy skoñczycie, zabiorê|z powrotem naczynia.
+{84835}{84953}O, jeœli któraœ z tych ksi¹¿ek|ci siê spodoba, mo¿esz sobie po¿yczyæ.
+{85685}{85751}No dobra, gdzie oni s¹?|Gdzie oni s¹?
+{85752}{85802}- Nie wiem.|- Nie wiesz?
+{85802}{85887}Nie s¹dzê, ¿ebyœ zjad³ sam to wszystko.|Co my tu mamy? Popatrzmy ...
+{85888}{85955}Sos do ryby w majonezie|i odrobina bazylii. Lubiê bazyliê.
+{85956}{86006}Co tu jeszcze jest? Aha.
+{86006}{86057}Lepkie. Nie mów mi.|Sos czekoladowy - profiteroles.
+{86058}{86109}Georgina lubi profiteroles.
+{86126}{86194}O i serwetki|a na nich szminka Georginy.
+{86194}{86244}I butelka dobrego wina. Bardzo dobre.
+{86245}{86312}To do kotletów, Richard.|Niech ja go dorwê w swoje rêce.
+{86313}{86380}Zostaw ten chleb. Ja muszê wiedzieæ|gdzie oni s¹. Gdzie oni s¹? Co?
+{86381}{86466}To dobre.|Otwórz buziê. No ju¿, otwieraj.
+{86482}{86534}- Zainteresuj siê swoim jedzeniem.|- Nie musimy tego robiæ.
+{86534}{86600}- Zmiêk³eœ?|- To tylko dzieciak.
+{86601}{86669}- Postaw go i opuœæ mu spodnie.|- Zostaw go.
+{86670}{86770}Wynoœ siê. Komu potrzeba takiej cioty jak ty?|I zabierz swojego czterookiego kuzyna ze sob¹.
+{86771}{86856}Ciekawe jak sobie poradzisz na ulicy|beze mnie, podcieraj¹cego ci nosek.|Spadaj! O w³aœnie.
+{86857}{86941}OK, po³ykaczu guzików,|powiedz mi gdzie oni s¹.
+{86992}{87042}OK, po³ykaczu guzików,|gdzie oni s¹.
+{87042}{87128}Skoñczy³y nam siê guziki.|Ale tu jest jeszcze jeden.
+{87128}{87179}To twój pêpek.|Chcia³byœ go po³kn¹æ?
+{87180}{87212}- Albert!|- Ty jeszcze tutaj?
+{87212}{87265}No to patrz.
+{87401}{87486}Ocuæ go! Ocuæ go, ocuæ go.|Musze siê dowiedzieæ gdzie ona jest!
+{87486}{87519}Ocuæ go!
+{87536}{87571}Ocuæ go!
+{87587}{87690}Gdzie oni s¹?|Jak dojdzie, lepiej ¿eby zacz¹³ mówiæ.
+{87808}{87841}Mam ich!
+{88623}{88675}Przynios³em wam obiad.
+{88811}{88845}Gdzie jest ch³opak kuchenny?
+{88845}{88896}- Jest w szpitalu.|- Co?
+{88963}{89048}Powiedzia³, ¿e nic im nie|powiedzia³ i ja mu wierzê.
+{89049}{89116}- Muszê go zobaczyæ.|- Nie s¹dzê, ¿eby to by³o rozs¹dne.
+{89117}{89151}Idê.
+{89168}{89218}Musisz mnie do niego zaprowadziæ.
+{89219}{89270}Pakuj siê.|- Co tu pakowaæ?
+{89304}{89353}Richard. Richard, weŸ to dla ma³ego.
+{89354}{89422}Nic nie zrobisz. Tylko siê nara¿asz.
+{89440}{89490}Nie bêdzie mnie tylko godzinê.
+{89490}{89559}Richard, odprowadzisz|mnie z powrotem?
+{89575}{89627}Biedny ch³opiec.
+{89762}{89813}Zostaw mi coœ do jedzenia.
+{89813}{89864}Oczywiœcie.
+{89882}{89932}B¹dŸ ostro¿na.
+{91088}{91122}Dziêkujê
+{91581}{91630}Chwyæ go za w³osy.
+{91631}{91665}Nie ma zbyt wiele do chwytania.
+{91666}{91733}Obrzydliwe, taki stary i jest jej kochankiem.|- W tym samym wieku co ty.
+{91734}{91818}- Jestem jej mê¿em, nie kochankiem.|- Mo¿esz byæ tylko jednym.
+{91819}{91921}Gdyby by³ m³odszy, mo¿e bym zrozumia³.|To mog³oby nawet byæ zabawne. Ty draniu!
+{91921}{91989}Tak, Mitchel, teraz masz szansê.|Bêdziesz ¿u³ jaja.
+{91989}{92039}- On jest za stary.|- Co to ma znaczyæ?
+{92040}{92091}On jest w tym samym wieku co ja|- 40, prawie.
+{92092}{92141}Gdyby by³ m³odszy, to wszystko|by³oby w porz¹dku?
+{92141}{92209}Mój Bo¿e. Jak masz 17,|to 40 oznacza staroœæ?
+{92210}{92330}- Pewnie dawno siê nie k¹pa³.|- Bo¿e, Mitchel, jesteœ pierwszorzêdnym os³em.
+{92362}{92396}Wiêc, znaczy siê, oczywiœcie ...
+{92397}{92464}- Musia³ byæ z Georgin¹ ostatniej nocy.|- Nie! Zamknij siê.
+{92465}{92514}Zamknij siê, zamknij siê, zamknij siê!
+{92515}{92567}Ty ma³y zajszczany robalu.
+{92583}{92617}Bo¿e, ale ty jesteœ idiota, Mitchel.
+{92617}{92702}Mo¿na byæ pewnym, ¿e w danej|chwili powiesz coœ Ÿle.
+{92702}{92770}Nie mia³em na myœli, ¿e dos³ownie|masz prze¿uæ jego jaja.
+{92771}{92820}To by³a metafora.
+{92821}{92854}Co to znaczy, Albert?
+{92855}{92922}"¯ydowski Ksiêgarz Sponiewierany|Przez M³odego Maniaka Seksualnego.''
+{92922}{92990}- Nie chcê, ¿eby to wygl¹da³o|na morderstwo na tle seksualnym.
+{92991}{93075}To zabójstwo z zemsty, sprawy sercowe,|zbrodnia w afekcie.
+{93076}{93143}Nie chcê z³ych plotek|wokó³ siebie.
+{93144}{93228}Na pewno stwierdz¹,|¿e by³o to honorowe zabójstwo z zemsty.
+{93229}{93280}Bêd¹ podziwiaæ styl.
+{93281}{93348}"Zosta³ zapchany. A Albert lubi³ dobre jedzenie"
+{93348}{93433}Mo¿e siê nawet uœmiechn¹.|"Zapcha³ siê przedmiotem swojej profesji."
+{93433}{93519}"Wypcha³ siê ksi¹¿kami.|wredny ma³y mól ksi¹¿kowy ..."
+{93519}{93586}Mitchel, bez niepotrzebnych ... .
+{93620}{93721}Wykoñcz go! Zamknij mu gêbê, zatkaj nos,|daj mu prze³kn¹æ te durne ksi¹¿ki.
+{93722}{93773}Uduœ drania!
+{93875}{93910}Michael!
+{94095}{94130}Michael.
+{94504}{94589}OK, ... Tak siê je raki.|Najpierw odrywasz g³owê.
+{94605}{94639}Potem w¹sy,
+{94639}{94691}potem usuwasz nó¿ki.
+{94724}{94792}A potem wyci¹gasz|miêkk¹ czêœæ cia³a.
+{94844}{94911}- Ty zgasi³eœ œwiat³o?|- Jakie œwiat³o?
+{94911}{94995}ldiota. O tym nie pomyœla³eœ.|Mog³o wszystko sp³on¹æ z tymi ksi¹¿kami.
+{94996}{95081}- To mog³oby ³adnie zniszczyæ dowody.|- Nie chcê ich niszczyæ, idioto!
+{95082}{95151}Chcê, ¿eby Georgina to widzia³a.
+{96169}{96219}Co powiedzia³?
+{96220}{96287}Rewolucja Francuska by³a ³atwiejsza|do prze³kniêcia ni¿ Napoleon.
+{96287}{96356}Napoleon by³ straszny. Wyplu³ wszystko.
+{96356}{96441}Napoleon lubi³ owoce morza.|Jego ulubionym daniem by³y ostrygi Florentine.
+{96442}{96509}Niesamowite, nie?|Churchill lubi³ owoce morza.
+{96509}{96576}Wszyscy wielcy genera³owie|gustowali w owocach morza.
+{96577}{96627}Co lubi³ Juliusz Cezar,|albo Hitler?
+{96627}{96679}Hitler lubi³ ma³¿e.|A Mussolini ka³amarnice.
+{96679}{96730}- Bajerujesz.|- Co ty wiesz, Harris?
+{96731}{96797}- Co jada³ sprzedawca ksi¹¿ek?|- Ty móg³byœ powiedzieæ z jego rzygowin.
+{96797}{96917}Co mnie obchodzi co jad³?|Wszystko w koñcu wychodzi jako gówno.
+{97206}{97256}Jestem taka zmêczona.
+{97291}{97324}Idê spaæ.
+{97579}{97647}Mam ci masê|do opowiedzenia rano.
+{97664}{97716}I chcê, ¿ebyœ s³ucha³.
+{97732}{97852}Ktoœ powinien wiedzieæ.|A komu mogê powiedzieæ, jak nie tobie?
+{97869}{97903}A wiêc ...
+{97987}{98038}gdy siê obudzê rano,
+{98089}{98141}chcê ¿ebyœ mnie poca³owa³.
+{98209}{98259}I chcê œniadanie.
+{98259}{98327}... kawê i œwie¿e bu³eczki z mas³em
+{98379}{98429}i marmoladê.
+{98429}{98464}I tosta.
+{98497}{98531}I ...
+{98565}{98616}Dobranoc, Michael.
+{98701}{98752}Zobaczymy siê rano.
+{98820}{98871}Kocham ciê.
+{98889}{98938}- Nie powinieneœ tego robiæ. Nie by³o warto.|- Ty co?
+{98939}{99005}Georgina nie by³a tego warta?|Jak œmiesz do cholery tak mówiæ?
+{99006}{99091}Georgina jest warta tysi¹ca|snobistycznych, ma³ych, ¿ydowskich ksiêgarzy.
+{99092}{99143}którzy onanizuj¹ siê do Rewolucji Francuskiej.
+{99143}{99245}Ksiêgarz wpêdzi nas w k³opoty|i nie by³ tego wart. Uspokój siê.
+{99245}{99329}Ma³a zakompleksiona miernota|pieprzy³a moj¹ ¿onê! Nie uspokojê siê!
+{99330}{99415}Widzia³em ciê Harris, mierz¹cego Georginê,|gapi¹cego siê na cudz¹ ¿onê.
+{99416}{99483}Widzia³em jak siê gapi³eœ,|kiedy podnosi³a siê jej spódnica|przy wysiadaniu z samochodu.
+{99483}{99516}Tak, widzia³em jak za ni¹ wêszy³eœ, Harris.
+{99517}{99585}I pomyœleæ, ¿e zawsze|ufa³em tobie i jej,
+{99586}{99653}¿e ufa³em ci, jak odwozi³eœ j¹|do domu kiedy by³em pijany.
+{99653}{99703}- Wynoœ siê z tej restauracji!|- Uspokój siê.
+{99704}{99771}Mitchel, daj Richarda.|Wyrzuciæ tego faceta. Wynocha!
+{99772}{99823}- Chcê krzyczeæ ...|- Mogê krzyczeæ w swojej w³asnej restauracji!
+{99823}{99925}Jestem w³aœcicielem tej restauracji.|Wynocha! Spierdalaj!
+{99926}{99993}IdŸ, ty oœle!|Richard, zamykam ciê.
+{99993}{100060}- Naprawdê?|- Jesteœ skoñczony, Richard.
+{100061}{100163}Pozwoli³eœ niektórym ludziom jadaæ|ze z³odziejami cudzych ¿on.|Jesteœ skoñczony!
+{100163}{100196}Nie s¹dzê, Mr. Spica!
+{100196}{100298}A nawet gdyby, to gdzie by pan jada³?|Kto by pana mia³?
+{100299}{100383}A teraz, je¿eli pan uprzejmie wyjdzie,|zaczniemy sprz¹taæ ten ba³agan,|jaki tu pan zrobi³.
+{100384}{100468}Ostrzegam ciê. Jutro twoja restauracja|stanie siê jednym wielkim parkingiem.
+{100469}{100518}- Niczym wiêcej.|- Ciekawe jak pan to zrobi.
+{100519}{100604}Buldo¿erem, Richard. Twoja kuchnia|znajdzie siê 20 stóp pod gruzem.
+{100605}{100654}Wynoœ siê st¹d, Harris. Wynoœ siê.
+{100655}{100756}No ju¿. Mogê powiedzieæ o lojalnoœci jak j¹ zobaczê.
+{101148}{101200}No, Michael,
+{101234}{101284}nie poca³owa³eœ mnie
+{101301}{101336}wiêc ...
+{101386}{101471}Wygl¹da, ¿e muszê sama|zrobiæ sobie œniadanie.
+{101488}{101539}Nie wstawaj jeszcze.
+{101811}{101862}Wiêc, Michael,
+{101896}{101946}to by by³o na tyle.
+{101947}{101998}Krótko i bardzo s³odko.
+{102066}{102150}Teraz mnie s³uchasz,|Myœlê, ¿e mogê ci opowiedzieæ o Albercie.
+{102151}{102253}Zamierza³am ewentualnie ci opowiedzieæ|ale musia³am ciê poznaæ lepiej, gdy¿ ...
+{102254}{102320}Có¿, poniewa¿ by³oby mi tak wstyd.
+{102338}{102457}Ale teraz to wa¿ne, abym ci opowiedzia³a,|abym to zakoñczy³a.
+{102525}{102644}Albert bije mnie. Tak, wiem, ¿e wiesz o tym.|Widzia³eœ siniaki.
+{102645}{102695}To ju¿ jego zwyczaj.
+{102763}{102829}Kiedy wróciliœmy z restauracji,|kaza³ mi zrobiæ gor¹cy, mokry rêcznik
+{102830}{102899}i ¿ebym posz³a z nim do toalety.
+{102916}{102966}I musia³am podetrzeæ mu ...
+{103018}{103086}Kiedy skoñczy³am, on ... on zrobi³ ...
+{103155}{103205}Pomó¿ mi, Michael.
+{103256}{103340}Po jego stronie ³ó¿ka by³a walizka|z ró¿nymi przedmiotami.
+{103340}{103391}Jak szczoteczka do zêbów,
+{103409}{103460}drewniana ³y¿ka,
+{103494}{103545}plastikowy poci¹g,
+{103561}{103595}butelka po winie.
+{103596}{103646}I u¿y³ ich.
+{103663}{103781}Gdybym nie zrobi³a tego na jego oczach,|sam by mnie do tego zmusi³.
+{103782}{103866}Przynajmniej kiedy zrobi³am|to sama, to mniej bola³o.
+{103867}{103986}Nie s¹dzê, ¿eby by³ zainteresowany seksem -|nie ze mn¹, nie z kobiet¹.
+{104021}{104070}Zostawia³am go cztery razy.
+{104106}{104156}Z³apa³am nocny prom.
+{104173}{104275}On i Harris znaleŸli mnie w Brukseli,|zabrali mnie z powrotem.
+{104276}{104360}Na ³odzi, Albert p³aka³,|dawa³ mi prezenty.
+{104361}{104445}Ale po tym jak przybiliœmy,|kiedy tylko znaleŸliœmy siê poza portem,
+{104445}{104496}przed autostrad¹ zatrzyma³ samochód
+{104497}{104615}i on, oraz Harris i Spangler wyci¹gneli|mnie na zewn¹trz, rozebrali i bili.
+{104683}{104717}'Michael,
+{104768}{104836}'wszystko to musi siê skoñczyæ.
+{104837}{104887}'Pomó¿ mi, proszê
+{105006}{105057}On nie ¿yje.
+{105090}{105175}Wypchali mu usta papierem|wyrwanym z jego ulubionej ksi¹¿ki.
+{105176}{105260}- Móg³byœ go przyrz¹dziæ?|- Przyrz¹dziæ kogo, Georgina?
+{105260}{105295}Michaela.
+{105295}{105346}Nie. Mon dieu, non.
+{105397}{105499}Masz reputacjê szerokiego|zakresu dañ eksperymentalnych.
+{105516}{105566}Móg³by dobrze smakowaæ.
+{105567}{105600}Jestem pewna,|¿e smakowa³by dobrze.
+{105601}{105634}Co smakowa³oby dobrze?
+{105635}{105686}Jego serce? Jego w¹troba?
+{105703}{105753}Policzki jego tylnej strony?
+{105753}{105805}... jego ostrygi preriowe?
+{105856}{105888}Georgina,
+{105889}{105923}Usi¹dŸ.
+{105941}{105975}Usi¹dŸ.
+{106026}{106127}Kiedy przygotowujesz menu,|to jak wyceniasz ka¿de danie?
+{106145}{106194}Najdro¿ej ceniê wszystko, co jest czarne.
+{106195}{106264}Winogrona, oliwki, czarn¹ porzeczkê.
+{106314}{106382}Ludzie lubi¹ przypominaæ|sobie o œmierci,
+{106382}{106467}jeœæ czarne jedzenie,|to jak konsumowaæ œmieræ,
+{106467}{106552}to jak powiedzieæ,|"Œmierci, po¿eram ciebie"
+{106586}{106654}Czarne trufle s¹ najdro¿sze.|I kawior.
+{106689}{106740}Œmieræ i narodzenie.
+{106756}{106808}Koniec i pocz¹tek.
+{106824}{106944}Nie s¹dzisz, ¿e to w³aœciwe,|¿e najdro¿sze pozycje s¹ czarne?
+{106977}{107028}Wyceniamy te¿ pró¿noœæ.
+{107029}{107096}Dania dietetyczne maj¹|dodatkow¹ mar¿ê
+{107114}{107147}30%...
+{107164}{107215}Afrodyzjaki 50%.
+{107215}{107316}Z tego, co widzia³em, twój kochanek|nie potrzebowa³ afrodyzjaków.
+{107317}{107369}Co widzia³eœ? Chcê wiedzieæ.
+{107401}{107453}Nikt nie wie, tylko ty.
+{107453}{107520}Wszyscy mi wspó³czuli, nawet ty.
+{107521}{107606}Ale sk¹d mam wiedzieæ, ¿e mnie kocha³,|skoro nie by³o œwiadków?
+{107606}{107691}Je¿eli go kocha³aœ, to chyba nie jest to|szczególnie konieczne pytanie.
+{107691}{107760}Ale¿ jest! Powiedz mi co wiesz!
+{107810}{107894}To co widzia³em, by³o tym,|co pozwoli³aœ mi zobaczyæ.
+{107895}{107945}Oczywiœcie, ¿e tak.
+{107946}{108064}Sk¹d mog³am wiedzieæ, ¿e to jawa,|skoro nikt inny tego nie widzia³?
+{108065}{108116}Powiedz mi, co widzia³eœ.
+{108133}{108201}Czy wstydzisz siê mi|o tym mówiæ?
+{108235}{108268}Nie.
+{108269}{108320}Widzia³em jak on ciê ca³owa³
+{108354}{108389}w usta,
+{108421}{108456}w szyjê,
+{108473}{108507}za uchem.
+{108574}{108626}Widzia³em, jak ciê rozbiera³.
+{108694}{108762}Widzia³em, jak ca³owa³ twoje piersi.
+{108796}{108880}Widzia³em, jak wsuwa³|rêkê miêdzy twoje nogi.
+{108897}{108949}A jak widzia³eœ mnie?
+{109000}{109067}Widzia³em, jak ca³ujesz go w usta.
+{109118}{109220}Widzia³em, jak le¿ysz pod nim|na pod³odze w spi¿arni.
+{109254}{109322}Widzia³em, jak bra³ ciê od ty³u.
+{109390}{109475}Widzia³em, jak bra³aœ jego penisa do ust.
+{109510}{109560}Widzia³em ...
+{109832}{109917}Czy kochankowie zawsze|siê tak zachowuj¹?
+{109970}{110018}Moi rodzice tak siê zachowywali.
+{110019}{110053}Tak?
+{110054}{110139}- Widzia³eœ ich?|- I kochankowie w kinie tak siê zachowuj¹.
+{110139}{110171}Nie, to siê nie liczy.
+{110172}{110256}I w moich fantazjach,|kochankowie zawsze tak siê zachowuj¹.
+{110257}{110308}By³eœ zazdrosny?
+{110309}{110359}Czy budziliœmy w tobie zazdroœæ?
+{110359}{110426}Czy chcia³eœ siê do nas przy³¹czyæ?
+{110427}{110478}- Jeœli tak, to pomó¿ mi.|- Georgina, nie.
+{110479}{110579}Na pamiêæ mi³oœci uprawianej w twojej kuchni,|i w twoich fantazjach, pomó¿ mi teraz.
+{110580}{110615}Nie.
+{110630}{110699}W pamiêci twoich rodziców kochaj¹cych siê,|pomó¿ mi teraz.
+{110699}{110749}Georgina, nie!
+{110750}{110818}Ludzie, których kocham,|poznaj¹ moje imiê za póŸno.
+{110819}{110852}Za póŸno?
+{110869}{110920}Przyrz¹dŸ Michaela dla mnie.
+{110920}{110954}Nie.
+{110970}{111021}To by³a jego ulubiona restauracja.
+{111021}{111073}Tak¿e moja.
+{111090}{111140}Przyrz¹dŸ Michaela dla mnie.
+{111140}{111190}Gdybym to zrobi³,
+{111191}{111260}to kto kiedykolwiek|jad³by tutaj?
+{111311}{111395}Jak mog³abym ciê przekonaæ|do zmiany zdania?
+{111413}{111515}Chcesz siê ze mn¹ kochaæ?|Mo¿esz robiæ to co on robi³.
+{111550}{111599}Jak mogê ciê przekonaæ?
+{111600}{111633}Nie mo¿esz. Mog³aœ go kochaæ ...
+{111634}{111700}Wiesz, ¿e kocha³am, widzia³eœ mnie.
+{111701}{111769}Ale nie musisz go zjadaæ, Georgino.
+{111770}{111837}Czy ty ... czy ci siê wydaje, ¿e jedz¹c go
+{111837}{111888}on stanie siê czêœci¹ ciebie?
+{111889}{111972}Nie mo¿esz wierzyæ, ¿e po zjedzeniu|go, na zawsze zostaniecie razem!
+{111973}{112025}Ja go nie zjem.
+{112075}{112126}- To Albert.|- Albert?
+{112211}{112262}Masz 1,000 funtów Michaela..
+{112381}{112432}Zabierz pieni¹dze.
+{112534}{112585}Gdzie on jest?
+{114132}{114200}PI¥TEK|RESTAURACJA ZAMKNIÊTA|PRZYJÊCIE
+{114370}{114404}Co siê tutaj dzieje?
+{114405}{114471}Dlaczego nagle mam wchodziæ|do w³asnej restauracji, jak ktoœ obcy?
+{114472}{114522}Specjalne zaproszenia.
+{114523}{114589}Które, ¿e tak powiem, mo¿na by³o|daæ do lepszego drukarza.
+{114590}{114658}Muszê waliæ do drzwi jak wyrzutek.
+{114658}{114710}No, no, no.
+{114710}{114795}Georgina Duckles.|Co ciê tu sprowadza, suko?
+{114812}{114862}Jestem bardzo zaskoczony,|¿e siê tu pokaza³aœ, ty dziwko.
+{114863}{114914}Gdzie by³aœ? Albert zwariowa³.
+{114930}{114980}Zamknij siê, Grace. ZnajdŸ mi drinka.
+{114981}{115050}- Szczêœliwego jubileuszu, Albert.|- Móg³bym ciê zabiæ za to, co zrobi³aœ!
+{115050}{115117}- To by³oby ³atwe.|- Nie myœl, ¿e ciê wezmê z powrotem.
+{115117}{115150}Zap³acisz mi, dziwko.
+{115151}{115234}Ty³ek bêdzie ciê|bardzo boleæ tygodniami.
+{115235}{115303}¯adnych ksi¹¿ek wiêcej, dziewczynko.|Zostaniesz pod kluczem.
+{115304}{115404}Nie bêdzie wiêcej ksi¹¿ek|ani w¹chania kwiatków, dziewczynko.
+{115405}{115456}Szczêœliwego jubileuszu, Albert.
+{115456}{115525}O czym ty mówisz?|Nie mam urodzin.
+{115525}{115644}Nie. Ale tê rocznicê zawsze bêdê obchodziæ,|nawet jeœli ty nie. A ty nie bêdziesz.
+{115644}{115712}- Co? Gdzie s¹ wszyscy?|- Bêd¹.
+{115712}{115763}- Pos³uchaj, Georgino.|- Co?
+{115763}{115815}- To ju¿ koniec.|- Czego?
+{115831}{115882}- Grace, idŸ po prostu|popatrzeæ przez okno.
+{115882}{115932}Mitchel, spadaj st¹d.
+{115933}{115984}Pos³uchaj, Georgino,|kiedy przyjd¹ inni ...
+{115985}{116034}Gdzie oni s¹?|W zaproszeniu jest dziewi¹ta.
+{116035}{116102}- Gdzie oni usi¹d¹?|- Bêd¹ tu obecni.
+{116103}{116170}Pos³uchaj, tak naprawdê|nie lubi³aœ go, prawda?
+{116171}{116272}Znaczy, jak mo¿na polubiæ|g³upiego ksiêgarza, nikogo?
+{116273}{116374}Powiem ci coœ. Spróbujê ...|Spróbujemy zapomnieæ o tym, tak?
+{116375}{116425}- Tak? ChodŸ ze mn¹.
+{116426}{116493}Powiem ci prawdê, Georgie,|By³em trochê okrutny.
+{116494}{116561}- W koñcu jest to twój jubileusz ...|- Jaki pieprzony jubileusz?
+{116561}{116612}Mam dla ciebie prezent.
+{116613}{116663}Nie potrzebujê prezentów.|To ja ci dajê prezenty.
+{116664}{116731}Poza tym, przecie¿ nigdy nie mia³aœ|pieniêdzy ¿eby mi dawaæ prezenty.
+{116732}{116798}Richard go dla ciebie sporz¹dzi³.
+{116799}{116833}- Wed³ug moich instrukcji.|- Oh?
+{116834}{116884}Wiem, jak lubisz jeœæ.
+{116902}{116952}Jak lubisz sobie dogadzaæ.
+{116952}{117037}I przyprowadziliœmy kilku|twoich znajomoych.
+{118143}{118210}Co to jest za przyjêcie, Georgie?
+{118227}{118294}- O co tu chodzi?|- Usi¹dŸ, Albercie.
+{118295}{118345}Ja nie mogê usi¹œæ, Georgino?
+{118346}{118414}Nie, to danie specjalnie dla Alberta.
+{118414}{118516}- Nie bêdê jad³ z tym Royem.|- Zamknij siê, Albert.
+{118549}{118601}Jesteœ tu by siê bawiæ.
+{118771}{118805}Georgie.
+{119094}{119127}Jezu!
+{119128}{119162}Bo¿e.
+{119230}{119298}Nie, to nie Bóg, Albercie. To Michael.
+{119316}{119364}Mój kochanek.
+{119365}{119434}Wykrzykiwa³eœ, ¿e go zabijesz|i zabi³eœ.
+{119450}{119501}I krzysza³eœ, ¿e go ze¿resz.
+{119519}{119569}Teraz jedz.
+{119604}{119637}O co chodzi?
+{119638}{119705}Masz nó¿ i widelec.|Wiesz jak ich u¿ywaæ.
+{119706}{119825}Czy zamierzasz zmarnowaæ wszystkie te|uwa¿nie wyuczone maniery przy stole?
+{119960}{120011}Mitchel mo¿e nalaæ ci drnika.
+{120130}{120181}Twój kelner wybra³.
+{120181}{120232}Grace, nalej sobie.
+{120233}{120266}Oh.
+{120318}{120368}Non, monsieur!|- Yah!
+{120674}{120726}Jedz, Albercie.
+{120742}{120794}Roy, nalej Albertowi drinka.
+{121405}{121473}Spróbuj kutasa, Albercie.|To delikates.
+{121507}{121557}No i wiesz, gdzie by³.
+{122170}{122219}Œmia³o, Albercie.
+{122220}{122254}Jedz.
+{122560}{122611}Bon appétit.
+{122629}{122679}To po francusku.
+{123121}{123155}Kanibal.
+{123275}{123376}Ten text zrobi³em sam. Niez³y wyczyn|THANX & THE END
    	 	 			 			           

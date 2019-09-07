@@ -1,4 +1,4 @@
-#include <subHandler/SubHandler.hpp>
+#include <../interface/SubHandler.hpp>
 #include <subHandler/srt/SrtHandler.hpp>
 #include <subHandler/microDvd/MicroDvdHandler.hpp>
 #include <utils/Types.hpp>
